@@ -1,0 +1,1530 @@
+Using pre-set license
+Built from '6000.0/release' branch; Version is '6000.0.35f1 (9a3bc604008a) revision 10107846'; Using compiler version '193933523'; Build Type 'Release'
+OS: 'Windows 11  (10.0.26100) 64bit CoreSingleLanguage' Language: 'tr' Physical Memory: 16122 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 1
+
+COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\6000.0.35f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+C:/Users/kaan-/OneDrive/Masaüstü/Essentials Project
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+53108
+-job-worker-count
+5
+-background-job-worker-count
+8
+-gc-helper-count
+1
+Successfully changed project path to: C:/Users/kaan-/OneDrive/Masaüstü/Essentials Project
+C:/Users/kaan-/OneDrive/Masaüstü/Essentials Project
+[UnityMemory] Configuration Parameters - Can be set up in boot.config
+    "memorysetup-bucket-allocator-granularity=16"
+    "memorysetup-bucket-allocator-bucket-count=8"
+    "memorysetup-bucket-allocator-block-size=33554432"
+    "memorysetup-bucket-allocator-block-count=8"
+    "memorysetup-main-allocator-block-size=16777216"
+    "memorysetup-thread-allocator-block-size=16777216"
+    "memorysetup-gfx-main-allocator-block-size=16777216"
+    "memorysetup-gfx-thread-allocator-block-size=16777216"
+    "memorysetup-cache-allocator-block-size=4194304"
+    "memorysetup-typetree-allocator-block-size=2097152"
+    "memorysetup-profiler-bucket-allocator-granularity=16"
+    "memorysetup-profiler-bucket-allocator-bucket-count=8"
+    "memorysetup-profiler-bucket-allocator-block-size=33554432"
+    "memorysetup-profiler-bucket-allocator-block-count=8"
+    "memorysetup-profiler-allocator-block-size=16777216"
+    "memorysetup-profiler-editor-allocator-block-size=1048576"
+    "memorysetup-temp-allocator-size-main=16777216"
+    "memorysetup-job-temp-allocator-block-size=2097152"
+    "memorysetup-job-temp-allocator-block-size-background=1048576"
+    "memorysetup-job-temp-allocator-reduction-small-platforms=262144"
+    "memorysetup-allocator-temp-initial-block-size-main=262144"
+    "memorysetup-allocator-temp-initial-block-size-worker=262144"
+    "memorysetup-temp-allocator-size-background-worker=32768"
+    "memorysetup-temp-allocator-size-job-worker=262144"
+    "memorysetup-temp-allocator-size-preload-manager=33554432"
+    "memorysetup-temp-allocator-size-nav-mesh-worker=65536"
+    "memorysetup-temp-allocator-size-audio-worker=65536"
+    "memorysetup-temp-allocator-size-cloud-worker=32768"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gfx=262144"
+Player connection [17452]  Target information:
+
+Player connection [17452]  * "[IP] 192.168.1.53 [Port] 0 [Flags] 2 [Guid] 1825772008 [EditorId] 1825772008 [Version] 1048832 [Id] WindowsEditor(7,AJOOP) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
+
+Player connection [17452] Host joined multi-casting on [225.0.0.222:54997]...
+Player connection [17452] Host joined alternative multi-casting on [225.0.0.222:34997]...
+JobSystem: Creating JobQueue using job-worker-count value 5
+Input System module state changed to: Initialized.
+[Physics::Module] Initialized fallback backend.
+[Physics::Module] Id: 0xdecafbad
+Library Redirect Path: Library/
+[Physics::Module] Selected backend.
+[Physics::Module] Name: PhysX
+[Physics::Module] Id: 0xf2b8ea05
+[Physics::Module] SDK Version: 4.1.2
+[Physics::Module] Integration Version: 1.0.0
+[Physics::Module] Threading Mode: Multi-Threaded
+Refreshing native plugins compatible for Editor in 12.40 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 6000.0.35f1 (9a3bc604008a)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/6000.0.35f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/kaan-/OneDrive/Masaüstü/Essentials Project/Assets
+GfxDevice: creating device client; kGfxThreadingModeNonThreaded
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce RTX 4050 Laptop GPU (ID=0x28a1)
+    Vendor:   NVIDIA
+    VRAM:     5921 MB
+    Driver:   32.0.15.6636
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/6000.0.35f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/6000.0.35f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/6000.0.35f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56460
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/6000.0.35f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/6000.0.35f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.008971 seconds.
+- Loaded All Assemblies, in  0.954 seconds
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.330 seconds
+Domain Reload Profiling: 1282ms
+	BeginReloadAssembly (278ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (0ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (1ms)
+	RebuildCommonClasses (57ms)
+	RebuildNativeTypeToScriptingClass (10ms)
+	initialDomainReloadingComplete (65ms)
+	LoadAllAssembliesAndSetupDomain (541ms)
+		LoadAssemblies (272ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (536ms)
+			TypeCache.Refresh (534ms)
+				TypeCache.ScanAssembly (521ms)
+			BuildScriptInfoCaches (0ms)
+			ResolveRequiredComponents (1ms)
+	FinalizeReload (330ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (270ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (28ms)
+			SetLoadedEditorAssemblies (5ms)
+			BeforeProcessingInitializeOnLoad (46ms)
+			ProcessInitializeOnLoadAttributes (148ms)
+			ProcessInitializeOnLoadMethodAttributes (43ms)
+			AfterProcessingInitializeOnLoad (0ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (0ms)
+========================================================================
+Worker process is ready to serve import requests
+Import Worker Mode flag is 0x00
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory is not a mono symbol file
+- Loaded All Assemblies, in  1.381 seconds
+Refreshing native plugins compatible for Editor in 1.66 ms, found 4 plugins.
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  1.438 seconds
+Domain Reload Profiling: 2814ms
+	BeginReloadAssembly (158ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (6ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (29ms)
+	RebuildCommonClasses (31ms)
+	RebuildNativeTypeToScriptingClass (10ms)
+	initialDomainReloadingComplete (39ms)
+	LoadAllAssembliesAndSetupDomain (1137ms)
+		LoadAssemblies (825ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (407ms)
+			TypeCache.Refresh (307ms)
+				TypeCache.ScanAssembly (280ms)
+			BuildScriptInfoCaches (85ms)
+			ResolveRequiredComponents (10ms)
+	FinalizeReload (1439ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (1226ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (3ms)
+			SetLoadedEditorAssemblies (5ms)
+			BeforeProcessingInitializeOnLoad (182ms)
+			ProcessInitializeOnLoadAttributes (792ms)
+			ProcessInitializeOnLoadMethodAttributes (237ms)
+			AfterProcessingInitializeOnLoad (6ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (8ms)
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.03 seconds
+Refreshing native plugins compatible for Editor in 2.37 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 243 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 7697 unused Assets / (5.8 MB). Loaded Objects now: 8430.
+Memory consumption went from 200.8 MB to 195.0 MB.
+Total: 12.623800 ms (FindLiveObjects: 1.504000 ms CreateObjectMapping: 0.688300 ms MarkObjects: 7.254300 ms  DeleteObjects: 3.175700 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 862786.107162 seconds.
+  path: Assets/Settings/2D Render Pipeline Asset.asset
+  artifactKey: Guid(241c371eed30a4013aab2a4f78411bfc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Settings/2D Render Pipeline Asset.asset using Guid(241c371eed30a4013aab2a4f78411bfc) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'd1674f396737f1dee73e6775336ef989') in 0.0357498 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000021 seconds.
+  path: Assets/Settings/URP-Balanced.asset
+  artifactKey: Guid(e1260c1148f6143b28bae5ace5e9c5d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Settings/URP-Balanced.asset using Guid(e1260c1148f6143b28bae5ace5e9c5d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'bf8140dc2d0d051ec9eebcff7e3db786') in 0.001154 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 1.61 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 19 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 18 unused Assets / (2.3 MB). Loaded Objects now: 8436.
+Memory consumption went from 154.3 MB to 152.0 MB.
+Total: 7.793400 ms (FindLiveObjects: 0.323400 ms CreateObjectMapping: 0.231400 ms MarkObjects: 6.822600 ms  DeleteObjects: 0.415200 ms)
+
+Prepare: number of updated asset objects reloaded= 1
+========================================================================
+Received Prepare
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory is not a mono symbol file
+- Loaded All Assemblies, in  0.964 seconds
+Refreshing native plugins compatible for Editor in 2.00 ms, found 4 plugins.
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.985 seconds
+Domain Reload Profiling: 1949ms
+	BeginReloadAssembly (233ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (17ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (62ms)
+	RebuildCommonClasses (34ms)
+	RebuildNativeTypeToScriptingClass (11ms)
+	initialDomainReloadingComplete (30ms)
+	LoadAllAssembliesAndSetupDomain (655ms)
+		LoadAssemblies (519ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (244ms)
+			TypeCache.Refresh (23ms)
+				TypeCache.ScanAssembly (13ms)
+			BuildScriptInfoCaches (202ms)
+			ResolveRequiredComponents (13ms)
+	FinalizeReload (986ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (830ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (3ms)
+			SetLoadedEditorAssemblies (4ms)
+			BeforeProcessingInitializeOnLoad (205ms)
+			ProcessInitializeOnLoadAttributes (549ms)
+			ProcessInitializeOnLoadMethodAttributes (63ms)
+			AfterProcessingInitializeOnLoad (5ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (6ms)
+Refreshing native plugins compatible for Editor in 1.84 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 5998 unused Assets / (17.9 MB). Loaded Objects now: 6486.
+Memory consumption went from 151.4 MB to 133.4 MB.
+Total: 12.362000 ms (FindLiveObjects: 0.519700 ms CreateObjectMapping: 0.524900 ms MarkObjects: 5.766800 ms  DeleteObjects: 5.548300 ms)
+
+Prepare: number of updated asset objects reloaded= 92
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 4.70 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 1 unused Assets / (69.9 KB). Loaded Objects now: 6394.
+Memory consumption went from 125.7 MB to 125.6 MB.
+Total: 9.321500 ms (FindLiveObjects: 0.454700 ms CreateObjectMapping: 0.209500 ms MarkObjects: 8.595400 ms  DeleteObjects: 0.060600 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Prepare
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory is not a mono symbol file
+- Loaded All Assemblies, in  1.095 seconds
+Refreshing native plugins compatible for Editor in 2.27 ms, found 4 plugins.
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  1.563 seconds
+Domain Reload Profiling: 2654ms
+	BeginReloadAssembly (205ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (14ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (54ms)
+	RebuildCommonClasses (37ms)
+	RebuildNativeTypeToScriptingClass (11ms)
+	initialDomainReloadingComplete (31ms)
+	LoadAllAssembliesAndSetupDomain (807ms)
+		LoadAssemblies (550ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (349ms)
+			TypeCache.Refresh (61ms)
+				TypeCache.ScanAssembly (49ms)
+			BuildScriptInfoCaches (273ms)
+			ResolveRequiredComponents (11ms)
+	FinalizeReload (1563ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (874ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (2ms)
+			SetLoadedEditorAssemblies (5ms)
+			BeforeProcessingInitializeOnLoad (229ms)
+			ProcessInitializeOnLoadAttributes (561ms)
+			ProcessInitializeOnLoadMethodAttributes (72ms)
+			AfterProcessingInitializeOnLoad (4ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (7ms)
+Refreshing native plugins compatible for Editor in 2.63 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 190 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 7722 unused Assets / (10.9 MB). Loaded Objects now: 8399.
+Memory consumption went from 180.8 MB to 169.9 MB.
+Total: 12.774000 ms (FindLiveObjects: 0.749000 ms CreateObjectMapping: 0.710000 ms MarkObjects: 5.562200 ms  DeleteObjects: 5.751000 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 2.45 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 45 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 45 unused Assets / (5.3 MB). Loaded Objects now: 8399.
+Memory consumption went from 154.9 MB to 149.7 MB.
+Total: 9.397600 ms (FindLiveObjects: 0.501700 ms CreateObjectMapping: 0.257600 ms MarkObjects: 6.148900 ms  DeleteObjects: 2.487500 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Prepare
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory is not a mono symbol file
+- Loaded All Assemblies, in  1.002 seconds
+Refreshing native plugins compatible for Editor in 2.44 ms, found 4 plugins.
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  1.312 seconds
+Domain Reload Profiling: 2313ms
+	BeginReloadAssembly (215ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (26ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (61ms)
+	RebuildCommonClasses (30ms)
+	RebuildNativeTypeToScriptingClass (10ms)
+	initialDomainReloadingComplete (30ms)
+	LoadAllAssembliesAndSetupDomain (715ms)
+		LoadAssemblies (525ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (278ms)
+			TypeCache.Refresh (9ms)
+				TypeCache.ScanAssembly (0ms)
+			BuildScriptInfoCaches (252ms)
+			ResolveRequiredComponents (11ms)
+	FinalizeReload (1313ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (1078ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (3ms)
+			SetLoadedEditorAssemblies (6ms)
+			BeforeProcessingInitializeOnLoad (247ms)
+			ProcessInitializeOnLoadAttributes (722ms)
+			ProcessInitializeOnLoadMethodAttributes (94ms)
+			AfterProcessingInitializeOnLoad (6ms)
+			EditorAssembliesLoaded (1ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (18ms)
+Refreshing native plugins compatible for Editor in 2.99 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 54 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 7721 unused Assets / (10.5 MB). Loaded Objects now: 8415.
+Memory consumption went from 173.2 MB to 162.7 MB.
+Total: 17.078600 ms (FindLiveObjects: 0.987500 ms CreateObjectMapping: 1.467400 ms MarkObjects: 8.687800 ms  DeleteObjects: 5.934300 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Import Request.
+  Time since last request: 418.725828 seconds.
+  path: Assets/QA_Books
+  artifactKey: Guid(493eef87d9441f34fa02db68e9019ad0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/QA_Books using Guid(493eef87d9441f34fa02db68e9019ad0) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'ec774b2a596c334867dfcc46fdd68f55') in 0.0165594 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Prepare
+Folder 'Packages/com.unity.cinemachine/Editor/' contains multiple assembly definition files (Packages/com.unity.cinemachine/Editor/Unity.Cinemachine.Editor.asmdef)
+Folder 'Packages/com.unity.cinemachine/Editor/' contains multiple assembly definition files (Packages/com.unity.cinemachine/Editor/com.unity.cinemachine.Editor.asmdef)
+Folder 'Packages/com.unity.cinemachine/Runtime/' contains multiple assembly definition files (Packages/com.unity.cinemachine/Runtime/com.unity.cinemachine.asmdef)
+Folder 'Packages/com.unity.cinemachine/Runtime/' contains multiple assembly definition files (Packages/com.unity.cinemachine/Runtime/Unity.Cinemachine.asmdef)
+ArgumentException: An item with the same key has already been added. Key: ba8c092d026123a418fb4bfb797a7bd8
+  at System.Collections.Generic.Dictionary`2[TKey,TValue].TryInsert (TKey key, TValue value, System.Collections.Generic.InsertionBehavior behavior) [0x0015a] in <191a1970a53948f9819ac1d2e4f5c72e>:0 
+  at System.Collections.Generic.Dictionary`2[TKey,TValue].Add (TKey key, TValue value) [0x00000] in <191a1970a53948f9819ac1d2e4f5c72e>:0 
+  at System.Linq.Enumerable.ToDictionary[TSource,TKey,TElement] (TSource[] source, System.Func`2[T,TResult] keySelector, System.Func`2[T,TResult] elementSelector, System.Collections.Generic.IEqualityComparer`1[T] comparer) [0x00029] in <51e69041cf524a30b24fbf0827a0e545>:0 
+  at System.Linq.Enumerable.ToDictionary[TSource,TKey,TElement] (System.Collections.Generic.IEnumerable`1[T] source, System.Func`2[T,TResult] keySelector, System.Func`2[T,TResult] elementSelector, System.Collections.Generic.IEqualityComparer`1[T] comparer) [0x00051] in <51e69041cf524a30b24fbf0827a0e545>:0 
+  at System.Linq.Enumerable.ToDictionary[TSource,TKey,TElement] (System.Collections.Generic.IEnumerable`1[T] source, System.Func`2[T,TResult] keySelector, System.Func`2[T,TResult] elementSelector) [0x00000] in <51e69041cf524a30b24fbf0827a0e545>:0 
+  at UnityEditor.Scripting.ScriptCompilation.AssemblyGraphBuilder.Initialize (System.Collections.Generic.IReadOnlyCollection`1[T] assemblies, System.Collections.Generic.IReadOnlyCollection`1[T] customScriptAssemblyReferences) [0x00046] in <2f9d421960d84dffaa88793de0f4b5f3>:0 
+  at UnityEditor.Scripting.ScriptCompilation.AssemblyGraphBuilderFactory.GetOrCreate (System.String projectPath, System.Collections.Generic.IReadOnlyCollection`1[T] assemblies, System.Collections.Generic.IReadOnlyCollection`1[T] customScriptAssemblyReferences) [0x00038] in <2f9d421960d84dffaa88793de0f4b5f3>:0 
+  at UnityEditor.Scripting.ScriptCompilation.EditorCompilation.GetAssemblyGraphBuilder () [0x00027] in <2f9d421960d84dffaa88793de0f4b5f3>:0 
+  at UnityEditor.Scripting.ScriptCompilation.EditorCompilation.SetAllScripts (System.String[] allScripts) [0x0000d] in <2f9d421960d84dffaa88793de0f4b5f3>:0 
+  at UnityEditor.Scripting.ScriptCompilation.EditorCompilationInterface.SetAllScripts (System.String[] allScripts) [0x00006] in <2f9d421960d84dffaa88793de0f4b5f3>:0 
+
+Folder 'Packages/com.unity.cinemachine/Editor/' contains multiple assembly definition files (Packages/com.unity.cinemachine/Editor/Unity.Cinemachine.Editor.asmdef)
+Folder 'Packages/com.unity.cinemachine/Editor/' contains multiple assembly definition files (Packages/com.unity.cinemachine/Editor/com.unity.cinemachine.Editor.asmdef)
+Folder 'Packages/com.unity.cinemachine/Runtime/' contains multiple assembly definition files (Packages/com.unity.cinemachine/Runtime/com.unity.cinemachine.asmdef)
+Folder 'Packages/com.unity.cinemachine/Runtime/' contains multiple assembly definition files (Packages/com.unity.cinemachine/Runtime/Unity.Cinemachine.asmdef)
+ArgumentException: An item with the same key has already been added. Key: ba8c092d026123a418fb4bfb797a7bd8
+  at System.Collections.Generic.Dictionary`2[TKey,TValue].TryInsert (TKey key, TValue value, System.Collections.Generic.InsertionBehavior behavior) [0x0015a] in <191a1970a53948f9819ac1d2e4f5c72e>:0 
+  at System.Collections.Generic.Dictionary`2[TKey,TValue].Add (TKey key, TValue value) [0x00000] in <191a1970a53948f9819ac1d2e4f5c72e>:0 
+  at System.Linq.Enumerable.ToDictionary[TSource,TKey,TElement] (TSource[] source, System.Func`2[T,TResult] keySelector, System.Func`2[T,TResult] elementSelector, System.Collections.Generic.IEqualityComparer`1[T] comparer) [0x00029] in <51e69041cf524a30b24fbf0827a0e545>:0 
+  at System.Linq.Enumerable.ToDictionary[TSource,TKey,TElement] (System.Collections.Generic.IEnumerable`1[T] source, System.Func`2[T,TResult] keySelector, System.Func`2[T,TResult] elementSelector, System.Collections.Generic.IEqualityComparer`1[T] comparer) [0x00051] in <51e69041cf524a30b24fbf0827a0e545>:0 
+  at System.Linq.Enumerable.ToDictionary[TSource,TKey,TElement] (System.Collections.Generic.IEnumerable`1[T] source, System.Func`2[T,TResult] keySelector, System.Func`2[T,TResult] elementSelector) [0x00000] in <51e69041cf524a30b24fbf0827a0e545>:0 
+  at UnityEditor.Scripting.ScriptCompilation.AssemblyGraphBuilder.Initialize (System.Collections.Generic.IReadOnlyCollection`1[T] assemblies, System.Collections.Generic.IReadOnlyCollection`1[T] customScriptAssemblyReferences) [0x00046] in <2f9d421960d84dffaa88793de0f4b5f3>:0 
+  at UnityEditor.Scripting.ScriptCompilation.AssemblyGraphBuilderFactory.GetOrCreate (System.String projectPath, System.Collections.Generic.IReadOnlyCollection`1[T] assemblies, System.Collections.Generic.IReadOnlyCollection`1[T] customScriptAssemblyReferences) [0x00038] in <2f9d421960d84dffaa88793de0f4b5f3>:0 
+  at UnityEditor.Scripting.ScriptCompilation.EditorCompilation.GetAssemblyGraphBuilder () [0x00027] in <2f9d421960d84dffaa88793de0f4b5f3>:0 
+  at UnityEditor.Scripting.ScriptCompilation.EditorCompilation.SetAllScripts (System.String[] allScripts) [0x0000d] in <2f9d421960d84dffaa88793de0f4b5f3>:0 
+  at UnityEditor.Scripting.ScriptCompilation.EditorCompilationInterface.SetAllScripts (System.String[] allScripts) [0x00006] in <2f9d421960d84dffaa88793de0f4b5f3>:0 
+
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory is not a mono symbol file
+- Loaded All Assemblies, in  1.183 seconds
+Folder 'Packages/com.unity.cinemachine/Editor/' contains multiple assembly definition files (Packages/com.unity.cinemachine/Editor/Unity.Cinemachine.Editor.asmdef)
+Folder 'Packages/com.unity.cinemachine/Editor/' contains multiple assembly definition files (Packages/com.unity.cinemachine/Editor/com.unity.cinemachine.Editor.asmdef)
+Folder 'Packages/com.unity.cinemachine/Runtime/' contains multiple assembly definition files (Packages/com.unity.cinemachine/Runtime/com.unity.cinemachine.asmdef)
+Folder 'Packages/com.unity.cinemachine/Runtime/' contains multiple assembly definition files (Packages/com.unity.cinemachine/Runtime/Unity.Cinemachine.asmdef)
+ArgumentException: An item with the same key has already been added. Key: ba8c092d026123a418fb4bfb797a7bd8
+  at System.Collections.Generic.Dictionary`2[TKey,TValue].TryInsert (TKey key, TValue value, System.Collections.Generic.InsertionBehavior behavior) [0x0015a] in <191a1970a53948f9819ac1d2e4f5c72e>:0 
+  at System.Collections.Generic.Dictionary`2[TKey,TValue].Add (TKey key, TValue value) [0x00000] in <191a1970a53948f9819ac1d2e4f5c72e>:0 
+  at System.Linq.Enumerable.ToDictionary[TSource,TKey,TElement] (TSource[] source, System.Func`2[T,TResult] keySelector, System.Func`2[T,TResult] elementSelector, System.Collections.Generic.IEqualityComparer`1[T] comparer) [0x00029] in <51e69041cf524a30b24fbf0827a0e545>:0 
+  at System.Linq.Enumerable.ToDictionary[TSource,TKey,TElement] (System.Collections.Generic.IEnumerable`1[T] source, System.Func`2[T,TResult] keySelector, System.Func`2[T,TResult] elementSelector, System.Collections.Generic.IEqualityComparer`1[T] comparer) [0x00051] in <51e69041cf524a30b24fbf0827a0e545>:0 
+  at System.Linq.Enumerable.ToDictionary[TSource,TKey,TElement] (System.Collections.Generic.IEnumerable`1[T] source, System.Func`2[T,TResult] keySelector, System.Func`2[T,TResult] elementSelector) [0x00000] in <51e69041cf524a30b24fbf0827a0e545>:0 
+  at UnityEditor.Scripting.ScriptCompilation.AssemblyGraphBuilder.Initialize (System.Collections.Generic.IReadOnlyCollection`1[T] assemblies, System.Collections.Generic.IReadOnlyCollection`1[T] customScriptAssemblyReferences) [0x00046] in <2f9d421960d84dffaa88793de0f4b5f3>:0 
+  at UnityEditor.Scripting.ScriptCompilation.AssemblyGraphBuilderFactory.GetOrCreate (System.String projectPath, System.Collections.Generic.IReadOnlyCollection`1[T] assemblies, System.Collections.Generic.IReadOnlyCollection`1[T] customScriptAssemblyReferences) [0x00038] in <2f9d421960d84dffaa88793de0f4b5f3>:0 
+  at UnityEditor.Scripting.ScriptCompilation.EditorCompilation.GetAssemblyGraphBuilder () [0x00027] in <2f9d421960d84dffaa88793de0f4b5f3>:0 
+  at UnityEditor.Scripting.ScriptCompilation.EditorCompilation.SetAllScripts (System.String[] allScripts) [0x0000d] in <2f9d421960d84dffaa88793de0f4b5f3>:0 
+  at UnityEditor.Scripting.ScriptCompilation.EditorCompilationInterface.SetAllScripts (System.String[] allScripts) [0x00006] in <2f9d421960d84dffaa88793de0f4b5f3>:0 
+
+'Packages/com.unity.cinemachine/Editor/Obsolete/CinemachineVirtualCameraBaseEditor.cs' contains partial class of Unity.Object, exactly 1 of the partial classes needs to be in a file with the same filename. This is to know the one that can be referenced from ie. GameObjects
+'Packages/com.unity.cinemachine/Editor/Editors/CinemachineVirtualCameraBaseEditor.cs' contains partial class of Unity.Object, exactly 1 of the partial classes needs to be in a file with the same filename. This is to know the one that can be referenced from ie. GameObjects
+Refreshing native plugins compatible for Editor in 1.62 ms, found 4 plugins.
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Folder 'Packages/com.unity.cinemachine/Editor/' contains multiple assembly definition files (Packages/com.unity.cinemachine/Editor/Unity.Cinemachine.Editor.asmdef)
+Folder 'Packages/com.unity.cinemachine/Editor/' contains multiple assembly definition files (Packages/com.unity.cinemachine/Editor/com.unity.cinemachine.Editor.asmdef)
+Folder 'Packages/com.unity.cinemachine/Runtime/' contains multiple assembly definition files (Packages/com.unity.cinemachine/Runtime/com.unity.cinemachine.asmdef)
+Folder 'Packages/com.unity.cinemachine/Runtime/' contains multiple assembly definition files (Packages/com.unity.cinemachine/Runtime/Unity.Cinemachine.asmdef)
+ArgumentException: An item with the same key has already been added. Key: ba8c092d026123a418fb4bfb797a7bd8
+  at System.Collections.Generic.Dictionary`2[TKey,TValue].TryInsert (TKey key, TValue value, System.Collections.Generic.InsertionBehavior behavior) [0x0015a] in <191a1970a53948f9819ac1d2e4f5c72e>:0 
+  at System.Collections.Generic.Dictionary`2[TKey,TValue].Add (TKey key, TValue value) [0x00000] in <191a1970a53948f9819ac1d2e4f5c72e>:0 
+  at System.Linq.Enumerable.ToDictionary[TSource,TKey,TElement] (TSource[] source, System.Func`2[T,TResult] keySelector, System.Func`2[T,TResult] elementSelector, System.Collections.Generic.IEqualityComparer`1[T] comparer) [0x00029] in <51e69041cf524a30b24fbf0827a0e545>:0 
+  at System.Linq.Enumerable.ToDictionary[TSource,TKey,TElement] (System.Collections.Generic.IEnumerable`1[T] source, System.Func`2[T,TResult] keySelector, System.Func`2[T,TResult] elementSelector, System.Collections.Generic.IEqualityComparer`1[T] comparer) [0x00051] in <51e69041cf524a30b24fbf0827a0e545>:0 
+  at System.Linq.Enumerable.ToDictionary[TSource,TKey,TElement] (System.Collections.Generic.IEnumerable`1[T] source, System.Func`2[T,TResult] keySelector, System.Func`2[T,TResult] elementSelector) [0x00000] in <51e69041cf524a30b24fbf0827a0e545>:0 
+  at UnityEditor.Scripting.ScriptCompilation.AssemblyGraphBuilder.Initialize (System.Collections.Generic.IReadOnlyCollection`1[T] assemblies, System.Collections.Generic.IReadOnlyCollection`1[T] customScriptAssemblyReferences) [0x00046] in <2f9d421960d84dffaa88793de0f4b5f3>:0 
+  at UnityEditor.Scripting.ScriptCompilation.AssemblyGraphBuilderFactory.GetOrCreate (System.String projectPath, System.Collections.Generic.IReadOnlyCollection`1[T] assemblies, System.Collections.Generic.IReadOnlyCollection`1[T] customScriptAssemblyReferences) [0x00038] in <2f9d421960d84dffaa88793de0f4b5f3>:0 
+  at UnityEditor.Scripting.ScriptCompilation.EditorCompilation.GetAssemblyGraphBuilder () [0x00027] in <2f9d421960d84dffaa88793de0f4b5f3>:0 
+  at UnityEditor.Scripting.ScriptCompilation.EditorCompilation.SetAllScripts (System.String[] allScripts) [0x0000d] in <2f9d421960d84dffaa88793de0f4b5f3>:0 
+  at UnityEditor.Scripting.ScriptCompilation.EditorCompilationInterface.SetAllScripts (System.String[] allScripts) [0x00006] in <2f9d421960d84dffaa88793de0f4b5f3>:0 
+
+Package Manager log level set to [2]
+[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Unable to send message (not connected to server process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  1.110 seconds
+Domain Reload Profiling: 2293ms
+	BeginReloadAssembly (223ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (13ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (70ms)
+	RebuildCommonClasses (32ms)
+	RebuildNativeTypeToScriptingClass (13ms)
+	initialDomainReloadingComplete (41ms)
+	LoadAllAssembliesAndSetupDomain (873ms)
+		LoadAssemblies (605ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (357ms)
+			TypeCache.Refresh (36ms)
+				TypeCache.ScanAssembly (13ms)
+			BuildScriptInfoCaches (305ms)
+			ResolveRequiredComponents (12ms)
+	FinalizeReload (1111ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (919ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (3ms)
+			SetLoadedEditorAssemblies (6ms)
+			BeforeProcessingInitializeOnLoad (138ms)
+			ProcessInitializeOnLoadAttributes (662ms)
+			ProcessInitializeOnLoadMethodAttributes (103ms)
+			AfterProcessingInitializeOnLoad (6ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (14ms)
+Refreshing native plugins compatible for Editor in 2.46 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 44 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 7932 unused Assets / (11.2 MB). Loaded Objects now: 8629.
+Memory consumption went from 173.1 MB to 161.9 MB.
+Total: 15.178800 ms (FindLiveObjects: 1.456200 ms CreateObjectMapping: 0.762500 ms MarkObjects: 6.299000 ms  DeleteObjects: 6.659100 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Prepare
+Folder 'Packages/com.unity.cinemachine/Editor/' contains multiple assembly definition files (Packages/com.unity.cinemachine/Editor/Unity.Cinemachine.Editor.asmdef)
+Folder 'Packages/com.unity.cinemachine/Editor/' contains multiple assembly definition files (Packages/com.unity.cinemachine/Editor/com.unity.cinemachine.Editor.asmdef)
+Folder 'Packages/com.unity.cinemachine/Runtime/' contains multiple assembly definition files (Packages/com.unity.cinemachine/Runtime/com.unity.cinemachine.asmdef)
+Folder 'Packages/com.unity.cinemachine/Runtime/' contains multiple assembly definition files (Packages/com.unity.cinemachine/Runtime/Unity.Cinemachine.asmdef)
+ArgumentException: An item with the same key has already been added. Key: ba8c092d026123a418fb4bfb797a7bd8
+  at System.Collections.Generic.Dictionary`2[TKey,TValue].TryInsert (TKey key, TValue value, System.Collections.Generic.InsertionBehavior behavior) [0x0015a] in <191a1970a53948f9819ac1d2e4f5c72e>:0 
+  at System.Collections.Generic.Dictionary`2[TKey,TValue].Add (TKey key, TValue value) [0x00000] in <191a1970a53948f9819ac1d2e4f5c72e>:0 
+  at System.Linq.Enumerable.ToDictionary[TSource,TKey,TElement] (TSource[] source, System.Func`2[T,TResult] keySelector, System.Func`2[T,TResult] elementSelector, System.Collections.Generic.IEqualityComparer`1[T] comparer) [0x00029] in <51e69041cf524a30b24fbf0827a0e545>:0 
+  at System.Linq.Enumerable.ToDictionary[TSource,TKey,TElement] (System.Collections.Generic.IEnumerable`1[T] source, System.Func`2[T,TResult] keySelector, System.Func`2[T,TResult] elementSelector, System.Collections.Generic.IEqualityComparer`1[T] comparer) [0x00051] in <51e69041cf524a30b24fbf0827a0e545>:0 
+  at System.Linq.Enumerable.ToDictionary[TSource,TKey,TElement] (System.Collections.Generic.IEnumerable`1[T] source, System.Func`2[T,TResult] keySelector, System.Func`2[T,TResult] elementSelector) [0x00000] in <51e69041cf524a30b24fbf0827a0e545>:0 
+  at UnityEditor.Scripting.ScriptCompilation.AssemblyGraphBuilder.Initialize (System.Collections.Generic.IReadOnlyCollection`1[T] assemblies, System.Collections.Generic.IReadOnlyCollection`1[T] customScriptAssemblyReferences) [0x00046] in <2f9d421960d84dffaa88793de0f4b5f3>:0 
+  at UnityEditor.Scripting.ScriptCompilation.AssemblyGraphBuilderFactory.GetOrCreate (System.String projectPath, System.Collections.Generic.IReadOnlyCollection`1[T] assemblies, System.Collections.Generic.IReadOnlyCollection`1[T] customScriptAssemblyReferences) [0x00038] in <2f9d421960d84dffaa88793de0f4b5f3>:0 
+  at UnityEditor.Scripting.ScriptCompilation.EditorCompilation.GetAssemblyGraphBuilder () [0x00027] in <2f9d421960d84dffaa88793de0f4b5f3>:0 
+  at UnityEditor.Scripting.ScriptCompilation.EditorCompilation.SetAllScripts (System.String[] allScripts) [0x0000d] in <2f9d421960d84dffaa88793de0f4b5f3>:0 
+  at UnityEditor.Scripting.ScriptCompilation.EditorCompilationInterface.SetAllScripts (System.String[] allScripts) [0x00006] in <2f9d421960d84dffaa88793de0f4b5f3>:0 
+
+Folder 'Packages/com.unity.cinemachine/Editor/' contains multiple assembly definition files (Packages/com.unity.cinemachine/Editor/Unity.Cinemachine.Editor.asmdef)
+Folder 'Packages/com.unity.cinemachine/Editor/' contains multiple assembly definition files (Packages/com.unity.cinemachine/Editor/com.unity.cinemachine.Editor.asmdef)
+Folder 'Packages/com.unity.cinemachine/Runtime/' contains multiple assembly definition files (Packages/com.unity.cinemachine/Runtime/com.unity.cinemachine.asmdef)
+Folder 'Packages/com.unity.cinemachine/Runtime/' contains multiple assembly definition files (Packages/com.unity.cinemachine/Runtime/Unity.Cinemachine.asmdef)
+ArgumentException: An item with the same key has already been added. Key: ba8c092d026123a418fb4bfb797a7bd8
+  at System.Collections.Generic.Dictionary`2[TKey,TValue].TryInsert (TKey key, TValue value, System.Collections.Generic.InsertionBehavior behavior) [0x0015a] in <191a1970a53948f9819ac1d2e4f5c72e>:0 
+  at System.Collections.Generic.Dictionary`2[TKey,TValue].Add (TKey key, TValue value) [0x00000] in <191a1970a53948f9819ac1d2e4f5c72e>:0 
+  at System.Linq.Enumerable.ToDictionary[TSource,TKey,TElement] (TSource[] source, System.Func`2[T,TResult] keySelector, System.Func`2[T,TResult] elementSelector, System.Collections.Generic.IEqualityComparer`1[T] comparer) [0x00029] in <51e69041cf524a30b24fbf0827a0e545>:0 
+  at System.Linq.Enumerable.ToDictionary[TSource,TKey,TElement] (System.Collections.Generic.IEnumerable`1[T] source, System.Func`2[T,TResult] keySelector, System.Func`2[T,TResult] elementSelector, System.Collections.Generic.IEqualityComparer`1[T] comparer) [0x00051] in <51e69041cf524a30b24fbf0827a0e545>:0 
+  at System.Linq.Enumerable.ToDictionary[TSource,TKey,TElement] (System.Collections.Generic.IEnumerable`1[T] source, System.Func`2[T,TResult] keySelector, System.Func`2[T,TResult] elementSelector) [0x00000] in <51e69041cf524a30b24fbf0827a0e545>:0 
+  at UnityEditor.Scripting.ScriptCompilation.AssemblyGraphBuilder.Initialize (System.Collections.Generic.IReadOnlyCollection`1[T] assemblies, System.Collections.Generic.IReadOnlyCollection`1[T] customScriptAssemblyReferences) [0x00046] in <2f9d421960d84dffaa88793de0f4b5f3>:0 
+  at UnityEditor.Scripting.ScriptCompilation.AssemblyGraphBuilderFactory.GetOrCreate (System.String projectPath, System.Collections.Generic.IReadOnlyCollection`1[T] assemblies, System.Collections.Generic.IReadOnlyCollection`1[T] customScriptAssemblyReferences) [0x00038] in <2f9d421960d84dffaa88793de0f4b5f3>:0 
+  at UnityEditor.Scripting.ScriptCompilation.EditorCompilation.GetAssemblyGraphBuilder () [0x00027] in <2f9d421960d84dffaa88793de0f4b5f3>:0 
+  at UnityEditor.Scripting.ScriptCompilation.EditorCompilation.SetAllScripts (System.String[] allScripts) [0x0000d] in <2f9d421960d84dffaa88793de0f4b5f3>:0 
+  at UnityEditor.Scripting.ScriptCompilation.EditorCompilationInterface.SetAllScripts (System.String[] allScripts) [0x00006] in <2f9d421960d84dffaa88793de0f4b5f3>:0 
+
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory is not a mono symbol file
+- Loaded All Assemblies, in  1.074 seconds
+Folder 'Packages/com.unity.cinemachine/Editor/' contains multiple assembly definition files (Packages/com.unity.cinemachine/Editor/Unity.Cinemachine.Editor.asmdef)
+Folder 'Packages/com.unity.cinemachine/Editor/' contains multiple assembly definition files (Packages/com.unity.cinemachine/Editor/com.unity.cinemachine.Editor.asmdef)
+Folder 'Packages/com.unity.cinemachine/Runtime/' contains multiple assembly definition files (Packages/com.unity.cinemachine/Runtime/com.unity.cinemachine.asmdef)
+Folder 'Packages/com.unity.cinemachine/Runtime/' contains multiple assembly definition files (Packages/com.unity.cinemachine/Runtime/Unity.Cinemachine.asmdef)
+ArgumentException: An item with the same key has already been added. Key: ba8c092d026123a418fb4bfb797a7bd8
+  at System.Collections.Generic.Dictionary`2[TKey,TValue].TryInsert (TKey key, TValue value, System.Collections.Generic.InsertionBehavior behavior) [0x0015a] in <191a1970a53948f9819ac1d2e4f5c72e>:0 
+  at System.Collections.Generic.Dictionary`2[TKey,TValue].Add (TKey key, TValue value) [0x00000] in <191a1970a53948f9819ac1d2e4f5c72e>:0 
+  at System.Linq.Enumerable.ToDictionary[TSource,TKey,TElement] (TSource[] source, System.Func`2[T,TResult] keySelector, System.Func`2[T,TResult] elementSelector, System.Collections.Generic.IEqualityComparer`1[T] comparer) [0x00029] in <51e69041cf524a30b24fbf0827a0e545>:0 
+  at System.Linq.Enumerable.ToDictionary[TSource,TKey,TElement] (System.Collections.Generic.IEnumerable`1[T] source, System.Func`2[T,TResult] keySelector, System.Func`2[T,TResult] elementSelector, System.Collections.Generic.IEqualityComparer`1[T] comparer) [0x00051] in <51e69041cf524a30b24fbf0827a0e545>:0 
+  at System.Linq.Enumerable.ToDictionary[TSource,TKey,TElement] (System.Collections.Generic.IEnumerable`1[T] source, System.Func`2[T,TResult] keySelector, System.Func`2[T,TResult] elementSelector) [0x00000] in <51e69041cf524a30b24fbf0827a0e545>:0 
+  at UnityEditor.Scripting.ScriptCompilation.AssemblyGraphBuilder.Initialize (System.Collections.Generic.IReadOnlyCollection`1[T] assemblies, System.Collections.Generic.IReadOnlyCollection`1[T] customScriptAssemblyReferences) [0x00046] in <2f9d421960d84dffaa88793de0f4b5f3>:0 
+  at UnityEditor.Scripting.ScriptCompilation.AssemblyGraphBuilderFactory.GetOrCreate (System.String projectPath, System.Collections.Generic.IReadOnlyCollection`1[T] assemblies, System.Collections.Generic.IReadOnlyCollection`1[T] customScriptAssemblyReferences) [0x00038] in <2f9d421960d84dffaa88793de0f4b5f3>:0 
+  at UnityEditor.Scripting.ScriptCompilation.EditorCompilation.GetAssemblyGraphBuilder () [0x00027] in <2f9d421960d84dffaa88793de0f4b5f3>:0 
+  at UnityEditor.Scripting.ScriptCompilation.EditorCompilation.SetAllScripts (System.String[] allScripts) [0x0000d] in <2f9d421960d84dffaa88793de0f4b5f3>:0 
+  at UnityEditor.Scripting.ScriptCompilation.EditorCompilationInterface.SetAllScripts (System.String[] allScripts) [0x00006] in <2f9d421960d84dffaa88793de0f4b5f3>:0 
+
+'Packages/com.unity.cinemachine/Editor/Obsolete/CinemachineVirtualCameraBaseEditor.cs' contains partial class of Unity.Object, exactly 1 of the partial classes needs to be in a file with the same filename. This is to know the one that can be referenced from ie. GameObjects
+'Packages/com.unity.cinemachine/Editor/Editors/CinemachineVirtualCameraBaseEditor.cs' contains partial class of Unity.Object, exactly 1 of the partial classes needs to be in a file with the same filename. This is to know the one that can be referenced from ie. GameObjects
+Refreshing native plugins compatible for Editor in 2.09 ms, found 4 plugins.
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Folder 'Packages/com.unity.cinemachine/Editor/' contains multiple assembly definition files (Packages/com.unity.cinemachine/Editor/Unity.Cinemachine.Editor.asmdef)
+Folder 'Packages/com.unity.cinemachine/Editor/' contains multiple assembly definition files (Packages/com.unity.cinemachine/Editor/com.unity.cinemachine.Editor.asmdef)
+Folder 'Packages/com.unity.cinemachine/Runtime/' contains multiple assembly definition files (Packages/com.unity.cinemachine/Runtime/com.unity.cinemachine.asmdef)
+Folder 'Packages/com.unity.cinemachine/Runtime/' contains multiple assembly definition files (Packages/com.unity.cinemachine/Runtime/Unity.Cinemachine.asmdef)
+ArgumentException: An item with the same key has already been added. Key: ba8c092d026123a418fb4bfb797a7bd8
+  at System.Collections.Generic.Dictionary`2[TKey,TValue].TryInsert (TKey key, TValue value, System.Collections.Generic.InsertionBehavior behavior) [0x0015a] in <191a1970a53948f9819ac1d2e4f5c72e>:0 
+  at System.Collections.Generic.Dictionary`2[TKey,TValue].Add (TKey key, TValue value) [0x00000] in <191a1970a53948f9819ac1d2e4f5c72e>:0 
+  at System.Linq.Enumerable.ToDictionary[TSource,TKey,TElement] (TSource[] source, System.Func`2[T,TResult] keySelector, System.Func`2[T,TResult] elementSelector, System.Collections.Generic.IEqualityComparer`1[T] comparer) [0x00029] in <51e69041cf524a30b24fbf0827a0e545>:0 
+  at System.Linq.Enumerable.ToDictionary[TSource,TKey,TElement] (System.Collections.Generic.IEnumerable`1[T] source, System.Func`2[T,TResult] keySelector, System.Func`2[T,TResult] elementSelector, System.Collections.Generic.IEqualityComparer`1[T] comparer) [0x00051] in <51e69041cf524a30b24fbf0827a0e545>:0 
+  at System.Linq.Enumerable.ToDictionary[TSource,TKey,TElement] (System.Collections.Generic.IEnumerable`1[T] source, System.Func`2[T,TResult] keySelector, System.Func`2[T,TResult] elementSelector) [0x00000] in <51e69041cf524a30b24fbf0827a0e545>:0 
+  at UnityEditor.Scripting.ScriptCompilation.AssemblyGraphBuilder.Initialize (System.Collections.Generic.IReadOnlyCollection`1[T] assemblies, System.Collections.Generic.IReadOnlyCollection`1[T] customScriptAssemblyReferences) [0x00046] in <2f9d421960d84dffaa88793de0f4b5f3>:0 
+  at UnityEditor.Scripting.ScriptCompilation.AssemblyGraphBuilderFactory.GetOrCreate (System.String projectPath, System.Collections.Generic.IReadOnlyCollection`1[T] assemblies, System.Collections.Generic.IReadOnlyCollection`1[T] customScriptAssemblyReferences) [0x00038] in <2f9d421960d84dffaa88793de0f4b5f3>:0 
+  at UnityEditor.Scripting.ScriptCompilation.EditorCompilation.GetAssemblyGraphBuilder () [0x00027] in <2f9d421960d84dffaa88793de0f4b5f3>:0 
+  at UnityEditor.Scripting.ScriptCompilation.EditorCompilation.SetAllScripts (System.String[] allScripts) [0x0000d] in <2f9d421960d84dffaa88793de0f4b5f3>:0 
+  at UnityEditor.Scripting.ScriptCompilation.EditorCompilationInterface.SetAllScripts (System.String[] allScripts) [0x00006] in <2f9d421960d84dffaa88793de0f4b5f3>:0 
+
+[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Unable to send message (not connected to server process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  1.075 seconds
+Domain Reload Profiling: 2148ms
+	BeginReloadAssembly (221ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (13ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (61ms)
+	RebuildCommonClasses (31ms)
+	RebuildNativeTypeToScriptingClass (10ms)
+	initialDomainReloadingComplete (27ms)
+	LoadAllAssembliesAndSetupDomain (783ms)
+		LoadAssemblies (595ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (292ms)
+			TypeCache.Refresh (12ms)
+				TypeCache.ScanAssembly (1ms)
+			BuildScriptInfoCaches (263ms)
+			ResolveRequiredComponents (11ms)
+	FinalizeReload (1075ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (892ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (3ms)
+			SetLoadedEditorAssemblies (5ms)
+			BeforeProcessingInitializeOnLoad (142ms)
+			ProcessInitializeOnLoadAttributes (656ms)
+			ProcessInitializeOnLoadMethodAttributes (82ms)
+			AfterProcessingInitializeOnLoad (4ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (13ms)
+Refreshing native plugins compatible for Editor in 1.43 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 44 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 7936 unused Assets / (10.4 MB). Loaded Objects now: 8636.
+Memory consumption went from 173.2 MB to 162.8 MB.
+Total: 10.554000 ms (FindLiveObjects: 0.588500 ms CreateObjectMapping: 0.537600 ms MarkObjects: 4.703600 ms  DeleteObjects: 4.723300 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Prepare
+Folder 'Packages/com.unity.cinemachine/Editor/' contains multiple assembly definition files (Packages/com.unity.cinemachine/Editor/Unity.Cinemachine.Editor.asmdef)
+Folder 'Packages/com.unity.cinemachine/Editor/' contains multiple assembly definition files (Packages/com.unity.cinemachine/Editor/com.unity.cinemachine.Editor.asmdef)
+Folder 'Packages/com.unity.cinemachine/Runtime/' contains multiple assembly definition files (Packages/com.unity.cinemachine/Runtime/com.unity.cinemachine.asmdef)
+Folder 'Packages/com.unity.cinemachine/Runtime/' contains multiple assembly definition files (Packages/com.unity.cinemachine/Runtime/Unity.Cinemachine.asmdef)
+ArgumentException: An item with the same key has already been added. Key: ba8c092d026123a418fb4bfb797a7bd8
+  at System.Collections.Generic.Dictionary`2[TKey,TValue].TryInsert (TKey key, TValue value, System.Collections.Generic.InsertionBehavior behavior) [0x0015a] in <191a1970a53948f9819ac1d2e4f5c72e>:0 
+  at System.Collections.Generic.Dictionary`2[TKey,TValue].Add (TKey key, TValue value) [0x00000] in <191a1970a53948f9819ac1d2e4f5c72e>:0 
+  at System.Linq.Enumerable.ToDictionary[TSource,TKey,TElement] (TSource[] source, System.Func`2[T,TResult] keySelector, System.Func`2[T,TResult] elementSelector, System.Collections.Generic.IEqualityComparer`1[T] comparer) [0x00029] in <51e69041cf524a30b24fbf0827a0e545>:0 
+  at System.Linq.Enumerable.ToDictionary[TSource,TKey,TElement] (System.Collections.Generic.IEnumerable`1[T] source, System.Func`2[T,TResult] keySelector, System.Func`2[T,TResult] elementSelector, System.Collections.Generic.IEqualityComparer`1[T] comparer) [0x00051] in <51e69041cf524a30b24fbf0827a0e545>:0 
+  at System.Linq.Enumerable.ToDictionary[TSource,TKey,TElement] (System.Collections.Generic.IEnumerable`1[T] source, System.Func`2[T,TResult] keySelector, System.Func`2[T,TResult] elementSelector) [0x00000] in <51e69041cf524a30b24fbf0827a0e545>:0 
+  at UnityEditor.Scripting.ScriptCompilation.AssemblyGraphBuilder.Initialize (System.Collections.Generic.IReadOnlyCollection`1[T] assemblies, System.Collections.Generic.IReadOnlyCollection`1[T] customScriptAssemblyReferences) [0x00046] in <2f9d421960d84dffaa88793de0f4b5f3>:0 
+  at UnityEditor.Scripting.ScriptCompilation.AssemblyGraphBuilderFactory.GetOrCreate (System.String projectPath, System.Collections.Generic.IReadOnlyCollection`1[T] assemblies, System.Collections.Generic.IReadOnlyCollection`1[T] customScriptAssemblyReferences) [0x00038] in <2f9d421960d84dffaa88793de0f4b5f3>:0 
+  at UnityEditor.Scripting.ScriptCompilation.EditorCompilation.GetAssemblyGraphBuilder () [0x00027] in <2f9d421960d84dffaa88793de0f4b5f3>:0 
+  at UnityEditor.Scripting.ScriptCompilation.EditorCompilation.SetAllScripts (System.String[] allScripts) [0x0000d] in <2f9d421960d84dffaa88793de0f4b5f3>:0 
+  at UnityEditor.Scripting.ScriptCompilation.EditorCompilationInterface.SetAllScripts (System.String[] allScripts) [0x00006] in <2f9d421960d84dffaa88793de0f4b5f3>:0 
+
+Folder 'Packages/com.unity.cinemachine/Editor/' contains multiple assembly definition files (Packages/com.unity.cinemachine/Editor/Unity.Cinemachine.Editor.asmdef)
+Folder 'Packages/com.unity.cinemachine/Editor/' contains multiple assembly definition files (Packages/com.unity.cinemachine/Editor/com.unity.cinemachine.Editor.asmdef)
+Folder 'Packages/com.unity.cinemachine/Runtime/' contains multiple assembly definition files (Packages/com.unity.cinemachine/Runtime/com.unity.cinemachine.asmdef)
+Folder 'Packages/com.unity.cinemachine/Runtime/' contains multiple assembly definition files (Packages/com.unity.cinemachine/Runtime/Unity.Cinemachine.asmdef)
+ArgumentException: An item with the same key has already been added. Key: ba8c092d026123a418fb4bfb797a7bd8
+  at System.Collections.Generic.Dictionary`2[TKey,TValue].TryInsert (TKey key, TValue value, System.Collections.Generic.InsertionBehavior behavior) [0x0015a] in <191a1970a53948f9819ac1d2e4f5c72e>:0 
+  at System.Collections.Generic.Dictionary`2[TKey,TValue].Add (TKey key, TValue value) [0x00000] in <191a1970a53948f9819ac1d2e4f5c72e>:0 
+  at System.Linq.Enumerable.ToDictionary[TSource,TKey,TElement] (TSource[] source, System.Func`2[T,TResult] keySelector, System.Func`2[T,TResult] elementSelector, System.Collections.Generic.IEqualityComparer`1[T] comparer) [0x00029] in <51e69041cf524a30b24fbf0827a0e545>:0 
+  at System.Linq.Enumerable.ToDictionary[TSource,TKey,TElement] (System.Collections.Generic.IEnumerable`1[T] source, System.Func`2[T,TResult] keySelector, System.Func`2[T,TResult] elementSelector, System.Collections.Generic.IEqualityComparer`1[T] comparer) [0x00051] in <51e69041cf524a30b24fbf0827a0e545>:0 
+  at System.Linq.Enumerable.ToDictionary[TSource,TKey,TElement] (System.Collections.Generic.IEnumerable`1[T] source, System.Func`2[T,TResult] keySelector, System.Func`2[T,TResult] elementSelector) [0x00000] in <51e69041cf524a30b24fbf0827a0e545>:0 
+  at UnityEditor.Scripting.ScriptCompilation.AssemblyGraphBuilder.Initialize (System.Collections.Generic.IReadOnlyCollection`1[T] assemblies, System.Collections.Generic.IReadOnlyCollection`1[T] customScriptAssemblyReferences) [0x00046] in <2f9d421960d84dffaa88793de0f4b5f3>:0 
+  at UnityEditor.Scripting.ScriptCompilation.AssemblyGraphBuilderFactory.GetOrCreate (System.String projectPath, System.Collections.Generic.IReadOnlyCollection`1[T] assemblies, System.Collections.Generic.IReadOnlyCollection`1[T] customScriptAssemblyReferences) [0x00038] in <2f9d421960d84dffaa88793de0f4b5f3>:0 
+  at UnityEditor.Scripting.ScriptCompilation.EditorCompilation.GetAssemblyGraphBuilder () [0x00027] in <2f9d421960d84dffaa88793de0f4b5f3>:0 
+  at UnityEditor.Scripting.ScriptCompilation.EditorCompilation.SetAllScripts (System.String[] allScripts) [0x0000d] in <2f9d421960d84dffaa88793de0f4b5f3>:0 
+  at UnityEditor.Scripting.ScriptCompilation.EditorCompilationInterface.SetAllScripts (System.String[] allScripts) [0x00006] in <2f9d421960d84dffaa88793de0f4b5f3>:0 
+
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory is not a mono symbol file
+- Loaded All Assemblies, in  1.073 seconds
+Folder 'Packages/com.unity.cinemachine/Editor/' contains multiple assembly definition files (Packages/com.unity.cinemachine/Editor/Unity.Cinemachine.Editor.asmdef)
+Folder 'Packages/com.unity.cinemachine/Editor/' contains multiple assembly definition files (Packages/com.unity.cinemachine/Editor/com.unity.cinemachine.Editor.asmdef)
+Folder 'Packages/com.unity.cinemachine/Runtime/' contains multiple assembly definition files (Packages/com.unity.cinemachine/Runtime/com.unity.cinemachine.asmdef)
+Folder 'Packages/com.unity.cinemachine/Runtime/' contains multiple assembly definition files (Packages/com.unity.cinemachine/Runtime/Unity.Cinemachine.asmdef)
+ArgumentException: An item with the same key has already been added. Key: ba8c092d026123a418fb4bfb797a7bd8
+  at System.Collections.Generic.Dictionary`2[TKey,TValue].TryInsert (TKey key, TValue value, System.Collections.Generic.InsertionBehavior behavior) [0x0015a] in <191a1970a53948f9819ac1d2e4f5c72e>:0 
+  at System.Collections.Generic.Dictionary`2[TKey,TValue].Add (TKey key, TValue value) [0x00000] in <191a1970a53948f9819ac1d2e4f5c72e>:0 
+  at System.Linq.Enumerable.ToDictionary[TSource,TKey,TElement] (TSource[] source, System.Func`2[T,TResult] keySelector, System.Func`2[T,TResult] elementSelector, System.Collections.Generic.IEqualityComparer`1[T] comparer) [0x00029] in <51e69041cf524a30b24fbf0827a0e545>:0 
+  at System.Linq.Enumerable.ToDictionary[TSource,TKey,TElement] (System.Collections.Generic.IEnumerable`1[T] source, System.Func`2[T,TResult] keySelector, System.Func`2[T,TResult] elementSelector, System.Collections.Generic.IEqualityComparer`1[T] comparer) [0x00051] in <51e69041cf524a30b24fbf0827a0e545>:0 
+  at System.Linq.Enumerable.ToDictionary[TSource,TKey,TElement] (System.Collections.Generic.IEnumerable`1[T] source, System.Func`2[T,TResult] keySelector, System.Func`2[T,TResult] elementSelector) [0x00000] in <51e69041cf524a30b24fbf0827a0e545>:0 
+  at UnityEditor.Scripting.ScriptCompilation.AssemblyGraphBuilder.Initialize (System.Collections.Generic.IReadOnlyCollection`1[T] assemblies, System.Collections.Generic.IReadOnlyCollection`1[T] customScriptAssemblyReferences) [0x00046] in <2f9d421960d84dffaa88793de0f4b5f3>:0 
+  at UnityEditor.Scripting.ScriptCompilation.AssemblyGraphBuilderFactory.GetOrCreate (System.String projectPath, System.Collections.Generic.IReadOnlyCollection`1[T] assemblies, System.Collections.Generic.IReadOnlyCollection`1[T] customScriptAssemblyReferences) [0x00038] in <2f9d421960d84dffaa88793de0f4b5f3>:0 
+  at UnityEditor.Scripting.ScriptCompilation.EditorCompilation.GetAssemblyGraphBuilder () [0x00027] in <2f9d421960d84dffaa88793de0f4b5f3>:0 
+  at UnityEditor.Scripting.ScriptCompilation.EditorCompilation.SetAllScripts (System.String[] allScripts) [0x0000d] in <2f9d421960d84dffaa88793de0f4b5f3>:0 
+  at UnityEditor.Scripting.ScriptCompilation.EditorCompilationInterface.SetAllScripts (System.String[] allScripts) [0x00006] in <2f9d421960d84dffaa88793de0f4b5f3>:0 
+
+'Packages/com.unity.cinemachine/Editor/Obsolete/CinemachineVirtualCameraBaseEditor.cs' contains partial class of Unity.Object, exactly 1 of the partial classes needs to be in a file with the same filename. This is to know the one that can be referenced from ie. GameObjects
+'Packages/com.unity.cinemachine/Editor/Editors/CinemachineVirtualCameraBaseEditor.cs' contains partial class of Unity.Object, exactly 1 of the partial classes needs to be in a file with the same filename. This is to know the one that can be referenced from ie. GameObjects
+Refreshing native plugins compatible for Editor in 2.70 ms, found 4 plugins.
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Folder 'Packages/com.unity.cinemachine/Editor/' contains multiple assembly definition files (Packages/com.unity.cinemachine/Editor/Unity.Cinemachine.Editor.asmdef)
+Folder 'Packages/com.unity.cinemachine/Editor/' contains multiple assembly definition files (Packages/com.unity.cinemachine/Editor/com.unity.cinemachine.Editor.asmdef)
+Folder 'Packages/com.unity.cinemachine/Runtime/' contains multiple assembly definition files (Packages/com.unity.cinemachine/Runtime/com.unity.cinemachine.asmdef)
+Folder 'Packages/com.unity.cinemachine/Runtime/' contains multiple assembly definition files (Packages/com.unity.cinemachine/Runtime/Unity.Cinemachine.asmdef)
+ArgumentException: An item with the same key has already been added. Key: ba8c092d026123a418fb4bfb797a7bd8
+  at System.Collections.Generic.Dictionary`2[TKey,TValue].TryInsert (TKey key, TValue value, System.Collections.Generic.InsertionBehavior behavior) [0x0015a] in <191a1970a53948f9819ac1d2e4f5c72e>:0 
+  at System.Collections.Generic.Dictionary`2[TKey,TValue].Add (TKey key, TValue value) [0x00000] in <191a1970a53948f9819ac1d2e4f5c72e>:0 
+  at System.Linq.Enumerable.ToDictionary[TSource,TKey,TElement] (TSource[] source, System.Func`2[T,TResult] keySelector, System.Func`2[T,TResult] elementSelector, System.Collections.Generic.IEqualityComparer`1[T] comparer) [0x00029] in <51e69041cf524a30b24fbf0827a0e545>:0 
+  at System.Linq.Enumerable.ToDictionary[TSource,TKey,TElement] (System.Collections.Generic.IEnumerable`1[T] source, System.Func`2[T,TResult] keySelector, System.Func`2[T,TResult] elementSelector, System.Collections.Generic.IEqualityComparer`1[T] comparer) [0x00051] in <51e69041cf524a30b24fbf0827a0e545>:0 
+  at System.Linq.Enumerable.ToDictionary[TSource,TKey,TElement] (System.Collections.Generic.IEnumerable`1[T] source, System.Func`2[T,TResult] keySelector, System.Func`2[T,TResult] elementSelector) [0x00000] in <51e69041cf524a30b24fbf0827a0e545>:0 
+  at UnityEditor.Scripting.ScriptCompilation.AssemblyGraphBuilder.Initialize (System.Collections.Generic.IReadOnlyCollection`1[T] assemblies, System.Collections.Generic.IReadOnlyCollection`1[T] customScriptAssemblyReferences) [0x00046] in <2f9d421960d84dffaa88793de0f4b5f3>:0 
+  at UnityEditor.Scripting.ScriptCompilation.AssemblyGraphBuilderFactory.GetOrCreate (System.String projectPath, System.Collections.Generic.IReadOnlyCollection`1[T] assemblies, System.Collections.Generic.IReadOnlyCollection`1[T] customScriptAssemblyReferences) [0x00038] in <2f9d421960d84dffaa88793de0f4b5f3>:0 
+  at UnityEditor.Scripting.ScriptCompilation.EditorCompilation.GetAssemblyGraphBuilder () [0x00027] in <2f9d421960d84dffaa88793de0f4b5f3>:0 
+  at UnityEditor.Scripting.ScriptCompilation.EditorCompilation.SetAllScripts (System.String[] allScripts) [0x0000d] in <2f9d421960d84dffaa88793de0f4b5f3>:0 
+  at UnityEditor.Scripting.ScriptCompilation.EditorCompilationInterface.SetAllScripts (System.String[] allScripts) [0x00006] in <2f9d421960d84dffaa88793de0f4b5f3>:0 
+
+[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Unable to send message (not connected to server process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  1.078 seconds
+Domain Reload Profiling: 2151ms
+	BeginReloadAssembly (234ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (14ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (70ms)
+	RebuildCommonClasses (34ms)
+	RebuildNativeTypeToScriptingClass (11ms)
+	initialDomainReloadingComplete (33ms)
+	LoadAllAssembliesAndSetupDomain (761ms)
+		LoadAssemblies (561ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (304ms)
+			TypeCache.Refresh (22ms)
+				TypeCache.ScanAssembly (11ms)
+			BuildScriptInfoCaches (264ms)
+			ResolveRequiredComponents (12ms)
+	FinalizeReload (1078ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (885ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (3ms)
+			SetLoadedEditorAssemblies (6ms)
+			BeforeProcessingInitializeOnLoad (145ms)
+			ProcessInitializeOnLoadAttributes (644ms)
+			ProcessInitializeOnLoadMethodAttributes (81ms)
+			AfterProcessingInitializeOnLoad (5ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (13ms)
+Refreshing native plugins compatible for Editor in 1.48 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 44 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 7976 unused Assets / (10.9 MB). Loaded Objects now: 8679.
+Memory consumption went from 173.3 MB to 162.4 MB.
+Total: 12.323600 ms (FindLiveObjects: 0.645800 ms CreateObjectMapping: 0.593200 ms MarkObjects: 5.192800 ms  DeleteObjects: 5.890800 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Prepare
+Folder 'Packages/com.unity.cinemachine/Editor/' contains multiple assembly definition files (Packages/com.unity.cinemachine/Editor/Unity.Cinemachine.Editor.asmdef)
+Folder 'Packages/com.unity.cinemachine/Editor/' contains multiple assembly definition files (Packages/com.unity.cinemachine/Editor/com.unity.cinemachine.Editor.asmdef)
+Folder 'Packages/com.unity.cinemachine/Runtime/' contains multiple assembly definition files (Packages/com.unity.cinemachine/Runtime/com.unity.cinemachine.asmdef)
+Folder 'Packages/com.unity.cinemachine/Runtime/' contains multiple assembly definition files (Packages/com.unity.cinemachine/Runtime/Unity.Cinemachine.asmdef)
+ArgumentException: An item with the same key has already been added. Key: ba8c092d026123a418fb4bfb797a7bd8
+  at System.Collections.Generic.Dictionary`2[TKey,TValue].TryInsert (TKey key, TValue value, System.Collections.Generic.InsertionBehavior behavior) [0x0015a] in <191a1970a53948f9819ac1d2e4f5c72e>:0 
+  at System.Collections.Generic.Dictionary`2[TKey,TValue].Add (TKey key, TValue value) [0x00000] in <191a1970a53948f9819ac1d2e4f5c72e>:0 
+  at System.Linq.Enumerable.ToDictionary[TSource,TKey,TElement] (TSource[] source, System.Func`2[T,TResult] keySelector, System.Func`2[T,TResult] elementSelector, System.Collections.Generic.IEqualityComparer`1[T] comparer) [0x00029] in <51e69041cf524a30b24fbf0827a0e545>:0 
+  at System.Linq.Enumerable.ToDictionary[TSource,TKey,TElement] (System.Collections.Generic.IEnumerable`1[T] source, System.Func`2[T,TResult] keySelector, System.Func`2[T,TResult] elementSelector, System.Collections.Generic.IEqualityComparer`1[T] comparer) [0x00051] in <51e69041cf524a30b24fbf0827a0e545>:0 
+  at System.Linq.Enumerable.ToDictionary[TSource,TKey,TElement] (System.Collections.Generic.IEnumerable`1[T] source, System.Func`2[T,TResult] keySelector, System.Func`2[T,TResult] elementSelector) [0x00000] in <51e69041cf524a30b24fbf0827a0e545>:0 
+  at UnityEditor.Scripting.ScriptCompilation.AssemblyGraphBuilder.Initialize (System.Collections.Generic.IReadOnlyCollection`1[T] assemblies, System.Collections.Generic.IReadOnlyCollection`1[T] customScriptAssemblyReferences) [0x00046] in <2f9d421960d84dffaa88793de0f4b5f3>:0 
+  at UnityEditor.Scripting.ScriptCompilation.AssemblyGraphBuilderFactory.GetOrCreate (System.String projectPath, System.Collections.Generic.IReadOnlyCollection`1[T] assemblies, System.Collections.Generic.IReadOnlyCollection`1[T] customScriptAssemblyReferences) [0x00038] in <2f9d421960d84dffaa88793de0f4b5f3>:0 
+  at UnityEditor.Scripting.ScriptCompilation.EditorCompilation.GetAssemblyGraphBuilder () [0x00027] in <2f9d421960d84dffaa88793de0f4b5f3>:0 
+  at UnityEditor.Scripting.ScriptCompilation.EditorCompilation.SetAllScripts (System.String[] allScripts) [0x0000d] in <2f9d421960d84dffaa88793de0f4b5f3>:0 
+  at UnityEditor.Scripting.ScriptCompilation.EditorCompilationInterface.SetAllScripts (System.String[] allScripts) [0x00006] in <2f9d421960d84dffaa88793de0f4b5f3>:0 
+
+Folder 'Packages/com.unity.cinemachine/Editor/' contains multiple assembly definition files (Packages/com.unity.cinemachine/Editor/Unity.Cinemachine.Editor.asmdef)
+Folder 'Packages/com.unity.cinemachine/Editor/' contains multiple assembly definition files (Packages/com.unity.cinemachine/Editor/com.unity.cinemachine.Editor.asmdef)
+Folder 'Packages/com.unity.cinemachine/Runtime/' contains multiple assembly definition files (Packages/com.unity.cinemachine/Runtime/com.unity.cinemachine.asmdef)
+Folder 'Packages/com.unity.cinemachine/Runtime/' contains multiple assembly definition files (Packages/com.unity.cinemachine/Runtime/Unity.Cinemachine.asmdef)
+ArgumentException: An item with the same key has already been added. Key: ba8c092d026123a418fb4bfb797a7bd8
+  at System.Collections.Generic.Dictionary`2[TKey,TValue].TryInsert (TKey key, TValue value, System.Collections.Generic.InsertionBehavior behavior) [0x0015a] in <191a1970a53948f9819ac1d2e4f5c72e>:0 
+  at System.Collections.Generic.Dictionary`2[TKey,TValue].Add (TKey key, TValue value) [0x00000] in <191a1970a53948f9819ac1d2e4f5c72e>:0 
+  at System.Linq.Enumerable.ToDictionary[TSource,TKey,TElement] (TSource[] source, System.Func`2[T,TResult] keySelector, System.Func`2[T,TResult] elementSelector, System.Collections.Generic.IEqualityComparer`1[T] comparer) [0x00029] in <51e69041cf524a30b24fbf0827a0e545>:0 
+  at System.Linq.Enumerable.ToDictionary[TSource,TKey,TElement] (System.Collections.Generic.IEnumerable`1[T] source, System.Func`2[T,TResult] keySelector, System.Func`2[T,TResult] elementSelector, System.Collections.Generic.IEqualityComparer`1[T] comparer) [0x00051] in <51e69041cf524a30b24fbf0827a0e545>:0 
+  at System.Linq.Enumerable.ToDictionary[TSource,TKey,TElement] (System.Collections.Generic.IEnumerable`1[T] source, System.Func`2[T,TResult] keySelector, System.Func`2[T,TResult] elementSelector) [0x00000] in <51e69041cf524a30b24fbf0827a0e545>:0 
+  at UnityEditor.Scripting.ScriptCompilation.AssemblyGraphBuilder.Initialize (System.Collections.Generic.IReadOnlyCollection`1[T] assemblies, System.Collections.Generic.IReadOnlyCollection`1[T] customScriptAssemblyReferences) [0x00046] in <2f9d421960d84dffaa88793de0f4b5f3>:0 
+  at UnityEditor.Scripting.ScriptCompilation.AssemblyGraphBuilderFactory.GetOrCreate (System.String projectPath, System.Collections.Generic.IReadOnlyCollection`1[T] assemblies, System.Collections.Generic.IReadOnlyCollection`1[T] customScriptAssemblyReferences) [0x00038] in <2f9d421960d84dffaa88793de0f4b5f3>:0 
+  at UnityEditor.Scripting.ScriptCompilation.EditorCompilation.GetAssemblyGraphBuilder () [0x00027] in <2f9d421960d84dffaa88793de0f4b5f3>:0 
+  at UnityEditor.Scripting.ScriptCompilation.EditorCompilation.SetAllScripts (System.String[] allScripts) [0x0000d] in <2f9d421960d84dffaa88793de0f4b5f3>:0 
+  at UnityEditor.Scripting.ScriptCompilation.EditorCompilationInterface.SetAllScripts (System.String[] allScripts) [0x00006] in <2f9d421960d84dffaa88793de0f4b5f3>:0 
+
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory is not a mono symbol file
+- Loaded All Assemblies, in  1.150 seconds
+Folder 'Packages/com.unity.cinemachine/Editor/' contains multiple assembly definition files (Packages/com.unity.cinemachine/Editor/Unity.Cinemachine.Editor.asmdef)
+Folder 'Packages/com.unity.cinemachine/Editor/' contains multiple assembly definition files (Packages/com.unity.cinemachine/Editor/com.unity.cinemachine.Editor.asmdef)
+Folder 'Packages/com.unity.cinemachine/Runtime/' contains multiple assembly definition files (Packages/com.unity.cinemachine/Runtime/com.unity.cinemachine.asmdef)
+Folder 'Packages/com.unity.cinemachine/Runtime/' contains multiple assembly definition files (Packages/com.unity.cinemachine/Runtime/Unity.Cinemachine.asmdef)
+ArgumentException: An item with the same key has already been added. Key: ba8c092d026123a418fb4bfb797a7bd8
+  at System.Collections.Generic.Dictionary`2[TKey,TValue].TryInsert (TKey key, TValue value, System.Collections.Generic.InsertionBehavior behavior) [0x0015a] in <191a1970a53948f9819ac1d2e4f5c72e>:0 
+  at System.Collections.Generic.Dictionary`2[TKey,TValue].Add (TKey key, TValue value) [0x00000] in <191a1970a53948f9819ac1d2e4f5c72e>:0 
+  at System.Linq.Enumerable.ToDictionary[TSource,TKey,TElement] (TSource[] source, System.Func`2[T,TResult] keySelector, System.Func`2[T,TResult] elementSelector, System.Collections.Generic.IEqualityComparer`1[T] comparer) [0x00029] in <51e69041cf524a30b24fbf0827a0e545>:0 
+  at System.Linq.Enumerable.ToDictionary[TSource,TKey,TElement] (System.Collections.Generic.IEnumerable`1[T] source, System.Func`2[T,TResult] keySelector, System.Func`2[T,TResult] elementSelector, System.Collections.Generic.IEqualityComparer`1[T] comparer) [0x00051] in <51e69041cf524a30b24fbf0827a0e545>:0 
+  at System.Linq.Enumerable.ToDictionary[TSource,TKey,TElement] (System.Collections.Generic.IEnumerable`1[T] source, System.Func`2[T,TResult] keySelector, System.Func`2[T,TResult] elementSelector) [0x00000] in <51e69041cf524a30b24fbf0827a0e545>:0 
+  at UnityEditor.Scripting.ScriptCompilation.AssemblyGraphBuilder.Initialize (System.Collections.Generic.IReadOnlyCollection`1[T] assemblies, System.Collections.Generic.IReadOnlyCollection`1[T] customScriptAssemblyReferences) [0x00046] in <2f9d421960d84dffaa88793de0f4b5f3>:0 
+  at UnityEditor.Scripting.ScriptCompilation.AssemblyGraphBuilderFactory.GetOrCreate (System.String projectPath, System.Collections.Generic.IReadOnlyCollection`1[T] assemblies, System.Collections.Generic.IReadOnlyCollection`1[T] customScriptAssemblyReferences) [0x00038] in <2f9d421960d84dffaa88793de0f4b5f3>:0 
+  at UnityEditor.Scripting.ScriptCompilation.EditorCompilation.GetAssemblyGraphBuilder () [0x00027] in <2f9d421960d84dffaa88793de0f4b5f3>:0 
+  at UnityEditor.Scripting.ScriptCompilation.EditorCompilation.SetAllScripts (System.String[] allScripts) [0x0000d] in <2f9d421960d84dffaa88793de0f4b5f3>:0 
+  at UnityEditor.Scripting.ScriptCompilation.EditorCompilationInterface.SetAllScripts (System.String[] allScripts) [0x00006] in <2f9d421960d84dffaa88793de0f4b5f3>:0 
+
+'Packages/com.unity.cinemachine/Editor/Obsolete/CinemachineVirtualCameraBaseEditor.cs' contains partial class of Unity.Object, exactly 1 of the partial classes needs to be in a file with the same filename. This is to know the one that can be referenced from ie. GameObjects
+'Packages/com.unity.cinemachine/Editor/Editors/CinemachineVirtualCameraBaseEditor.cs' contains partial class of Unity.Object, exactly 1 of the partial classes needs to be in a file with the same filename. This is to know the one that can be referenced from ie. GameObjects
+Refreshing native plugins compatible for Editor in 2.07 ms, found 4 plugins.
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Folder 'Packages/com.unity.cinemachine/Editor/' contains multiple assembly definition files (Packages/com.unity.cinemachine/Editor/Unity.Cinemachine.Editor.asmdef)
+Folder 'Packages/com.unity.cinemachine/Editor/' contains multiple assembly definition files (Packages/com.unity.cinemachine/Editor/com.unity.cinemachine.Editor.asmdef)
+Folder 'Packages/com.unity.cinemachine/Runtime/' contains multiple assembly definition files (Packages/com.unity.cinemachine/Runtime/com.unity.cinemachine.asmdef)
+Folder 'Packages/com.unity.cinemachine/Runtime/' contains multiple assembly definition files (Packages/com.unity.cinemachine/Runtime/Unity.Cinemachine.asmdef)
+ArgumentException: An item with the same key has already been added. Key: ba8c092d026123a418fb4bfb797a7bd8
+  at System.Collections.Generic.Dictionary`2[TKey,TValue].TryInsert (TKey key, TValue value, System.Collections.Generic.InsertionBehavior behavior) [0x0015a] in <191a1970a53948f9819ac1d2e4f5c72e>:0 
+  at System.Collections.Generic.Dictionary`2[TKey,TValue].Add (TKey key, TValue value) [0x00000] in <191a1970a53948f9819ac1d2e4f5c72e>:0 
+  at System.Linq.Enumerable.ToDictionary[TSource,TKey,TElement] (TSource[] source, System.Func`2[T,TResult] keySelector, System.Func`2[T,TResult] elementSelector, System.Collections.Generic.IEqualityComparer`1[T] comparer) [0x00029] in <51e69041cf524a30b24fbf0827a0e545>:0 
+  at System.Linq.Enumerable.ToDictionary[TSource,TKey,TElement] (System.Collections.Generic.IEnumerable`1[T] source, System.Func`2[T,TResult] keySelector, System.Func`2[T,TResult] elementSelector, System.Collections.Generic.IEqualityComparer`1[T] comparer) [0x00051] in <51e69041cf524a30b24fbf0827a0e545>:0 
+  at System.Linq.Enumerable.ToDictionary[TSource,TKey,TElement] (System.Collections.Generic.IEnumerable`1[T] source, System.Func`2[T,TResult] keySelector, System.Func`2[T,TResult] elementSelector) [0x00000] in <51e69041cf524a30b24fbf0827a0e545>:0 
+  at UnityEditor.Scripting.ScriptCompilation.AssemblyGraphBuilder.Initialize (System.Collections.Generic.IReadOnlyCollection`1[T] assemblies, System.Collections.Generic.IReadOnlyCollection`1[T] customScriptAssemblyReferences) [0x00046] in <2f9d421960d84dffaa88793de0f4b5f3>:0 
+  at UnityEditor.Scripting.ScriptCompilation.AssemblyGraphBuilderFactory.GetOrCreate (System.String projectPath, System.Collections.Generic.IReadOnlyCollection`1[T] assemblies, System.Collections.Generic.IReadOnlyCollection`1[T] customScriptAssemblyReferences) [0x00038] in <2f9d421960d84dffaa88793de0f4b5f3>:0 
+  at UnityEditor.Scripting.ScriptCompilation.EditorCompilation.GetAssemblyGraphBuilder () [0x00027] in <2f9d421960d84dffaa88793de0f4b5f3>:0 
+  at UnityEditor.Scripting.ScriptCompilation.EditorCompilation.SetAllScripts (System.String[] allScripts) [0x0000d] in <2f9d421960d84dffaa88793de0f4b5f3>:0 
+  at UnityEditor.Scripting.ScriptCompilation.EditorCompilationInterface.SetAllScripts (System.String[] allScripts) [0x00006] in <2f9d421960d84dffaa88793de0f4b5f3>:0 
+
+[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Unable to send message (not connected to server process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Unable to send message (not connected to server process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  1.047 seconds
+Domain Reload Profiling: 2195ms
+	BeginReloadAssembly (243ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (14ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (66ms)
+	RebuildCommonClasses (45ms)
+	RebuildNativeTypeToScriptingClass (13ms)
+	initialDomainReloadingComplete (27ms)
+	LoadAllAssembliesAndSetupDomain (819ms)
+		LoadAssemblies (621ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (317ms)
+			TypeCache.Refresh (23ms)
+				TypeCache.ScanAssembly (11ms)
+			BuildScriptInfoCaches (278ms)
+			ResolveRequiredComponents (11ms)
+	FinalizeReload (1048ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (841ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (4ms)
+			SetLoadedEditorAssemblies (5ms)
+			BeforeProcessingInitializeOnLoad (130ms)
+			ProcessInitializeOnLoadAttributes (622ms)
+			ProcessInitializeOnLoadMethodAttributes (75ms)
+			AfterProcessingInitializeOnLoad (5ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (15ms)
+Refreshing native plugins compatible for Editor in 2.74 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 44 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 7980 unused Assets / (11.3 MB). Loaded Objects now: 8686.
+Memory consumption went from 173.4 MB to 162.1 MB.
+Total: 15.601600 ms (FindLiveObjects: 0.977700 ms CreateObjectMapping: 0.932500 ms MarkObjects: 6.409400 ms  DeleteObjects: 7.279900 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Prepare
+Folder 'Packages/com.unity.cinemachine/Editor/' contains multiple assembly definition files (Packages/com.unity.cinemachine/Editor/Unity.Cinemachine.Editor.asmdef)
+Folder 'Packages/com.unity.cinemachine/Editor/' contains multiple assembly definition files (Packages/com.unity.cinemachine/Editor/com.unity.cinemachine.Editor.asmdef)
+Folder 'Packages/com.unity.cinemachine/Runtime/' contains multiple assembly definition files (Packages/com.unity.cinemachine/Runtime/com.unity.cinemachine.asmdef)
+Folder 'Packages/com.unity.cinemachine/Runtime/' contains multiple assembly definition files (Packages/com.unity.cinemachine/Runtime/Unity.Cinemachine.asmdef)
+ArgumentException: An item with the same key has already been added. Key: ba8c092d026123a418fb4bfb797a7bd8
+  at System.Collections.Generic.Dictionary`2[TKey,TValue].TryInsert (TKey key, TValue value, System.Collections.Generic.InsertionBehavior behavior) [0x0015a] in <191a1970a53948f9819ac1d2e4f5c72e>:0 
+  at System.Collections.Generic.Dictionary`2[TKey,TValue].Add (TKey key, TValue value) [0x00000] in <191a1970a53948f9819ac1d2e4f5c72e>:0 
+  at System.Linq.Enumerable.ToDictionary[TSource,TKey,TElement] (TSource[] source, System.Func`2[T,TResult] keySelector, System.Func`2[T,TResult] elementSelector, System.Collections.Generic.IEqualityComparer`1[T] comparer) [0x00029] in <51e69041cf524a30b24fbf0827a0e545>:0 
+  at System.Linq.Enumerable.ToDictionary[TSource,TKey,TElement] (System.Collections.Generic.IEnumerable`1[T] source, System.Func`2[T,TResult] keySelector, System.Func`2[T,TResult] elementSelector, System.Collections.Generic.IEqualityComparer`1[T] comparer) [0x00051] in <51e69041cf524a30b24fbf0827a0e545>:0 
+  at System.Linq.Enumerable.ToDictionary[TSource,TKey,TElement] (System.Collections.Generic.IEnumerable`1[T] source, System.Func`2[T,TResult] keySelector, System.Func`2[T,TResult] elementSelector) [0x00000] in <51e69041cf524a30b24fbf0827a0e545>:0 
+  at UnityEditor.Scripting.ScriptCompilation.AssemblyGraphBuilder.Initialize (System.Collections.Generic.IReadOnlyCollection`1[T] assemblies, System.Collections.Generic.IReadOnlyCollection`1[T] customScriptAssemblyReferences) [0x00046] in <2f9d421960d84dffaa88793de0f4b5f3>:0 
+  at UnityEditor.Scripting.ScriptCompilation.AssemblyGraphBuilderFactory.GetOrCreate (System.String projectPath, System.Collections.Generic.IReadOnlyCollection`1[T] assemblies, System.Collections.Generic.IReadOnlyCollection`1[T] customScriptAssemblyReferences) [0x00038] in <2f9d421960d84dffaa88793de0f4b5f3>:0 
+  at UnityEditor.Scripting.ScriptCompilation.EditorCompilation.GetAssemblyGraphBuilder () [0x00027] in <2f9d421960d84dffaa88793de0f4b5f3>:0 
+  at UnityEditor.Scripting.ScriptCompilation.EditorCompilation.SetAllScripts (System.String[] allScripts) [0x0000d] in <2f9d421960d84dffaa88793de0f4b5f3>:0 
+  at UnityEditor.Scripting.ScriptCompilation.EditorCompilationInterface.SetAllScripts (System.String[] allScripts) [0x00006] in <2f9d421960d84dffaa88793de0f4b5f3>:0 
+
+Folder 'Packages/com.unity.cinemachine/Editor/' contains multiple assembly definition files (Packages/com.unity.cinemachine/Editor/Unity.Cinemachine.Editor.asmdef)
+Folder 'Packages/com.unity.cinemachine/Editor/' contains multiple assembly definition files (Packages/com.unity.cinemachine/Editor/com.unity.cinemachine.Editor.asmdef)
+Folder 'Packages/com.unity.cinemachine/Runtime/' contains multiple assembly definition files (Packages/com.unity.cinemachine/Runtime/com.unity.cinemachine.asmdef)
+Folder 'Packages/com.unity.cinemachine/Runtime/' contains multiple assembly definition files (Packages/com.unity.cinemachine/Runtime/Unity.Cinemachine.asmdef)
+ArgumentException: An item with the same key has already been added. Key: ba8c092d026123a418fb4bfb797a7bd8
+  at System.Collections.Generic.Dictionary`2[TKey,TValue].TryInsert (TKey key, TValue value, System.Collections.Generic.InsertionBehavior behavior) [0x0015a] in <191a1970a53948f9819ac1d2e4f5c72e>:0 
+  at System.Collections.Generic.Dictionary`2[TKey,TValue].Add (TKey key, TValue value) [0x00000] in <191a1970a53948f9819ac1d2e4f5c72e>:0 
+  at System.Linq.Enumerable.ToDictionary[TSource,TKey,TElement] (TSource[] source, System.Func`2[T,TResult] keySelector, System.Func`2[T,TResult] elementSelector, System.Collections.Generic.IEqualityComparer`1[T] comparer) [0x00029] in <51e69041cf524a30b24fbf0827a0e545>:0 
+  at System.Linq.Enumerable.ToDictionary[TSource,TKey,TElement] (System.Collections.Generic.IEnumerable`1[T] source, System.Func`2[T,TResult] keySelector, System.Func`2[T,TResult] elementSelector, System.Collections.Generic.IEqualityComparer`1[T] comparer) [0x00051] in <51e69041cf524a30b24fbf0827a0e545>:0 
+  at System.Linq.Enumerable.ToDictionary[TSource,TKey,TElement] (System.Collections.Generic.IEnumerable`1[T] source, System.Func`2[T,TResult] keySelector, System.Func`2[T,TResult] elementSelector) [0x00000] in <51e69041cf524a30b24fbf0827a0e545>:0 
+  at UnityEditor.Scripting.ScriptCompilation.AssemblyGraphBuilder.Initialize (System.Collections.Generic.IReadOnlyCollection`1[T] assemblies, System.Collections.Generic.IReadOnlyCollection`1[T] customScriptAssemblyReferences) [0x00046] in <2f9d421960d84dffaa88793de0f4b5f3>:0 
+  at UnityEditor.Scripting.ScriptCompilation.AssemblyGraphBuilderFactory.GetOrCreate (System.String projectPath, System.Collections.Generic.IReadOnlyCollection`1[T] assemblies, System.Collections.Generic.IReadOnlyCollection`1[T] customScriptAssemblyReferences) [0x00038] in <2f9d421960d84dffaa88793de0f4b5f3>:0 
+  at UnityEditor.Scripting.ScriptCompilation.EditorCompilation.GetAssemblyGraphBuilder () [0x00027] in <2f9d421960d84dffaa88793de0f4b5f3>:0 
+  at UnityEditor.Scripting.ScriptCompilation.EditorCompilation.SetAllScripts (System.String[] allScripts) [0x0000d] in <2f9d421960d84dffaa88793de0f4b5f3>:0 
+  at UnityEditor.Scripting.ScriptCompilation.EditorCompilationInterface.SetAllScripts (System.String[] allScripts) [0x00006] in <2f9d421960d84dffaa88793de0f4b5f3>:0 
+
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory is not a mono symbol file
+- Loaded All Assemblies, in  1.229 seconds
+Folder 'Packages/com.unity.cinemachine/Editor/' contains multiple assembly definition files (Packages/com.unity.cinemachine/Editor/Unity.Cinemachine.Editor.asmdef)
+Folder 'Packages/com.unity.cinemachine/Editor/' contains multiple assembly definition files (Packages/com.unity.cinemachine/Editor/com.unity.cinemachine.Editor.asmdef)
+Folder 'Packages/com.unity.cinemachine/Runtime/' contains multiple assembly definition files (Packages/com.unity.cinemachine/Runtime/com.unity.cinemachine.asmdef)
+Folder 'Packages/com.unity.cinemachine/Runtime/' contains multiple assembly definition files (Packages/com.unity.cinemachine/Runtime/Unity.Cinemachine.asmdef)
+ArgumentException: An item with the same key has already been added. Key: ba8c092d026123a418fb4bfb797a7bd8
+  at System.Collections.Generic.Dictionary`2[TKey,TValue].TryInsert (TKey key, TValue value, System.Collections.Generic.InsertionBehavior behavior) [0x0015a] in <191a1970a53948f9819ac1d2e4f5c72e>:0 
+  at System.Collections.Generic.Dictionary`2[TKey,TValue].Add (TKey key, TValue value) [0x00000] in <191a1970a53948f9819ac1d2e4f5c72e>:0 
+  at System.Linq.Enumerable.ToDictionary[TSource,TKey,TElement] (TSource[] source, System.Func`2[T,TResult] keySelector, System.Func`2[T,TResult] elementSelector, System.Collections.Generic.IEqualityComparer`1[T] comparer) [0x00029] in <51e69041cf524a30b24fbf0827a0e545>:0 
+  at System.Linq.Enumerable.ToDictionary[TSource,TKey,TElement] (System.Collections.Generic.IEnumerable`1[T] source, System.Func`2[T,TResult] keySelector, System.Func`2[T,TResult] elementSelector, System.Collections.Generic.IEqualityComparer`1[T] comparer) [0x00051] in <51e69041cf524a30b24fbf0827a0e545>:0 
+  at System.Linq.Enumerable.ToDictionary[TSource,TKey,TElement] (System.Collections.Generic.IEnumerable`1[T] source, System.Func`2[T,TResult] keySelector, System.Func`2[T,TResult] elementSelector) [0x00000] in <51e69041cf524a30b24fbf0827a0e545>:0 
+  at UnityEditor.Scripting.ScriptCompilation.AssemblyGraphBuilder.Initialize (System.Collections.Generic.IReadOnlyCollection`1[T] assemblies, System.Collections.Generic.IReadOnlyCollection`1[T] customScriptAssemblyReferences) [0x00046] in <2f9d421960d84dffaa88793de0f4b5f3>:0 
+  at UnityEditor.Scripting.ScriptCompilation.AssemblyGraphBuilderFactory.GetOrCreate (System.String projectPath, System.Collections.Generic.IReadOnlyCollection`1[T] assemblies, System.Collections.Generic.IReadOnlyCollection`1[T] customScriptAssemblyReferences) [0x00038] in <2f9d421960d84dffaa88793de0f4b5f3>:0 
+  at UnityEditor.Scripting.ScriptCompilation.EditorCompilation.GetAssemblyGraphBuilder () [0x00027] in <2f9d421960d84dffaa88793de0f4b5f3>:0 
+  at UnityEditor.Scripting.ScriptCompilation.EditorCompilation.SetAllScripts (System.String[] allScripts) [0x0000d] in <2f9d421960d84dffaa88793de0f4b5f3>:0 
+  at UnityEditor.Scripting.ScriptCompilation.EditorCompilationInterface.SetAllScripts (System.String[] allScripts) [0x00006] in <2f9d421960d84dffaa88793de0f4b5f3>:0 
+
+'Packages/com.unity.cinemachine/Editor/Obsolete/CinemachineVirtualCameraBaseEditor.cs' contains partial class of Unity.Object, exactly 1 of the partial classes needs to be in a file with the same filename. This is to know the one that can be referenced from ie. GameObjects
+'Packages/com.unity.cinemachine/Editor/Editors/CinemachineVirtualCameraBaseEditor.cs' contains partial class of Unity.Object, exactly 1 of the partial classes needs to be in a file with the same filename. This is to know the one that can be referenced from ie. GameObjects
+Refreshing native plugins compatible for Editor in 1.74 ms, found 4 plugins.
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Folder 'Packages/com.unity.cinemachine/Editor/' contains multiple assembly definition files (Packages/com.unity.cinemachine/Editor/Unity.Cinemachine.Editor.asmdef)
+Folder 'Packages/com.unity.cinemachine/Editor/' contains multiple assembly definition files (Packages/com.unity.cinemachine/Editor/com.unity.cinemachine.Editor.asmdef)
+Folder 'Packages/com.unity.cinemachine/Runtime/' contains multiple assembly definition files (Packages/com.unity.cinemachine/Runtime/com.unity.cinemachine.asmdef)
+Folder 'Packages/com.unity.cinemachine/Runtime/' contains multiple assembly definition files (Packages/com.unity.cinemachine/Runtime/Unity.Cinemachine.asmdef)
+ArgumentException: An item with the same key has already been added. Key: ba8c092d026123a418fb4bfb797a7bd8
+  at System.Collections.Generic.Dictionary`2[TKey,TValue].TryInsert (TKey key, TValue value, System.Collections.Generic.InsertionBehavior behavior) [0x0015a] in <191a1970a53948f9819ac1d2e4f5c72e>:0 
+  at System.Collections.Generic.Dictionary`2[TKey,TValue].Add (TKey key, TValue value) [0x00000] in <191a1970a53948f9819ac1d2e4f5c72e>:0 
+  at System.Linq.Enumerable.ToDictionary[TSource,TKey,TElement] (TSource[] source, System.Func`2[T,TResult] keySelector, System.Func`2[T,TResult] elementSelector, System.Collections.Generic.IEqualityComparer`1[T] comparer) [0x00029] in <51e69041cf524a30b24fbf0827a0e545>:0 
+  at System.Linq.Enumerable.ToDictionary[TSource,TKey,TElement] (System.Collections.Generic.IEnumerable`1[T] source, System.Func`2[T,TResult] keySelector, System.Func`2[T,TResult] elementSelector, System.Collections.Generic.IEqualityComparer`1[T] comparer) [0x00051] in <51e69041cf524a30b24fbf0827a0e545>:0 
+  at System.Linq.Enumerable.ToDictionary[TSource,TKey,TElement] (System.Collections.Generic.IEnumerable`1[T] source, System.Func`2[T,TResult] keySelector, System.Func`2[T,TResult] elementSelector) [0x00000] in <51e69041cf524a30b24fbf0827a0e545>:0 
+  at UnityEditor.Scripting.ScriptCompilation.AssemblyGraphBuilder.Initialize (System.Collections.Generic.IReadOnlyCollection`1[T] assemblies, System.Collections.Generic.IReadOnlyCollection`1[T] customScriptAssemblyReferences) [0x00046] in <2f9d421960d84dffaa88793de0f4b5f3>:0 
+  at UnityEditor.Scripting.ScriptCompilation.AssemblyGraphBuilderFactory.GetOrCreate (System.String projectPath, System.Collections.Generic.IReadOnlyCollection`1[T] assemblies, System.Collections.Generic.IReadOnlyCollection`1[T] customScriptAssemblyReferences) [0x00038] in <2f9d421960d84dffaa88793de0f4b5f3>:0 
+  at UnityEditor.Scripting.ScriptCompilation.EditorCompilation.GetAssemblyGraphBuilder () [0x00027] in <2f9d421960d84dffaa88793de0f4b5f3>:0 
+  at UnityEditor.Scripting.ScriptCompilation.EditorCompilation.SetAllScripts (System.String[] allScripts) [0x0000d] in <2f9d421960d84dffaa88793de0f4b5f3>:0 
+  at UnityEditor.Scripting.ScriptCompilation.EditorCompilationInterface.SetAllScripts (System.String[] allScripts) [0x00006] in <2f9d421960d84dffaa88793de0f4b5f3>:0 
+
+[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Unable to send message (not connected to server process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Unable to send message (not connected to server process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  1.183 seconds
+Domain Reload Profiling: 2411ms
+	BeginReloadAssembly (245ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (13ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (75ms)
+	RebuildCommonClasses (34ms)
+	RebuildNativeTypeToScriptingClass (11ms)
+	initialDomainReloadingComplete (32ms)
+	LoadAllAssembliesAndSetupDomain (906ms)
+		LoadAssemblies (605ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (412ms)
+			TypeCache.Refresh (148ms)
+				TypeCache.ScanAssembly (130ms)
+			BuildScriptInfoCaches (243ms)
+			ResolveRequiredComponents (16ms)
+	FinalizeReload (1183ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (939ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (5ms)
+			SetLoadedEditorAssemblies (8ms)
+			BeforeProcessingInitializeOnLoad (137ms)
+			ProcessInitializeOnLoadAttributes (689ms)
+			ProcessInitializeOnLoadMethodAttributes (95ms)
+			AfterProcessingInitializeOnLoad (5ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (13ms)
+Refreshing native plugins compatible for Editor in 2.04 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 44 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 7979 unused Assets / (11.4 MB). Loaded Objects now: 8688.
+Memory consumption went from 173.4 MB to 162.0 MB.
+Total: 16.836700 ms (FindLiveObjects: 0.849900 ms CreateObjectMapping: 0.872400 ms MarkObjects: 6.379600 ms  DeleteObjects: 8.732400 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Import Request.
+  Time since last request: 223.811302 seconds.
+  path: Assets/_Unity Essentials/Scenes/7_Gallery_Scene.unity
+  artifactKey: Guid(4fe932b72c9c93b4898eb44cf57b643b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Unity Essentials/Scenes/7_Gallery_Scene.unity using Guid(4fe932b72c9c93b4898eb44cf57b643b) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '1b79973701c3ce800fe65b6ea319526d') in 0.0096493 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Prepare
+Folder 'Packages/com.unity.cinemachine/Editor/' contains multiple assembly definition files (Packages/com.unity.cinemachine/Editor/Unity.Cinemachine.Editor.asmdef)
+Folder 'Packages/com.unity.cinemachine/Editor/' contains multiple assembly definition files (Packages/com.unity.cinemachine/Editor/com.unity.cinemachine.Editor.asmdef)
+Folder 'Packages/com.unity.cinemachine/Runtime/' contains multiple assembly definition files (Packages/com.unity.cinemachine/Runtime/com.unity.cinemachine.asmdef)
+Folder 'Packages/com.unity.cinemachine/Runtime/' contains multiple assembly definition files (Packages/com.unity.cinemachine/Runtime/Unity.Cinemachine.asmdef)
+ArgumentException: An item with the same key has already been added. Key: ba8c092d026123a418fb4bfb797a7bd8
+  at System.Collections.Generic.Dictionary`2[TKey,TValue].TryInsert (TKey key, TValue value, System.Collections.Generic.InsertionBehavior behavior) [0x0015a] in <191a1970a53948f9819ac1d2e4f5c72e>:0 
+  at System.Collections.Generic.Dictionary`2[TKey,TValue].Add (TKey key, TValue value) [0x00000] in <191a1970a53948f9819ac1d2e4f5c72e>:0 
+  at System.Linq.Enumerable.ToDictionary[TSource,TKey,TElement] (TSource[] source, System.Func`2[T,TResult] keySelector, System.Func`2[T,TResult] elementSelector, System.Collections.Generic.IEqualityComparer`1[T] comparer) [0x00029] in <51e69041cf524a30b24fbf0827a0e545>:0 
+  at System.Linq.Enumerable.ToDictionary[TSource,TKey,TElement] (System.Collections.Generic.IEnumerable`1[T] source, System.Func`2[T,TResult] keySelector, System.Func`2[T,TResult] elementSelector, System.Collections.Generic.IEqualityComparer`1[T] comparer) [0x00051] in <51e69041cf524a30b24fbf0827a0e545>:0 
+  at System.Linq.Enumerable.ToDictionary[TSource,TKey,TElement] (System.Collections.Generic.IEnumerable`1[T] source, System.Func`2[T,TResult] keySelector, System.Func`2[T,TResult] elementSelector) [0x00000] in <51e69041cf524a30b24fbf0827a0e545>:0 
+  at UnityEditor.Scripting.ScriptCompilation.AssemblyGraphBuilder.Initialize (System.Collections.Generic.IReadOnlyCollection`1[T] assemblies, System.Collections.Generic.IReadOnlyCollection`1[T] customScriptAssemblyReferences) [0x00046] in <2f9d421960d84dffaa88793de0f4b5f3>:0 
+  at UnityEditor.Scripting.ScriptCompilation.AssemblyGraphBuilderFactory.GetOrCreate (System.String projectPath, System.Collections.Generic.IReadOnlyCollection`1[T] assemblies, System.Collections.Generic.IReadOnlyCollection`1[T] customScriptAssemblyReferences) [0x00038] in <2f9d421960d84dffaa88793de0f4b5f3>:0 
+  at UnityEditor.Scripting.ScriptCompilation.EditorCompilation.GetAssemblyGraphBuilder () [0x00027] in <2f9d421960d84dffaa88793de0f4b5f3>:0 
+  at UnityEditor.Scripting.ScriptCompilation.EditorCompilation.SetAllScripts (System.String[] allScripts) [0x0000d] in <2f9d421960d84dffaa88793de0f4b5f3>:0 
+  at UnityEditor.Scripting.ScriptCompilation.EditorCompilationInterface.SetAllScripts (System.String[] allScripts) [0x00006] in <2f9d421960d84dffaa88793de0f4b5f3>:0 
+
+Folder 'Packages/com.unity.cinemachine/Editor/' contains multiple assembly definition files (Packages/com.unity.cinemachine/Editor/Unity.Cinemachine.Editor.asmdef)
+Folder 'Packages/com.unity.cinemachine/Editor/' contains multiple assembly definition files (Packages/com.unity.cinemachine/Editor/com.unity.cinemachine.Editor.asmdef)
+Folder 'Packages/com.unity.cinemachine/Runtime/' contains multiple assembly definition files (Packages/com.unity.cinemachine/Runtime/com.unity.cinemachine.asmdef)
+Folder 'Packages/com.unity.cinemachine/Runtime/' contains multiple assembly definition files (Packages/com.unity.cinemachine/Runtime/Unity.Cinemachine.asmdef)
+ArgumentException: An item with the same key has already been added. Key: ba8c092d026123a418fb4bfb797a7bd8
+  at System.Collections.Generic.Dictionary`2[TKey,TValue].TryInsert (TKey key, TValue value, System.Collections.Generic.InsertionBehavior behavior) [0x0015a] in <191a1970a53948f9819ac1d2e4f5c72e>:0 
+  at System.Collections.Generic.Dictionary`2[TKey,TValue].Add (TKey key, TValue value) [0x00000] in <191a1970a53948f9819ac1d2e4f5c72e>:0 
+  at System.Linq.Enumerable.ToDictionary[TSource,TKey,TElement] (TSource[] source, System.Func`2[T,TResult] keySelector, System.Func`2[T,TResult] elementSelector, System.Collections.Generic.IEqualityComparer`1[T] comparer) [0x00029] in <51e69041cf524a30b24fbf0827a0e545>:0 
+  at System.Linq.Enumerable.ToDictionary[TSource,TKey,TElement] (System.Collections.Generic.IEnumerable`1[T] source, System.Func`2[T,TResult] keySelector, System.Func`2[T,TResult] elementSelector, System.Collections.Generic.IEqualityComparer`1[T] comparer) [0x00051] in <51e69041cf524a30b24fbf0827a0e545>:0 
+  at System.Linq.Enumerable.ToDictionary[TSource,TKey,TElement] (System.Collections.Generic.IEnumerable`1[T] source, System.Func`2[T,TResult] keySelector, System.Func`2[T,TResult] elementSelector) [0x00000] in <51e69041cf524a30b24fbf0827a0e545>:0 
+  at UnityEditor.Scripting.ScriptCompilation.AssemblyGraphBuilder.Initialize (System.Collections.Generic.IReadOnlyCollection`1[T] assemblies, System.Collections.Generic.IReadOnlyCollection`1[T] customScriptAssemblyReferences) [0x00046] in <2f9d421960d84dffaa88793de0f4b5f3>:0 
+  at UnityEditor.Scripting.ScriptCompilation.AssemblyGraphBuilderFactory.GetOrCreate (System.String projectPath, System.Collections.Generic.IReadOnlyCollection`1[T] assemblies, System.Collections.Generic.IReadOnlyCollection`1[T] customScriptAssemblyReferences) [0x00038] in <2f9d421960d84dffaa88793de0f4b5f3>:0 
+  at UnityEditor.Scripting.ScriptCompilation.EditorCompilation.GetAssemblyGraphBuilder () [0x00027] in <2f9d421960d84dffaa88793de0f4b5f3>:0 
+  at UnityEditor.Scripting.ScriptCompilation.EditorCompilation.SetAllScripts (System.String[] allScripts) [0x0000d] in <2f9d421960d84dffaa88793de0f4b5f3>:0 
+  at UnityEditor.Scripting.ScriptCompilation.EditorCompilationInterface.SetAllScripts (System.String[] allScripts) [0x00006] in <2f9d421960d84dffaa88793de0f4b5f3>:0 
+
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory is not a mono symbol file
+- Loaded All Assemblies, in  1.017 seconds
+Folder 'Packages/com.unity.cinemachine/Editor/' contains multiple assembly definition files (Packages/com.unity.cinemachine/Editor/Unity.Cinemachine.Editor.asmdef)
+Folder 'Packages/com.unity.cinemachine/Editor/' contains multiple assembly definition files (Packages/com.unity.cinemachine/Editor/com.unity.cinemachine.Editor.asmdef)
+Folder 'Packages/com.unity.cinemachine/Runtime/' contains multiple assembly definition files (Packages/com.unity.cinemachine/Runtime/com.unity.cinemachine.asmdef)
+Folder 'Packages/com.unity.cinemachine/Runtime/' contains multiple assembly definition files (Packages/com.unity.cinemachine/Runtime/Unity.Cinemachine.asmdef)
+ArgumentException: An item with the same key has already been added. Key: ba8c092d026123a418fb4bfb797a7bd8
+  at System.Collections.Generic.Dictionary`2[TKey,TValue].TryInsert (TKey key, TValue value, System.Collections.Generic.InsertionBehavior behavior) [0x0015a] in <191a1970a53948f9819ac1d2e4f5c72e>:0 
+  at System.Collections.Generic.Dictionary`2[TKey,TValue].Add (TKey key, TValue value) [0x00000] in <191a1970a53948f9819ac1d2e4f5c72e>:0 
+  at System.Linq.Enumerable.ToDictionary[TSource,TKey,TElement] (TSource[] source, System.Func`2[T,TResult] keySelector, System.Func`2[T,TResult] elementSelector, System.Collections.Generic.IEqualityComparer`1[T] comparer) [0x00029] in <51e69041cf524a30b24fbf0827a0e545>:0 
+  at System.Linq.Enumerable.ToDictionary[TSource,TKey,TElement] (System.Collections.Generic.IEnumerable`1[T] source, System.Func`2[T,TResult] keySelector, System.Func`2[T,TResult] elementSelector, System.Collections.Generic.IEqualityComparer`1[T] comparer) [0x00051] in <51e69041cf524a30b24fbf0827a0e545>:0 
+  at System.Linq.Enumerable.ToDictionary[TSource,TKey,TElement] (System.Collections.Generic.IEnumerable`1[T] source, System.Func`2[T,TResult] keySelector, System.Func`2[T,TResult] elementSelector) [0x00000] in <51e69041cf524a30b24fbf0827a0e545>:0 
+  at UnityEditor.Scripting.ScriptCompilation.AssemblyGraphBuilder.Initialize (System.Collections.Generic.IReadOnlyCollection`1[T] assemblies, System.Collections.Generic.IReadOnlyCollection`1[T] customScriptAssemblyReferences) [0x00046] in <2f9d421960d84dffaa88793de0f4b5f3>:0 
+  at UnityEditor.Scripting.ScriptCompilation.AssemblyGraphBuilderFactory.GetOrCreate (System.String projectPath, System.Collections.Generic.IReadOnlyCollection`1[T] assemblies, System.Collections.Generic.IReadOnlyCollection`1[T] customScriptAssemblyReferences) [0x00038] in <2f9d421960d84dffaa88793de0f4b5f3>:0 
+  at UnityEditor.Scripting.ScriptCompilation.EditorCompilation.GetAssemblyGraphBuilder () [0x00027] in <2f9d421960d84dffaa88793de0f4b5f3>:0 
+  at UnityEditor.Scripting.ScriptCompilation.EditorCompilation.SetAllScripts (System.String[] allScripts) [0x0000d] in <2f9d421960d84dffaa88793de0f4b5f3>:0 
+  at UnityEditor.Scripting.ScriptCompilation.EditorCompilationInterface.SetAllScripts (System.String[] allScripts) [0x00006] in <2f9d421960d84dffaa88793de0f4b5f3>:0 
+
+'Packages/com.unity.cinemachine/Editor/Obsolete/CinemachineVirtualCameraBaseEditor.cs' contains partial class of Unity.Object, exactly 1 of the partial classes needs to be in a file with the same filename. This is to know the one that can be referenced from ie. GameObjects
+'Packages/com.unity.cinemachine/Editor/Editors/CinemachineVirtualCameraBaseEditor.cs' contains partial class of Unity.Object, exactly 1 of the partial classes needs to be in a file with the same filename. This is to know the one that can be referenced from ie. GameObjects
+Refreshing native plugins compatible for Editor in 1.33 ms, found 4 plugins.
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Folder 'Packages/com.unity.cinemachine/Editor/' contains multiple assembly definition files (Packages/com.unity.cinemachine/Editor/Unity.Cinemachine.Editor.asmdef)
+Folder 'Packages/com.unity.cinemachine/Editor/' contains multiple assembly definition files (Packages/com.unity.cinemachine/Editor/com.unity.cinemachine.Editor.asmdef)
+Folder 'Packages/com.unity.cinemachine/Runtime/' contains multiple assembly definition files (Packages/com.unity.cinemachine/Runtime/com.unity.cinemachine.asmdef)
+Folder 'Packages/com.unity.cinemachine/Runtime/' contains multiple assembly definition files (Packages/com.unity.cinemachine/Runtime/Unity.Cinemachine.asmdef)
+ArgumentException: An item with the same key has already been added. Key: ba8c092d026123a418fb4bfb797a7bd8
+  at System.Collections.Generic.Dictionary`2[TKey,TValue].TryInsert (TKey key, TValue value, System.Collections.Generic.InsertionBehavior behavior) [0x0015a] in <191a1970a53948f9819ac1d2e4f5c72e>:0 
+  at System.Collections.Generic.Dictionary`2[TKey,TValue].Add (TKey key, TValue value) [0x00000] in <191a1970a53948f9819ac1d2e4f5c72e>:0 
+  at System.Linq.Enumerable.ToDictionary[TSource,TKey,TElement] (TSource[] source, System.Func`2[T,TResult] keySelector, System.Func`2[T,TResult] elementSelector, System.Collections.Generic.IEqualityComparer`1[T] comparer) [0x00029] in <51e69041cf524a30b24fbf0827a0e545>:0 
+  at System.Linq.Enumerable.ToDictionary[TSource,TKey,TElement] (System.Collections.Generic.IEnumerable`1[T] source, System.Func`2[T,TResult] keySelector, System.Func`2[T,TResult] elementSelector, System.Collections.Generic.IEqualityComparer`1[T] comparer) [0x00051] in <51e69041cf524a30b24fbf0827a0e545>:0 
+  at System.Linq.Enumerable.ToDictionary[TSource,TKey,TElement] (System.Collections.Generic.IEnumerable`1[T] source, System.Func`2[T,TResult] keySelector, System.Func`2[T,TResult] elementSelector) [0x00000] in <51e69041cf524a30b24fbf0827a0e545>:0 
+  at UnityEditor.Scripting.ScriptCompilation.AssemblyGraphBuilder.Initialize (System.Collections.Generic.IReadOnlyCollection`1[T] assemblies, System.Collections.Generic.IReadOnlyCollection`1[T] customScriptAssemblyReferences) [0x00046] in <2f9d421960d84dffaa88793de0f4b5f3>:0 
+  at UnityEditor.Scripting.ScriptCompilation.AssemblyGraphBuilderFactory.GetOrCreate (System.String projectPath, System.Collections.Generic.IReadOnlyCollection`1[T] assemblies, System.Collections.Generic.IReadOnlyCollection`1[T] customScriptAssemblyReferences) [0x00038] in <2f9d421960d84dffaa88793de0f4b5f3>:0 
+  at UnityEditor.Scripting.ScriptCompilation.EditorCompilation.GetAssemblyGraphBuilder () [0x00027] in <2f9d421960d84dffaa88793de0f4b5f3>:0 
+  at UnityEditor.Scripting.ScriptCompilation.EditorCompilation.SetAllScripts (System.String[] allScripts) [0x0000d] in <2f9d421960d84dffaa88793de0f4b5f3>:0 
+  at UnityEditor.Scripting.ScriptCompilation.EditorCompilationInterface.SetAllScripts (System.String[] allScripts) [0x00006] in <2f9d421960d84dffaa88793de0f4b5f3>:0 
+
+[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Unable to send message (not connected to server process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Unable to send message (not connected to server process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  1.065 seconds
+Domain Reload Profiling: 2084ms
+	BeginReloadAssembly (211ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (13ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (64ms)
+	RebuildCommonClasses (30ms)
+	RebuildNativeTypeToScriptingClass (11ms)
+	initialDomainReloadingComplete (28ms)
+	LoadAllAssembliesAndSetupDomain (738ms)
+		LoadAssemblies (518ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (311ms)
+			TypeCache.Refresh (15ms)
+				TypeCache.ScanAssembly (1ms)
+			BuildScriptInfoCaches (281ms)
+			ResolveRequiredComponents (11ms)
+	FinalizeReload (1066ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (892ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (3ms)
+			SetLoadedEditorAssemblies (5ms)
+			BeforeProcessingInitializeOnLoad (133ms)
+			ProcessInitializeOnLoadAttributes (663ms)
+			ProcessInitializeOnLoadMethodAttributes (84ms)
+			AfterProcessingInitializeOnLoad (4ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (12ms)
+Refreshing native plugins compatible for Editor in 1.56 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 44 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 8013 unused Assets / (10.4 MB). Loaded Objects now: 8725.
+Memory consumption went from 173.6 MB to 163.2 MB.
+Total: 11.916400 ms (FindLiveObjects: 0.752100 ms CreateObjectMapping: 0.821200 ms MarkObjects: 4.845500 ms  DeleteObjects: 5.496500 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Import Request.
+  Time since last request: 83.013290 seconds.
+  path: Assets/_Unity Essentials/Scenes/2_KidsRoom_3D_Scene.unity
+  artifactKey: Guid(0007c1bb4959e43b9a37f3a226bc0343) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Unity Essentials/Scenes/2_KidsRoom_3D_Scene.unity using Guid(0007c1bb4959e43b9a37f3a226bc0343) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '3d559a5b4cf97aecf173f8280a5180c5') in 0.00439 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.575592 seconds.
+  path: Assets/_Unity Essentials/Scenes/3_Kitchen_Audio_Scene.unity
+  artifactKey: Guid(6ddeb5bb8dda34b6183a30b9409cd6a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Unity Essentials/Scenes/3_Kitchen_Audio_Scene.unity using Guid(6ddeb5bb8dda34b6183a30b9409cd6a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '1d7ea4f5a465a09848527c20aceb7a67') in 0.0013901 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.396822 seconds.
+  path: Assets/_Unity Essentials/Scenes/4_LivingRoom_Programming_Scene.unity
+  artifactKey: Guid(a6368f7fda5ac4dca86952aebdc7d568) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Unity Essentials/Scenes/4_LivingRoom_Programming_Scene.unity using Guid(a6368f7fda5ac4dca86952aebdc7d568) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '5e078f5b89d7dd67983251393878ca91') in 0.0030815 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Prepare
+Folder 'Packages/com.unity.cinemachine/Editor/' contains multiple assembly definition files (Packages/com.unity.cinemachine/Editor/Unity.Cinemachine.Editor.asmdef)
+Folder 'Packages/com.unity.cinemachine/Editor/' contains multiple assembly definition files (Packages/com.unity.cinemachine/Editor/com.unity.cinemachine.Editor.asmdef)
+Folder 'Packages/com.unity.cinemachine/Runtime/' contains multiple assembly definition files (Packages/com.unity.cinemachine/Runtime/com.unity.cinemachine.asmdef)
+Folder 'Packages/com.unity.cinemachine/Runtime/' contains multiple assembly definition files (Packages/com.unity.cinemachine/Runtime/Unity.Cinemachine.asmdef)
+ArgumentException: An item with the same key has already been added. Key: ba8c092d026123a418fb4bfb797a7bd8
+  at System.Collections.Generic.Dictionary`2[TKey,TValue].TryInsert (TKey key, TValue value, System.Collections.Generic.InsertionBehavior behavior) [0x0015a] in <191a1970a53948f9819ac1d2e4f5c72e>:0 
+  at System.Collections.Generic.Dictionary`2[TKey,TValue].Add (TKey key, TValue value) [0x00000] in <191a1970a53948f9819ac1d2e4f5c72e>:0 
+  at System.Linq.Enumerable.ToDictionary[TSource,TKey,TElement] (TSource[] source, System.Func`2[T,TResult] keySelector, System.Func`2[T,TResult] elementSelector, System.Collections.Generic.IEqualityComparer`1[T] comparer) [0x00029] in <51e69041cf524a30b24fbf0827a0e545>:0 
+  at System.Linq.Enumerable.ToDictionary[TSource,TKey,TElement] (System.Collections.Generic.IEnumerable`1[T] source, System.Func`2[T,TResult] keySelector, System.Func`2[T,TResult] elementSelector, System.Collections.Generic.IEqualityComparer`1[T] comparer) [0x00051] in <51e69041cf524a30b24fbf0827a0e545>:0 
+  at System.Linq.Enumerable.ToDictionary[TSource,TKey,TElement] (System.Collections.Generic.IEnumerable`1[T] source, System.Func`2[T,TResult] keySelector, System.Func`2[T,TResult] elementSelector) [0x00000] in <51e69041cf524a30b24fbf0827a0e545>:0 
+  at UnityEditor.Scripting.ScriptCompilation.AssemblyGraphBuilder.Initialize (System.Collections.Generic.IReadOnlyCollection`1[T] assemblies, System.Collections.Generic.IReadOnlyCollection`1[T] customScriptAssemblyReferences) [0x00046] in <2f9d421960d84dffaa88793de0f4b5f3>:0 
+  at UnityEditor.Scripting.ScriptCompilation.AssemblyGraphBuilderFactory.GetOrCreate (System.String projectPath, System.Collections.Generic.IReadOnlyCollection`1[T] assemblies, System.Collections.Generic.IReadOnlyCollection`1[T] customScriptAssemblyReferences) [0x00038] in <2f9d421960d84dffaa88793de0f4b5f3>:0 
+  at UnityEditor.Scripting.ScriptCompilation.EditorCompilation.GetAssemblyGraphBuilder () [0x00027] in <2f9d421960d84dffaa88793de0f4b5f3>:0 
+  at UnityEditor.Scripting.ScriptCompilation.EditorCompilation.SetAllScripts (System.String[] allScripts) [0x0000d] in <2f9d421960d84dffaa88793de0f4b5f3>:0 
+  at UnityEditor.Scripting.ScriptCompilation.EditorCompilationInterface.SetAllScripts (System.String[] allScripts) [0x00006] in <2f9d421960d84dffaa88793de0f4b5f3>:0 
+
+Folder 'Packages/com.unity.cinemachine/Editor/' contains multiple assembly definition files (Packages/com.unity.cinemachine/Editor/Unity.Cinemachine.Editor.asmdef)
+Folder 'Packages/com.unity.cinemachine/Editor/' contains multiple assembly definition files (Packages/com.unity.cinemachine/Editor/com.unity.cinemachine.Editor.asmdef)
+Folder 'Packages/com.unity.cinemachine/Runtime/' contains multiple assembly definition files (Packages/com.unity.cinemachine/Runtime/com.unity.cinemachine.asmdef)
+Folder 'Packages/com.unity.cinemachine/Runtime/' contains multiple assembly definition files (Packages/com.unity.cinemachine/Runtime/Unity.Cinemachine.asmdef)
+ArgumentException: An item with the same key has already been added. Key: ba8c092d026123a418fb4bfb797a7bd8
+  at System.Collections.Generic.Dictionary`2[TKey,TValue].TryInsert (TKey key, TValue value, System.Collections.Generic.InsertionBehavior behavior) [0x0015a] in <191a1970a53948f9819ac1d2e4f5c72e>:0 
+  at System.Collections.Generic.Dictionary`2[TKey,TValue].Add (TKey key, TValue value) [0x00000] in <191a1970a53948f9819ac1d2e4f5c72e>:0 
+  at System.Linq.Enumerable.ToDictionary[TSource,TKey,TElement] (TSource[] source, System.Func`2[T,TResult] keySelector, System.Func`2[T,TResult] elementSelector, System.Collections.Generic.IEqualityComparer`1[T] comparer) [0x00029] in <51e69041cf524a30b24fbf0827a0e545>:0 
+  at System.Linq.Enumerable.ToDictionary[TSource,TKey,TElement] (System.Collections.Generic.IEnumerable`1[T] source, System.Func`2[T,TResult] keySelector, System.Func`2[T,TResult] elementSelector, System.Collections.Generic.IEqualityComparer`1[T] comparer) [0x00051] in <51e69041cf524a30b24fbf0827a0e545>:0 
+  at System.Linq.Enumerable.ToDictionary[TSource,TKey,TElement] (System.Collections.Generic.IEnumerable`1[T] source, System.Func`2[T,TResult] keySelector, System.Func`2[T,TResult] elementSelector) [0x00000] in <51e69041cf524a30b24fbf0827a0e545>:0 
+  at UnityEditor.Scripting.ScriptCompilation.AssemblyGraphBuilder.Initialize (System.Collections.Generic.IReadOnlyCollection`1[T] assemblies, System.Collections.Generic.IReadOnlyCollection`1[T] customScriptAssemblyReferences) [0x00046] in <2f9d421960d84dffaa88793de0f4b5f3>:0 
+  at UnityEditor.Scripting.ScriptCompilation.AssemblyGraphBuilderFactory.GetOrCreate (System.String projectPath, System.Collections.Generic.IReadOnlyCollection`1[T] assemblies, System.Collections.Generic.IReadOnlyCollection`1[T] customScriptAssemblyReferences) [0x00038] in <2f9d421960d84dffaa88793de0f4b5f3>:0 
+  at UnityEditor.Scripting.ScriptCompilation.EditorCompilation.GetAssemblyGraphBuilder () [0x00027] in <2f9d421960d84dffaa88793de0f4b5f3>:0 
+  at UnityEditor.Scripting.ScriptCompilation.EditorCompilation.SetAllScripts (System.String[] allScripts) [0x0000d] in <2f9d421960d84dffaa88793de0f4b5f3>:0 
+  at UnityEditor.Scripting.ScriptCompilation.EditorCompilationInterface.SetAllScripts (System.String[] allScripts) [0x00006] in <2f9d421960d84dffaa88793de0f4b5f3>:0 
+
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory is not a mono symbol file
+- Loaded All Assemblies, in  0.974 seconds
+Folder 'Packages/com.unity.cinemachine/Editor/' contains multiple assembly definition files (Packages/com.unity.cinemachine/Editor/Unity.Cinemachine.Editor.asmdef)
+Folder 'Packages/com.unity.cinemachine/Editor/' contains multiple assembly definition files (Packages/com.unity.cinemachine/Editor/com.unity.cinemachine.Editor.asmdef)
+Folder 'Packages/com.unity.cinemachine/Runtime/' contains multiple assembly definition files (Packages/com.unity.cinemachine/Runtime/com.unity.cinemachine.asmdef)
+Folder 'Packages/com.unity.cinemachine/Runtime/' contains multiple assembly definition files (Packages/com.unity.cinemachine/Runtime/Unity.Cinemachine.asmdef)
+ArgumentException: An item with the same key has already been added. Key: ba8c092d026123a418fb4bfb797a7bd8
+  at System.Collections.Generic.Dictionary`2[TKey,TValue].TryInsert (TKey key, TValue value, System.Collections.Generic.InsertionBehavior behavior) [0x0015a] in <191a1970a53948f9819ac1d2e4f5c72e>:0 
+  at System.Collections.Generic.Dictionary`2[TKey,TValue].Add (TKey key, TValue value) [0x00000] in <191a1970a53948f9819ac1d2e4f5c72e>:0 
+  at System.Linq.Enumerable.ToDictionary[TSource,TKey,TElement] (TSource[] source, System.Func`2[T,TResult] keySelector, System.Func`2[T,TResult] elementSelector, System.Collections.Generic.IEqualityComparer`1[T] comparer) [0x00029] in <51e69041cf524a30b24fbf0827a0e545>:0 
+  at System.Linq.Enumerable.ToDictionary[TSource,TKey,TElement] (System.Collections.Generic.IEnumerable`1[T] source, System.Func`2[T,TResult] keySelector, System.Func`2[T,TResult] elementSelector, System.Collections.Generic.IEqualityComparer`1[T] comparer) [0x00051] in <51e69041cf524a30b24fbf0827a0e545>:0 
+  at System.Linq.Enumerable.ToDictionary[TSource,TKey,TElement] (System.Collections.Generic.IEnumerable`1[T] source, System.Func`2[T,TResult] keySelector, System.Func`2[T,TResult] elementSelector) [0x00000] in <51e69041cf524a30b24fbf0827a0e545>:0 
+  at UnityEditor.Scripting.ScriptCompilation.AssemblyGraphBuilder.Initialize (System.Collections.Generic.IReadOnlyCollection`1[T] assemblies, System.Collections.Generic.IReadOnlyCollection`1[T] customScriptAssemblyReferences) [0x00046] in <2f9d421960d84dffaa88793de0f4b5f3>:0 
+  at UnityEditor.Scripting.ScriptCompilation.AssemblyGraphBuilderFactory.GetOrCreate (System.String projectPath, System.Collections.Generic.IReadOnlyCollection`1[T] assemblies, System.Collections.Generic.IReadOnlyCollection`1[T] customScriptAssemblyReferences) [0x00038] in <2f9d421960d84dffaa88793de0f4b5f3>:0 
+  at UnityEditor.Scripting.ScriptCompilation.EditorCompilation.GetAssemblyGraphBuilder () [0x00027] in <2f9d421960d84dffaa88793de0f4b5f3>:0 
+  at UnityEditor.Scripting.ScriptCompilation.EditorCompilation.SetAllScripts (System.String[] allScripts) [0x0000d] in <2f9d421960d84dffaa88793de0f4b5f3>:0 
+  at UnityEditor.Scripting.ScriptCompilation.EditorCompilationInterface.SetAllScripts (System.String[] allScripts) [0x00006] in <2f9d421960d84dffaa88793de0f4b5f3>:0 
+
+'Packages/com.unity.cinemachine/Editor/Obsolete/CinemachineVirtualCameraBaseEditor.cs' contains partial class of Unity.Object, exactly 1 of the partial classes needs to be in a file with the same filename. This is to know the one that can be referenced from ie. GameObjects
+'Packages/com.unity.cinemachine/Editor/Editors/CinemachineVirtualCameraBaseEditor.cs' contains partial class of Unity.Object, exactly 1 of the partial classes needs to be in a file with the same filename. This is to know the one that can be referenced from ie. GameObjects
+Refreshing native plugins compatible for Editor in 1.53 ms, found 4 plugins.
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Folder 'Packages/com.unity.cinemachine/Editor/' contains multiple assembly definition files (Packages/com.unity.cinemachine/Editor/Unity.Cinemachine.Editor.asmdef)
+Folder 'Packages/com.unity.cinemachine/Editor/' contains multiple assembly definition files (Packages/com.unity.cinemachine/Editor/com.unity.cinemachine.Editor.asmdef)
+Folder 'Packages/com.unity.cinemachine/Runtime/' contains multiple assembly definition files (Packages/com.unity.cinemachine/Runtime/com.unity.cinemachine.asmdef)
+Folder 'Packages/com.unity.cinemachine/Runtime/' contains multiple assembly definition files (Packages/com.unity.cinemachine/Runtime/Unity.Cinemachine.asmdef)
+ArgumentException: An item with the same key has already been added. Key: ba8c092d026123a418fb4bfb797a7bd8
+  at System.Collections.Generic.Dictionary`2[TKey,TValue].TryInsert (TKey key, TValue value, System.Collections.Generic.InsertionBehavior behavior) [0x0015a] in <191a1970a53948f9819ac1d2e4f5c72e>:0 
+  at System.Collections.Generic.Dictionary`2[TKey,TValue].Add (TKey key, TValue value) [0x00000] in <191a1970a53948f9819ac1d2e4f5c72e>:0 
+  at System.Linq.Enumerable.ToDictionary[TSource,TKey,TElement] (TSource[] source, System.Func`2[T,TResult] keySelector, System.Func`2[T,TResult] elementSelector, System.Collections.Generic.IEqualityComparer`1[T] comparer) [0x00029] in <51e69041cf524a30b24fbf0827a0e545>:0 
+  at System.Linq.Enumerable.ToDictionary[TSource,TKey,TElement] (System.Collections.Generic.IEnumerable`1[T] source, System.Func`2[T,TResult] keySelector, System.Func`2[T,TResult] elementSelector, System.Collections.Generic.IEqualityComparer`1[T] comparer) [0x00051] in <51e69041cf524a30b24fbf0827a0e545>:0 
+  at System.Linq.Enumerable.ToDictionary[TSource,TKey,TElement] (System.Collections.Generic.IEnumerable`1[T] source, System.Func`2[T,TResult] keySelector, System.Func`2[T,TResult] elementSelector) [0x00000] in <51e69041cf524a30b24fbf0827a0e545>:0 
+  at UnityEditor.Scripting.ScriptCompilation.AssemblyGraphBuilder.Initialize (System.Collections.Generic.IReadOnlyCollection`1[T] assemblies, System.Collections.Generic.IReadOnlyCollection`1[T] customScriptAssemblyReferences) [0x00046] in <2f9d421960d84dffaa88793de0f4b5f3>:0 
+  at UnityEditor.Scripting.ScriptCompilation.AssemblyGraphBuilderFactory.GetOrCreate (System.String projectPath, System.Collections.Generic.IReadOnlyCollection`1[T] assemblies, System.Collections.Generic.IReadOnlyCollection`1[T] customScriptAssemblyReferences) [0x00038] in <2f9d421960d84dffaa88793de0f4b5f3>:0 
+  at UnityEditor.Scripting.ScriptCompilation.EditorCompilation.GetAssemblyGraphBuilder () [0x00027] in <2f9d421960d84dffaa88793de0f4b5f3>:0 
+  at UnityEditor.Scripting.ScriptCompilation.EditorCompilation.SetAllScripts (System.String[] allScripts) [0x0000d] in <2f9d421960d84dffaa88793de0f4b5f3>:0 
+  at UnityEditor.Scripting.ScriptCompilation.EditorCompilationInterface.SetAllScripts (System.String[] allScripts) [0x00006] in <2f9d421960d84dffaa88793de0f4b5f3>:0 
+
+[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Unable to send message (not connected to server process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Unable to send message (not connected to server process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  1.080 seconds
+Domain Reload Profiling: 2053ms
+	BeginReloadAssembly (195ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (11ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (57ms)
+	RebuildCommonClasses (29ms)
+	RebuildNativeTypeToScriptingClass (11ms)
+	initialDomainReloadingComplete (27ms)
+	LoadAllAssembliesAndSetupDomain (711ms)
+		LoadAssemblies (510ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (287ms)
+			TypeCache.Refresh (9ms)
+				TypeCache.ScanAssembly (0ms)
+			BuildScriptInfoCaches (262ms)
+			ResolveRequiredComponents (12ms)
+	FinalizeReload (1080ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (882ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (4ms)
+			SetLoadedEditorAssemblies (5ms)
+			BeforeProcessingInitializeOnLoad (151ms)
+			ProcessInitializeOnLoadAttributes (632ms)
+			ProcessInitializeOnLoadMethodAttributes (86ms)
+			AfterProcessingInitializeOnLoad (5ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (14ms)
+Refreshing native plugins compatible for Editor in 1.55 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 44 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 8013 unused Assets / (10.9 MB). Loaded Objects now: 8728.
+Memory consumption went from 173.6 MB to 162.7 MB.
+Total: 13.458000 ms (FindLiveObjects: 0.835800 ms CreateObjectMapping: 0.887500 ms MarkObjects: 6.291900 ms  DeleteObjects: 5.441600 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Prepare
+Folder 'Packages/com.unity.cinemachine/Editor/' contains multiple assembly definition files (Packages/com.unity.cinemachine/Editor/Unity.Cinemachine.Editor.asmdef)
+Folder 'Packages/com.unity.cinemachine/Editor/' contains multiple assembly definition files (Packages/com.unity.cinemachine/Editor/com.unity.cinemachine.Editor.asmdef)
+Folder 'Packages/com.unity.cinemachine/Runtime/' contains multiple assembly definition files (Packages/com.unity.cinemachine/Runtime/com.unity.cinemachine.asmdef)
+Folder 'Packages/com.unity.cinemachine/Runtime/' contains multiple assembly definition files (Packages/com.unity.cinemachine/Runtime/Unity.Cinemachine.asmdef)
+ArgumentException: An item with the same key has already been added. Key: ba8c092d026123a418fb4bfb797a7bd8
+  at System.Collections.Generic.Dictionary`2[TKey,TValue].TryInsert (TKey key, TValue value, System.Collections.Generic.InsertionBehavior behavior) [0x0015a] in <191a1970a53948f9819ac1d2e4f5c72e>:0 
+  at System.Collections.Generic.Dictionary`2[TKey,TValue].Add (TKey key, TValue value) [0x00000] in <191a1970a53948f9819ac1d2e4f5c72e>:0 
+  at System.Linq.Enumerable.ToDictionary[TSource,TKey,TElement] (TSource[] source, System.Func`2[T,TResult] keySelector, System.Func`2[T,TResult] elementSelector, System.Collections.Generic.IEqualityComparer`1[T] comparer) [0x00029] in <51e69041cf524a30b24fbf0827a0e545>:0 
+  at System.Linq.Enumerable.ToDictionary[TSource,TKey,TElement] (System.Collections.Generic.IEnumerable`1[T] source, System.Func`2[T,TResult] keySelector, System.Func`2[T,TResult] elementSelector, System.Collections.Generic.IEqualityComparer`1[T] comparer) [0x00051] in <51e69041cf524a30b24fbf0827a0e545>:0 
+  at System.Linq.Enumerable.ToDictionary[TSource,TKey,TElement] (System.Collections.Generic.IEnumerable`1[T] source, System.Func`2[T,TResult] keySelector, System.Func`2[T,TResult] elementSelector) [0x00000] in <51e69041cf524a30b24fbf0827a0e545>:0 
+  at UnityEditor.Scripting.ScriptCompilation.AssemblyGraphBuilder.Initialize (System.Collections.Generic.IReadOnlyCollection`1[T] assemblies, System.Collections.Generic.IReadOnlyCollection`1[T] customScriptAssemblyReferences) [0x00046] in <2f9d421960d84dffaa88793de0f4b5f3>:0 
+  at UnityEditor.Scripting.ScriptCompilation.AssemblyGraphBuilderFactory.GetOrCreate (System.String projectPath, System.Collections.Generic.IReadOnlyCollection`1[T] assemblies, System.Collections.Generic.IReadOnlyCollection`1[T] customScriptAssemblyReferences) [0x00038] in <2f9d421960d84dffaa88793de0f4b5f3>:0 
+  at UnityEditor.Scripting.ScriptCompilation.EditorCompilation.GetAssemblyGraphBuilder () [0x00027] in <2f9d421960d84dffaa88793de0f4b5f3>:0 
+  at UnityEditor.Scripting.ScriptCompilation.EditorCompilation.SetAllScripts (System.String[] allScripts) [0x0000d] in <2f9d421960d84dffaa88793de0f4b5f3>:0 
+  at UnityEditor.Scripting.ScriptCompilation.EditorCompilationInterface.SetAllScripts (System.String[] allScripts) [0x00006] in <2f9d421960d84dffaa88793de0f4b5f3>:0 
+
+Folder 'Packages/com.unity.cinemachine/Editor/' contains multiple assembly definition files (Packages/com.unity.cinemachine/Editor/Unity.Cinemachine.Editor.asmdef)
+Folder 'Packages/com.unity.cinemachine/Editor/' contains multiple assembly definition files (Packages/com.unity.cinemachine/Editor/com.unity.cinemachine.Editor.asmdef)
+Folder 'Packages/com.unity.cinemachine/Runtime/' contains multiple assembly definition files (Packages/com.unity.cinemachine/Runtime/com.unity.cinemachine.asmdef)
+Folder 'Packages/com.unity.cinemachine/Runtime/' contains multiple assembly definition files (Packages/com.unity.cinemachine/Runtime/Unity.Cinemachine.asmdef)
+ArgumentException: An item with the same key has already been added. Key: ba8c092d026123a418fb4bfb797a7bd8
+  at System.Collections.Generic.Dictionary`2[TKey,TValue].TryInsert (TKey key, TValue value, System.Collections.Generic.InsertionBehavior behavior) [0x0015a] in <191a1970a53948f9819ac1d2e4f5c72e>:0 
+  at System.Collections.Generic.Dictionary`2[TKey,TValue].Add (TKey key, TValue value) [0x00000] in <191a1970a53948f9819ac1d2e4f5c72e>:0 
+  at System.Linq.Enumerable.ToDictionary[TSource,TKey,TElement] (TSource[] source, System.Func`2[T,TResult] keySelector, System.Func`2[T,TResult] elementSelector, System.Collections.Generic.IEqualityComparer`1[T] comparer) [0x00029] in <51e69041cf524a30b24fbf0827a0e545>:0 
+  at System.Linq.Enumerable.ToDictionary[TSource,TKey,TElement] (System.Collections.Generic.IEnumerable`1[T] source, System.Func`2[T,TResult] keySelector, System.Func`2[T,TResult] elementSelector, System.Collections.Generic.IEqualityComparer`1[T] comparer) [0x00051] in <51e69041cf524a30b24fbf0827a0e545>:0 
+  at System.Linq.Enumerable.ToDictionary[TSource,TKey,TElement] (System.Collections.Generic.IEnumerable`1[T] source, System.Func`2[T,TResult] keySelector, System.Func`2[T,TResult] elementSelector) [0x00000] in <51e69041cf524a30b24fbf0827a0e545>:0 
+  at UnityEditor.Scripting.ScriptCompilation.AssemblyGraphBuilder.Initialize (System.Collections.Generic.IReadOnlyCollection`1[T] assemblies, System.Collections.Generic.IReadOnlyCollection`1[T] customScriptAssemblyReferences) [0x00046] in <2f9d421960d84dffaa88793de0f4b5f3>:0 
+  at UnityEditor.Scripting.ScriptCompilation.AssemblyGraphBuilderFactory.GetOrCreate (System.String projectPath, System.Collections.Generic.IReadOnlyCollection`1[T] assemblies, System.Collections.Generic.IReadOnlyCollection`1[T] customScriptAssemblyReferences) [0x00038] in <2f9d421960d84dffaa88793de0f4b5f3>:0 
+  at UnityEditor.Scripting.ScriptCompilation.EditorCompilation.GetAssemblyGraphBuilder () [0x00027] in <2f9d421960d84dffaa88793de0f4b5f3>:0 
+  at UnityEditor.Scripting.ScriptCompilation.EditorCompilation.SetAllScripts (System.String[] allScripts) [0x0000d] in <2f9d421960d84dffaa88793de0f4b5f3>:0 
+  at UnityEditor.Scripting.ScriptCompilation.EditorCompilationInterface.SetAllScripts (System.String[] allScripts) [0x00006] in <2f9d421960d84dffaa88793de0f4b5f3>:0 
+
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory is not a mono symbol file
+- Loaded All Assemblies, in  0.966 seconds
+Folder 'Packages/com.unity.cinemachine/Editor/' contains multiple assembly definition files (Packages/com.unity.cinemachine/Editor/Unity.Cinemachine.Editor.asmdef)
+Folder 'Packages/com.unity.cinemachine/Editor/' contains multiple assembly definition files (Packages/com.unity.cinemachine/Editor/com.unity.cinemachine.Editor.asmdef)
+Folder 'Packages/com.unity.cinemachine/Runtime/' contains multiple assembly definition files (Packages/com.unity.cinemachine/Runtime/com.unity.cinemachine.asmdef)
+Folder 'Packages/com.unity.cinemachine/Runtime/' contains multiple assembly definition files (Packages/com.unity.cinemachine/Runtime/Unity.Cinemachine.asmdef)
+ArgumentException: An item with the same key has already been added. Key: ba8c092d026123a418fb4bfb797a7bd8
+  at System.Collections.Generic.Dictionary`2[TKey,TValue].TryInsert (TKey key, TValue value, System.Collections.Generic.InsertionBehavior behavior) [0x0015a] in <191a1970a53948f9819ac1d2e4f5c72e>:0 
+  at System.Collections.Generic.Dictionary`2[TKey,TValue].Add (TKey key, TValue value) [0x00000] in <191a1970a53948f9819ac1d2e4f5c72e>:0 
+  at System.Linq.Enumerable.ToDictionary[TSource,TKey,TElement] (TSource[] source, System.Func`2[T,TResult] keySelector, System.Func`2[T,TResult] elementSelector, System.Collections.Generic.IEqualityComparer`1[T] comparer) [0x00029] in <51e69041cf524a30b24fbf0827a0e545>:0 
+  at System.Linq.Enumerable.ToDictionary[TSource,TKey,TElement] (System.Collections.Generic.IEnumerable`1[T] source, System.Func`2[T,TResult] keySelector, System.Func`2[T,TResult] elementSelector, System.Collections.Generic.IEqualityComparer`1[T] comparer) [0x00051] in <51e69041cf524a30b24fbf0827a0e545>:0 
+  at System.Linq.Enumerable.ToDictionary[TSource,TKey,TElement] (System.Collections.Generic.IEnumerable`1[T] source, System.Func`2[T,TResult] keySelector, System.Func`2[T,TResult] elementSelector) [0x00000] in <51e69041cf524a30b24fbf0827a0e545>:0 
+  at UnityEditor.Scripting.ScriptCompilation.AssemblyGraphBuilder.Initialize (System.Collections.Generic.IReadOnlyCollection`1[T] assemblies, System.Collections.Generic.IReadOnlyCollection`1[T] customScriptAssemblyReferences) [0x00046] in <2f9d421960d84dffaa88793de0f4b5f3>:0 
+  at UnityEditor.Scripting.ScriptCompilation.AssemblyGraphBuilderFactory.GetOrCreate (System.String projectPath, System.Collections.Generic.IReadOnlyCollection`1[T] assemblies, System.Collections.Generic.IReadOnlyCollection`1[T] customScriptAssemblyReferences) [0x00038] in <2f9d421960d84dffaa88793de0f4b5f3>:0 
+  at UnityEditor.Scripting.ScriptCompilation.EditorCompilation.GetAssemblyGraphBuilder () [0x00027] in <2f9d421960d84dffaa88793de0f4b5f3>:0 
+  at UnityEditor.Scripting.ScriptCompilation.EditorCompilation.SetAllScripts (System.String[] allScripts) [0x0000d] in <2f9d421960d84dffaa88793de0f4b5f3>:0 
+  at UnityEditor.Scripting.ScriptCompilation.EditorCompilationInterface.SetAllScripts (System.String[] allScripts) [0x00006] in <2f9d421960d84dffaa88793de0f4b5f3>:0 
+
+'Packages/com.unity.cinemachine/Editor/Obsolete/CinemachineVirtualCameraBaseEditor.cs' contains partial class of Unity.Object, exactly 1 of the partial classes needs to be in a file with the same filename. This is to know the one that can be referenced from ie. GameObjects
+'Packages/com.unity.cinemachine/Editor/Editors/CinemachineVirtualCameraBaseEditor.cs' contains partial class of Unity.Object, exactly 1 of the partial classes needs to be in a file with the same filename. This is to know the one that can be referenced from ie. GameObjects
+Refreshing native plugins compatible for Editor in 1.49 ms, found 4 plugins.
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Folder 'Packages/com.unity.cinemachine/Editor/' contains multiple assembly definition files (Packages/com.unity.cinemachine/Editor/Unity.Cinemachine.Editor.asmdef)
+Folder 'Packages/com.unity.cinemachine/Editor/' contains multiple assembly definition files (Packages/com.unity.cinemachine/Editor/com.unity.cinemachine.Editor.asmdef)
+Folder 'Packages/com.unity.cinemachine/Runtime/' contains multiple assembly definition files (Packages/com.unity.cinemachine/Runtime/com.unity.cinemachine.asmdef)
+Folder 'Packages/com.unity.cinemachine/Runtime/' contains multiple assembly definition files (Packages/com.unity.cinemachine/Runtime/Unity.Cinemachine.asmdef)
+ArgumentException: An item with the same key has already been added. Key: ba8c092d026123a418fb4bfb797a7bd8
+  at System.Collections.Generic.Dictionary`2[TKey,TValue].TryInsert (TKey key, TValue value, System.Collections.Generic.InsertionBehavior behavior) [0x0015a] in <191a1970a53948f9819ac1d2e4f5c72e>:0 
+  at System.Collections.Generic.Dictionary`2[TKey,TValue].Add (TKey key, TValue value) [0x00000] in <191a1970a53948f9819ac1d2e4f5c72e>:0 
+  at System.Linq.Enumerable.ToDictionary[TSource,TKey,TElement] (TSource[] source, System.Func`2[T,TResult] keySelector, System.Func`2[T,TResult] elementSelector, System.Collections.Generic.IEqualityComparer`1[T] comparer) [0x00029] in <51e69041cf524a30b24fbf0827a0e545>:0 
+  at System.Linq.Enumerable.ToDictionary[TSource,TKey,TElement] (System.Collections.Generic.IEnumerable`1[T] source, System.Func`2[T,TResult] keySelector, System.Func`2[T,TResult] elementSelector, System.Collections.Generic.IEqualityComparer`1[T] comparer) [0x00051] in <51e69041cf524a30b24fbf0827a0e545>:0 
+  at System.Linq.Enumerable.ToDictionary[TSource,TKey,TElement] (System.Collections.Generic.IEnumerable`1[T] source, System.Func`2[T,TResult] keySelector, System.Func`2[T,TResult] elementSelector) [0x00000] in <51e69041cf524a30b24fbf0827a0e545>:0 
+  at UnityEditor.Scripting.ScriptCompilation.AssemblyGraphBuilder.Initialize (System.Collections.Generic.IReadOnlyCollection`1[T] assemblies, System.Collections.Generic.IReadOnlyCollection`1[T] customScriptAssemblyReferences) [0x00046] in <2f9d421960d84dffaa88793de0f4b5f3>:0 
+  at UnityEditor.Scripting.ScriptCompilation.AssemblyGraphBuilderFactory.GetOrCreate (System.String projectPath, System.Collections.Generic.IReadOnlyCollection`1[T] assemblies, System.Collections.Generic.IReadOnlyCollection`1[T] customScriptAssemblyReferences) [0x00038] in <2f9d421960d84dffaa88793de0f4b5f3>:0 
+  at UnityEditor.Scripting.ScriptCompilation.EditorCompilation.GetAssemblyGraphBuilder () [0x00027] in <2f9d421960d84dffaa88793de0f4b5f3>:0 
+  at UnityEditor.Scripting.ScriptCompilation.EditorCompilation.SetAllScripts (System.String[] allScripts) [0x0000d] in <2f9d421960d84dffaa88793de0f4b5f3>:0 
+  at UnityEditor.Scripting.ScriptCompilation.EditorCompilationInterface.SetAllScripts (System.String[] allScripts) [0x00006] in <2f9d421960d84dffaa88793de0f4b5f3>:0 
+
+[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Unable to send message (not connected to server process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Unable to send message (not connected to server process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  1.045 seconds
+Domain Reload Profiling: 2011ms
+	BeginReloadAssembly (195ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (12ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (54ms)
+	RebuildCommonClasses (30ms)
+	RebuildNativeTypeToScriptingClass (13ms)
+	initialDomainReloadingComplete (28ms)
+	LoadAllAssembliesAndSetupDomain (698ms)
+		LoadAssemblies (504ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (282ms)
+			TypeCache.Refresh (10ms)
+				TypeCache.ScanAssembly (0ms)
+			BuildScriptInfoCaches (257ms)
+			ResolveRequiredComponents (11ms)
+	FinalizeReload (1046ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (859ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (4ms)
+			SetLoadedEditorAssemblies (6ms)
+			BeforeProcessingInitializeOnLoad (135ms)
+			ProcessInitializeOnLoadAttributes (625ms)
+			ProcessInitializeOnLoadMethodAttributes (85ms)
+			AfterProcessingInitializeOnLoad (4ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (14ms)
+Refreshing native plugins compatible for Editor in 1.49 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 44 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 8013 unused Assets / (10.6 MB). Loaded Objects now: 8731.
+Memory consumption went from 173.7 MB to 163.1 MB.
+Total: 10.868700 ms (FindLiveObjects: 0.613400 ms CreateObjectMapping: 0.572300 ms MarkObjects: 4.678000 ms  DeleteObjects: 5.003700 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Import Request.
+  Time since last request: 140.174297 seconds.
+  path: Assets/_Unity Essentials/Source Files/Scripts/CheckCodeEntered.cs
+  artifactKey: Guid(51357fbc908ae41a1969ba8f2c421267) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Unity Essentials/Source Files/Scripts/CheckCodeEntered.cs using Guid(51357fbc908ae41a1969ba8f2c421267) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'eed231e9ed2478fb5c428735ab76b8f6') in 0.0038123 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Prepare
+Folder 'Packages/com.unity.cinemachine/Editor/' contains multiple assembly definition files (Packages/com.unity.cinemachine/Editor/Unity.Cinemachine.Editor.asmdef)
+Folder 'Packages/com.unity.cinemachine/Editor/' contains multiple assembly definition files (Packages/com.unity.cinemachine/Editor/com.unity.cinemachine.Editor.asmdef)
+Folder 'Packages/com.unity.cinemachine/Runtime/' contains multiple assembly definition files (Packages/com.unity.cinemachine/Runtime/com.unity.cinemachine.asmdef)
+Folder 'Packages/com.unity.cinemachine/Runtime/' contains multiple assembly definition files (Packages/com.unity.cinemachine/Runtime/Unity.Cinemachine.asmdef)
+ArgumentException: An item with the same key has already been added. Key: ba8c092d026123a418fb4bfb797a7bd8
+  at System.Collections.Generic.Dictionary`2[TKey,TValue].TryInsert (TKey key, TValue value, System.Collections.Generic.InsertionBehavior behavior) [0x0015a] in <191a1970a53948f9819ac1d2e4f5c72e>:0 
+  at System.Collections.Generic.Dictionary`2[TKey,TValue].Add (TKey key, TValue value) [0x00000] in <191a1970a53948f9819ac1d2e4f5c72e>:0 
+  at System.Linq.Enumerable.ToDictionary[TSource,TKey,TElement] (TSource[] source, System.Func`2[T,TResult] keySelector, System.Func`2[T,TResult] elementSelector, System.Collections.Generic.IEqualityComparer`1[T] comparer) [0x00029] in <51e69041cf524a30b24fbf0827a0e545>:0 
+  at System.Linq.Enumerable.ToDictionary[TSource,TKey,TElement] (System.Collections.Generic.IEnumerable`1[T] source, System.Func`2[T,TResult] keySelector, System.Func`2[T,TResult] elementSelector, System.Collections.Generic.IEqualityComparer`1[T] comparer) [0x00051] in <51e69041cf524a30b24fbf0827a0e545>:0 
+  at System.Linq.Enumerable.ToDictionary[TSource,TKey,TElement] (System.Collections.Generic.IEnumerable`1[T] source, System.Func`2[T,TResult] keySelector, System.Func`2[T,TResult] elementSelector) [0x00000] in <51e69041cf524a30b24fbf0827a0e545>:0 
+  at UnityEditor.Scripting.ScriptCompilation.AssemblyGraphBuilder.Initialize (System.Collections.Generic.IReadOnlyCollection`1[T] assemblies, System.Collections.Generic.IReadOnlyCollection`1[T] customScriptAssemblyReferences) [0x00046] in <2f9d421960d84dffaa88793de0f4b5f3>:0 
+  at UnityEditor.Scripting.ScriptCompilation.AssemblyGraphBuilderFactory.GetOrCreate (System.String projectPath, System.Collections.Generic.IReadOnlyCollection`1[T] assemblies, System.Collections.Generic.IReadOnlyCollection`1[T] customScriptAssemblyReferences) [0x00038] in <2f9d421960d84dffaa88793de0f4b5f3>:0 
+  at UnityEditor.Scripting.ScriptCompilation.EditorCompilation.GetAssemblyGraphBuilder () [0x00027] in <2f9d421960d84dffaa88793de0f4b5f3>:0 
+  at UnityEditor.Scripting.ScriptCompilation.EditorCompilation.SetAllScripts (System.String[] allScripts) [0x0000d] in <2f9d421960d84dffaa88793de0f4b5f3>:0 
+  at UnityEditor.Scripting.ScriptCompilation.EditorCompilationInterface.SetAllScripts (System.String[] allScripts) [0x00006] in <2f9d421960d84dffaa88793de0f4b5f3>:0 
+
+Folder 'Packages/com.unity.cinemachine/Editor/' contains multiple assembly definition files (Packages/com.unity.cinemachine/Editor/Unity.Cinemachine.Editor.asmdef)
+Folder 'Packages/com.unity.cinemachine/Editor/' contains multiple assembly definition files (Packages/com.unity.cinemachine/Editor/com.unity.cinemachine.Editor.asmdef)
+Folder 'Packages/com.unity.cinemachine/Runtime/' contains multiple assembly definition files (Packages/com.unity.cinemachine/Runtime/com.unity.cinemachine.asmdef)
+Folder 'Packages/com.unity.cinemachine/Runtime/' contains multiple assembly definition files (Packages/com.unity.cinemachine/Runtime/Unity.Cinemachine.asmdef)
+ArgumentException: An item with the same key has already been added. Key: ba8c092d026123a418fb4bfb797a7bd8
+  at System.Collections.Generic.Dictionary`2[TKey,TValue].TryInsert (TKey key, TValue value, System.Collections.Generic.InsertionBehavior behavior) [0x0015a] in <191a1970a53948f9819ac1d2e4f5c72e>:0 
+  at System.Collections.Generic.Dictionary`2[TKey,TValue].Add (TKey key, TValue value) [0x00000] in <191a1970a53948f9819ac1d2e4f5c72e>:0 
+  at System.Linq.Enumerable.ToDictionary[TSource,TKey,TElement] (TSource[] source, System.Func`2[T,TResult] keySelector, System.Func`2[T,TResult] elementSelector, System.Collections.Generic.IEqualityComparer`1[T] comparer) [0x00029] in <51e69041cf524a30b24fbf0827a0e545>:0 
+  at System.Linq.Enumerable.ToDictionary[TSource,TKey,TElement] (System.Collections.Generic.IEnumerable`1[T] source, System.Func`2[T,TResult] keySelector, System.Func`2[T,TResult] elementSelector, System.Collections.Generic.IEqualityComparer`1[T] comparer) [0x00051] in <51e69041cf524a30b24fbf0827a0e545>:0 
+  at System.Linq.Enumerable.ToDictionary[TSource,TKey,TElement] (System.Collections.Generic.IEnumerable`1[T] source, System.Func`2[T,TResult] keySelector, System.Func`2[T,TResult] elementSelector) [0x00000] in <51e69041cf524a30b24fbf0827a0e545>:0 
+  at UnityEditor.Scripting.ScriptCompilation.AssemblyGraphBuilder.Initialize (System.Collections.Generic.IReadOnlyCollection`1[T] assemblies, System.Collections.Generic.IReadOnlyCollection`1[T] customScriptAssemblyReferences) [0x00046] in <2f9d421960d84dffaa88793de0f4b5f3>:0 
+  at UnityEditor.Scripting.ScriptCompilation.AssemblyGraphBuilderFactory.GetOrCreate (System.String projectPath, System.Collections.Generic.IReadOnlyCollection`1[T] assemblies, System.Collections.Generic.IReadOnlyCollection`1[T] customScriptAssemblyReferences) [0x00038] in <2f9d421960d84dffaa88793de0f4b5f3>:0 
+  at UnityEditor.Scripting.ScriptCompilation.EditorCompilation.GetAssemblyGraphBuilder () [0x00027] in <2f9d421960d84dffaa88793de0f4b5f3>:0 
+  at UnityEditor.Scripting.ScriptCompilation.EditorCompilation.SetAllScripts (System.String[] allScripts) [0x0000d] in <2f9d421960d84dffaa88793de0f4b5f3>:0 
+  at UnityEditor.Scripting.ScriptCompilation.EditorCompilationInterface.SetAllScripts (System.String[] allScripts) [0x00006] in <2f9d421960d84dffaa88793de0f4b5f3>:0 
+
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory is not a mono symbol file
+- Loaded All Assemblies, in  1.026 seconds
+Folder 'Packages/com.unity.cinemachine/Editor/' contains multiple assembly definition files (Packages/com.unity.cinemachine/Editor/Unity.Cinemachine.Editor.asmdef)
+Folder 'Packages/com.unity.cinemachine/Editor/' contains multiple assembly definition files (Packages/com.unity.cinemachine/Editor/com.unity.cinemachine.Editor.asmdef)
+Folder 'Packages/com.unity.cinemachine/Runtime/' contains multiple assembly definition files (Packages/com.unity.cinemachine/Runtime/com.unity.cinemachine.asmdef)
+Folder 'Packages/com.unity.cinemachine/Runtime/' contains multiple assembly definition files (Packages/com.unity.cinemachine/Runtime/Unity.Cinemachine.asmdef)
+ArgumentException: An item with the same key has already been added. Key: ba8c092d026123a418fb4bfb797a7bd8
+  at System.Collections.Generic.Dictionary`2[TKey,TValue].TryInsert (TKey key, TValue value, System.Collections.Generic.InsertionBehavior behavior) [0x0015a] in <191a1970a53948f9819ac1d2e4f5c72e>:0 
+  at System.Collections.Generic.Dictionary`2[TKey,TValue].Add (TKey key, TValue value) [0x00000] in <191a1970a53948f9819ac1d2e4f5c72e>:0 
+  at System.Linq.Enumerable.ToDictionary[TSource,TKey,TElement] (TSource[] source, System.Func`2[T,TResult] keySelector, System.Func`2[T,TResult] elementSelector, System.Collections.Generic.IEqualityComparer`1[T] comparer) [0x00029] in <51e69041cf524a30b24fbf0827a0e545>:0 
+  at System.Linq.Enumerable.ToDictionary[TSource,TKey,TElement] (System.Collections.Generic.IEnumerable`1[T] source, System.Func`2[T,TResult] keySelector, System.Func`2[T,TResult] elementSelector, System.Collections.Generic.IEqualityComparer`1[T] comparer) [0x00051] in <51e69041cf524a30b24fbf0827a0e545>:0 
+  at System.Linq.Enumerable.ToDictionary[TSource,TKey,TElement] (System.Collections.Generic.IEnumerable`1[T] source, System.Func`2[T,TResult] keySelector, System.Func`2[T,TResult] elementSelector) [0x00000] in <51e69041cf524a30b24fbf0827a0e545>:0 
+  at UnityEditor.Scripting.ScriptCompilation.AssemblyGraphBuilder.Initialize (System.Collections.Generic.IReadOnlyCollection`1[T] assemblies, System.Collections.Generic.IReadOnlyCollection`1[T] customScriptAssemblyReferences) [0x00046] in <2f9d421960d84dffaa88793de0f4b5f3>:0 
+  at UnityEditor.Scripting.ScriptCompilation.AssemblyGraphBuilderFactory.GetOrCreate (System.String projectPath, System.Collections.Generic.IReadOnlyCollection`1[T] assemblies, System.Collections.Generic.IReadOnlyCollection`1[T] customScriptAssemblyReferences) [0x00038] in <2f9d421960d84dffaa88793de0f4b5f3>:0 
+  at UnityEditor.Scripting.ScriptCompilation.EditorCompilation.GetAssemblyGraphBuilder () [0x00027] in <2f9d421960d84dffaa88793de0f4b5f3>:0 
+  at UnityEditor.Scripting.ScriptCompilation.EditorCompilation.SetAllScripts (System.String[] allScripts) [0x0000d] in <2f9d421960d84dffaa88793de0f4b5f3>:0 
+  at UnityEditor.Scripting.ScriptCompilation.EditorCompilationInterface.SetAllScripts (System.String[] allScripts) [0x00006] in <2f9d421960d84dffaa88793de0f4b5f3>:0 
+
+'Packages/com.unity.cinemachine/Editor/Obsolete/CinemachineVirtualCameraBaseEditor.cs' contains partial class of Unity.Object, exactly 1 of the partial classes needs to be in a file with the same filename. This is to know the one that can be referenced from ie. GameObjects
+'Packages/com.unity.cinemachine/Editor/Editors/CinemachineVirtualCameraBaseEditor.cs' contains partial class of Unity.Object, exactly 1 of the partial classes needs to be in a file with the same filename. This is to know the one that can be referenced from ie. GameObjects
+Refreshing native plugins compatible for Editor in 2.29 ms, found 4 plugins.
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Folder 'Packages/com.unity.cinemachine/Editor/' contains multiple assembly definition files (Packages/com.unity.cinemachine/Editor/Unity.Cinemachine.Editor.asmdef)
+Folder 'Packages/com.unity.cinemachine/Editor/' contains multiple assembly definition files (Packages/com.unity.cinemachine/Editor/com.unity.cinemachine.Editor.asmdef)
+Folder 'Packages/com.unity.cinemachine/Runtime/' contains multiple assembly definition files (Packages/com.unity.cinemachine/Runtime/com.unity.cinemachine.asmdef)
+Folder 'Packages/com.unity.cinemachine/Runtime/' contains multiple assembly definition files (Packages/com.unity.cinemachine/Runtime/Unity.Cinemachine.asmdef)
+ArgumentException: An item with the same key has already been added. Key: ba8c092d026123a418fb4bfb797a7bd8
+  at System.Collections.Generic.Dictionary`2[TKey,TValue].TryInsert (TKey key, TValue value, System.Collections.Generic.InsertionBehavior behavior) [0x0015a] in <191a1970a53948f9819ac1d2e4f5c72e>:0 
+  at System.Collections.Generic.Dictionary`2[TKey,TValue].Add (TKey key, TValue value) [0x00000] in <191a1970a53948f9819ac1d2e4f5c72e>:0 
+  at System.Linq.Enumerable.ToDictionary[TSource,TKey,TElement] (TSource[] source, System.Func`2[T,TResult] keySelector, System.Func`2[T,TResult] elementSelector, System.Collections.Generic.IEqualityComparer`1[T] comparer) [0x00029] in <51e69041cf524a30b24fbf0827a0e545>:0 
+  at System.Linq.Enumerable.ToDictionary[TSource,TKey,TElement] (System.Collections.Generic.IEnumerable`1[T] source, System.Func`2[T,TResult] keySelector, System.Func`2[T,TResult] elementSelector, System.Collections.Generic.IEqualityComparer`1[T] comparer) [0x00051] in <51e69041cf524a30b24fbf0827a0e545>:0 
+  at System.Linq.Enumerable.ToDictionary[TSource,TKey,TElement] (System.Collections.Generic.IEnumerable`1[T] source, System.Func`2[T,TResult] keySelector, System.Func`2[T,TResult] elementSelector) [0x00000] in <51e69041cf524a30b24fbf0827a0e545>:0 
+  at UnityEditor.Scripting.ScriptCompilation.AssemblyGraphBuilder.Initialize (System.Collections.Generic.IReadOnlyCollection`1[T] assemblies, System.Collections.Generic.IReadOnlyCollection`1[T] customScriptAssemblyReferences) [0x00046] in <2f9d421960d84dffaa88793de0f4b5f3>:0 
+  at UnityEditor.Scripting.ScriptCompilation.AssemblyGraphBuilderFactory.GetOrCreate (System.String projectPath, System.Collections.Generic.IReadOnlyCollection`1[T] assemblies, System.Collections.Generic.IReadOnlyCollection`1[T] customScriptAssemblyReferences) [0x00038] in <2f9d421960d84dffaa88793de0f4b5f3>:0 
+  at UnityEditor.Scripting.ScriptCompilation.EditorCompilation.GetAssemblyGraphBuilder () [0x00027] in <2f9d421960d84dffaa88793de0f4b5f3>:0 
+  at UnityEditor.Scripting.ScriptCompilation.EditorCompilation.SetAllScripts (System.String[] allScripts) [0x0000d] in <2f9d421960d84dffaa88793de0f4b5f3>:0 
+  at UnityEditor.Scripting.ScriptCompilation.EditorCompilationInterface.SetAllScripts (System.String[] allScripts) [0x00006] in <2f9d421960d84dffaa88793de0f4b5f3>:0 
+
+[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Unable to send message (not connected to server process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Unable to send message (not connected to server process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  1.142 seconds
+Domain Reload Profiling: 2167ms
+	BeginReloadAssembly (212ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (14ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (62ms)
+	RebuildCommonClasses (30ms)
+	RebuildNativeTypeToScriptingClass (11ms)
+	initialDomainReloadingComplete (31ms)
+	LoadAllAssembliesAndSetupDomain (740ms)
+		LoadAssemblies (535ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (295ms)
+			TypeCache.Refresh (12ms)
+				TypeCache.ScanAssembly (1ms)
+			BuildScriptInfoCaches (266ms)
+			ResolveRequiredComponents (11ms)
+	FinalizeReload (1143ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (921ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (6ms)
+			SetLoadedEditorAssemblies (10ms)
+			BeforeProcessingInitializeOnLoad (174ms)
+			ProcessInitializeOnLoadAttributes (639ms)
+			ProcessInitializeOnLoadMethodAttributes (88ms)
+			AfterProcessingInitializeOnLoad (4ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (13ms)
+Refreshing native plugins compatible for Editor in 1.49 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 44 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 8013 unused Assets / (10.5 MB). Loaded Objects now: 8734.
+Memory consumption went from 173.6 MB to 163.1 MB.
+Total: 13.395500 ms (FindLiveObjects: 0.728700 ms CreateObjectMapping: 0.670400 ms MarkObjects: 5.714400 ms  DeleteObjects: 6.280800 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Import Request.
+  Time since last request: 57.936586 seconds.
+  path: Assets/_Unity Essentials/Source Files/Scripts/CheckCodeEntered.cs
+  artifactKey: Guid(51357fbc908ae41a1969ba8f2c421267) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Unity Essentials/Source Files/Scripts/CheckCodeEntered.cs using Guid(51357fbc908ae41a1969ba8f2c421267) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '1be097a8e51e0a9cfcc2d641429f1fe1') in 0.0027956 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+

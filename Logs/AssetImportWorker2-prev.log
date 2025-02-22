@@ -1,0 +1,472 @@
+Using pre-set license
+Built from '6000.0/release' branch; Version is '6000.0.35f1 (9a3bc604008a) revision 10107846'; Using compiler version '193933523'; Build Type 'Release'
+OS: 'Windows 11  (10.0.26100) 64bit CoreSingleLanguage' Language: 'tr' Physical Memory: 16122 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 1
+
+COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\6000.0.35f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker2
+-projectPath
+C:/Users/kaan-/OneDrive/Masaüstü/Essentials Project
+-logFile
+Logs/AssetImportWorker2.log
+-srvPort
+52568
+-job-worker-count
+5
+-background-job-worker-count
+8
+-gc-helper-count
+1
+Successfully changed project path to: C:/Users/kaan-/OneDrive/Masaüstü/Essentials Project
+C:/Users/kaan-/OneDrive/Masaüstü/Essentials Project
+[UnityMemory] Configuration Parameters - Can be set up in boot.config
+    "memorysetup-bucket-allocator-granularity=16"
+    "memorysetup-bucket-allocator-bucket-count=8"
+    "memorysetup-bucket-allocator-block-size=33554432"
+    "memorysetup-bucket-allocator-block-count=8"
+    "memorysetup-main-allocator-block-size=16777216"
+    "memorysetup-thread-allocator-block-size=16777216"
+    "memorysetup-gfx-main-allocator-block-size=16777216"
+    "memorysetup-gfx-thread-allocator-block-size=16777216"
+    "memorysetup-cache-allocator-block-size=4194304"
+    "memorysetup-typetree-allocator-block-size=2097152"
+    "memorysetup-profiler-bucket-allocator-granularity=16"
+    "memorysetup-profiler-bucket-allocator-bucket-count=8"
+    "memorysetup-profiler-bucket-allocator-block-size=33554432"
+    "memorysetup-profiler-bucket-allocator-block-count=8"
+    "memorysetup-profiler-allocator-block-size=16777216"
+    "memorysetup-profiler-editor-allocator-block-size=1048576"
+    "memorysetup-temp-allocator-size-main=16777216"
+    "memorysetup-job-temp-allocator-block-size=2097152"
+    "memorysetup-job-temp-allocator-block-size-background=1048576"
+    "memorysetup-job-temp-allocator-reduction-small-platforms=262144"
+    "memorysetup-allocator-temp-initial-block-size-main=262144"
+    "memorysetup-allocator-temp-initial-block-size-worker=262144"
+    "memorysetup-temp-allocator-size-background-worker=32768"
+    "memorysetup-temp-allocator-size-job-worker=262144"
+    "memorysetup-temp-allocator-size-preload-manager=33554432"
+    "memorysetup-temp-allocator-size-nav-mesh-worker=65536"
+    "memorysetup-temp-allocator-size-audio-worker=65536"
+    "memorysetup-temp-allocator-size-cloud-worker=32768"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gfx=262144"
+Player connection [20196]  Target information:
+
+Player connection [20196]  * "[IP] 192.168.1.53 [Port] 0 [Flags] 2 [Guid] 4158434480 [EditorId] 4158434480 [Version] 1048832 [Id] WindowsEditor(7,AJOOP) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
+
+Player connection [20196] Host joined multi-casting on [225.0.0.222:54997]...
+Player connection [20196] Host joined alternative multi-casting on [225.0.0.222:34997]...
+JobSystem: Creating JobQueue using job-worker-count value 5
+Input System module state changed to: Initialized.
+[Physics::Module] Initialized fallback backend.
+[Physics::Module] Id: 0xdecafbad
+Library Redirect Path: Library/
+[Physics::Module] Selected backend.
+[Physics::Module] Name: PhysX
+[Physics::Module] Id: 0xf2b8ea05
+[Physics::Module] SDK Version: 4.1.2
+[Physics::Module] Integration Version: 1.0.0
+[Physics::Module] Threading Mode: Multi-Threaded
+Refreshing native plugins compatible for Editor in 2.45 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 6000.0.35f1 (9a3bc604008a)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/6000.0.35f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/kaan-/OneDrive/Masaüstü/Essentials Project/Assets
+GfxDevice: creating device client; kGfxThreadingModeNonThreaded
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce RTX 4050 Laptop GPU (ID=0x28a1)
+    Vendor:   NVIDIA
+    VRAM:     5921 MB
+    Driver:   32.0.15.6636
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/6000.0.35f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/6000.0.35f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/6000.0.35f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56612
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/6000.0.35f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/6000.0.35f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.003095 seconds.
+- Loaded All Assemblies, in  0.342 seconds
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.293 seconds
+Domain Reload Profiling: 634ms
+	BeginReloadAssembly (116ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (0ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (1ms)
+	RebuildCommonClasses (28ms)
+	RebuildNativeTypeToScriptingClass (9ms)
+	initialDomainReloadingComplete (42ms)
+	LoadAllAssembliesAndSetupDomain (145ms)
+		LoadAssemblies (114ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (142ms)
+			TypeCache.Refresh (140ms)
+				TypeCache.ScanAssembly (126ms)
+			BuildScriptInfoCaches (0ms)
+			ResolveRequiredComponents (0ms)
+	FinalizeReload (293ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (254ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (26ms)
+			SetLoadedEditorAssemblies (4ms)
+			BeforeProcessingInitializeOnLoad (45ms)
+			ProcessInitializeOnLoadAttributes (135ms)
+			ProcessInitializeOnLoadMethodAttributes (43ms)
+			AfterProcessingInitializeOnLoad (0ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (0ms)
+========================================================================
+Worker process is ready to serve import requests
+Import Worker Mode flag is 0x00
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory is not a mono symbol file
+- Loaded All Assemblies, in  1.299 seconds
+Refreshing native plugins compatible for Editor in 1.51 ms, found 4 plugins.
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  1.253 seconds
+Domain Reload Profiling: 2546ms
+	BeginReloadAssembly (183ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (6ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (34ms)
+	RebuildCommonClasses (36ms)
+	RebuildNativeTypeToScriptingClass (11ms)
+	initialDomainReloadingComplete (37ms)
+	LoadAllAssembliesAndSetupDomain (1025ms)
+		LoadAssemblies (684ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (443ms)
+			TypeCache.Refresh (334ms)
+				TypeCache.ScanAssembly (309ms)
+			BuildScriptInfoCaches (96ms)
+			ResolveRequiredComponents (9ms)
+	FinalizeReload (1253ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (1101ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (3ms)
+			SetLoadedEditorAssemblies (6ms)
+			BeforeProcessingInitializeOnLoad (186ms)
+			ProcessInitializeOnLoadAttributes (779ms)
+			ProcessInitializeOnLoadMethodAttributes (122ms)
+			AfterProcessingInitializeOnLoad (4ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (5ms)
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.02 seconds
+Refreshing native plugins compatible for Editor in 1.42 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 244 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 7693 unused Assets / (5.4 MB). Loaded Objects now: 8428.
+Memory consumption went from 204.7 MB to 199.3 MB.
+Total: 8.847000 ms (FindLiveObjects: 0.600200 ms CreateObjectMapping: 0.689600 ms MarkObjects: 5.124600 ms  DeleteObjects: 2.431800 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 860773.208380 seconds.
+  path: Assets/QA_Books/Demo scene/Demo/Lightmap-0_comp_dir.png
+  artifactKey: Guid(9abb81e9ee38605408af929f806a00ac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/QA_Books/Demo scene/Demo/Lightmap-0_comp_dir.png using Guid(9abb81e9ee38605408af929f806a00ac) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'ec4f39a9dac9c040f626eeb989389cb3') in 0.0713106 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 14.475774 seconds.
+  path: Assets/3Dfrk/Frames with pictures/Textures/Paint_01.png
+  artifactKey: Guid(9660de3cf62147f45b25e22b6ab97ae2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3Dfrk/Frames with pictures/Textures/Paint_01.png using Guid(9660de3cf62147f45b25e22b6ab97ae2) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '7448891be496d39b7db4ee83ab084749') in 0.0384945 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 117.755143 seconds.
+  path: Assets/3Dfrk/Frames with pictures/Prefabs/Paint_02.prefab
+  artifactKey: Guid(f7c4d057f1187c64bad50c0d179a5f39) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3Dfrk/Frames with pictures/Prefabs/Paint_02.prefab using Guid(f7c4d057f1187c64bad50c0d179a5f39) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '4919d7f2b015ad0e81d1a5234529a038') in 0.6804495 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 10
+
+========================================================================
+Received Import Request.
+  Time since last request: 263.161008 seconds.
+  path: Assets/3Dfrk/Frames with pictures/Prefabs/Paint_01.prefab
+  artifactKey: Guid(eded3844e29c2ec40bc278e2cbd31279) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3Dfrk/Frames with pictures/Prefabs/Paint_01.prefab using Guid(eded3844e29c2ec40bc278e2cbd31279) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'b9c2af7f369274bac05a81d68f6cda45') in 0.3273742 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 11
+
+========================================================================
+Received Import Request.
+  Time since last request: 64.187906 seconds.
+  path: Assets/3Dfrk/Frames with pictures/Prefabs/Paint_01.prefab
+  artifactKey: Guid(eded3844e29c2ec40bc278e2cbd31279) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3Dfrk/Frames with pictures/Prefabs/Paint_01.prefab using Guid(eded3844e29c2ec40bc278e2cbd31279) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter)Shader error in 'Universal Render Pipeline/Complex Lit': Expected identifier as macro name. at ShaderConfig.cs.hlsl(4)
+Shader error in 'Universal Render Pipeline/Complex Lit': Unexpected directive '
+' at ShaderConfig.cs.hlsl(4)
+Shader error in 'Universal Render Pipeline/Complex Lit': Unterminated conditional expression. at ShaderConfig.cs.hlsl(5)
+Shader warning in 'Universal Render Pipeline/Complex Lit': Both vertex and fragment programs must be present in a shader snippet. Excluding it from compilation. at line 486
+Shader warning in 'Universal Render Pipeline/Complex Lit': Both vertex and fragment programs must be present in a shader snippet. Excluding it from compilation. at line 511
+Shader error in 'Universal Render Pipeline/Complex Lit': Expected identifier as macro name. at ShaderConfig.cs.hlsl(4)
+Shader error in 'Universal Render Pipeline/Complex Lit': Unexpected directive '
+' at ShaderConfig.cs.hlsl(4)
+Shader error in 'Universal Render Pipeline/Complex Lit': Unterminated conditional expression. at ShaderConfig.cs.hlsl(5)
+Shader warning in 'Universal Render Pipeline/Complex Lit': Both vertex and fragment programs must be present in a shader snippet. Excluding it from compilation. at line 486
+Shader warning in 'Universal Render Pipeline/Complex Lit': Both vertex and fragment programs must be present in a shader snippet. Excluding it from compilation. at line 511
+State comes from an incompatible keyword space
+Expected: From shader: 'Hidden/Universal/CoreBlit' Keyword count: 4 Keywords: STEREO_INSTANCING_ON UNITY_SINGLE_PASS_STEREO STEREO_MULTIVIEW_ON STEREO_CUBEMAP_RENDER_ON
+Actual: From shader: 'Hidden/InternalErrorShader' Keyword count: 7 Keywords: STEREO_INSTANCING_ON UNITY_SINGLE_PASS_STEREO STEREO_MULTIVIEW_ON STEREO_CUBEMAP_RENDER_ON FOG_LINEAR FOG_EXP FOG_EXP2
+0x00007ff84ec27e8d (Unity) StackWalker::ShowCallstack
+0x00007ff84ec37e49 (Unity) PlatformStacktrace::GetStacktrace
+0x00007ff84fea352e (Unity) Stacktrace::GetStacktrace
+0x00007ff85044b90f (Unity) DebugStringToFile
+0x00007ff85044b4ca (Unity) AssertImplementation
+0x00007ff84e8eaefe (Unity) keywords::LocalKeywordState::ReportIncompatibleKeywordSpace
+0x00007ff84e89b675 (Unity) Material::ResetKeywords
+0x00007ff84e660f51 (Unity) MaterialScripting::SetEnabledKeywords
+0x00007ff84dd9643c (Unity) Material_CUSTOM_SetEnabledKeywords
+0x00000254715d4ba8 (Mono JIT Code) (wrapper managed-to-native) UnityEngine.Material:SetEnabledKeywords_Injected (intptr,UnityEngine.Rendering.LocalKeyword[])
+0x00000254715d4a53 (Mono JIT Code) UnityEngine.Material:SetEnabledKeywords (UnityEngine.Rendering.LocalKeyword[])
+0x00000254715d489b (Mono JIT Code) UnityEngine.Material:set_enabledKeywords (UnityEngine.Rendering.LocalKeyword[])
+0x00000254715d3913 (Mono JIT Code) UnityEngine.Rendering.Universal.Internal.FinalBlitPass/<>c:<Render>b__17_0 (UnityEngine.Rendering.Universal.Internal.FinalBlitPass/PassData,UnityEngine.Rendering.RenderGraphModule.RasterGraphContext) (at ./Library/PackageCache/com.unity.render-pipelines.universal@39c80789bb81/Runtime/Passes/FinalBlitPass.cs:313)
+0x00000254715aca27 (Mono JIT Code) UnityEngine.Rendering.RenderGraphModule.RasterRenderGraphPass`1<PassData_REF>:Execute (UnityEngine.Rendering.RenderGraphModule.InternalRenderGraphContext) (at ./Library/PackageCache/com.unity.render-pipelines.core@a50b3570474f/Runtime/RenderGraph/RenderGraphPass.cs:603)
+0x0000025471593598 (Mono JIT Code) UnityEngine.Rendering.RenderGraphModule.NativeRenderPassCompiler.NativePassCompiler:ExecuteGraphNode (UnityEngine.Rendering.RenderGraphModule.InternalRenderGraphContext&,UnityEngine.Rendering.RenderGraphModule.RenderGraphResourceRegistry,UnityEngine.Rendering.RenderGraphModule.RenderGraphPass) (at ./Library/PackageCache/com.unity.render-pipelines.core@a50b3570474f/Runtime/RenderGraph/Compiler/NativePassCompiler.cs:1326)
+0x000002547159106b (Mono JIT Code) UnityEngine.Rendering.RenderGraphModule.NativeRenderPassCompiler.NativePassCompiler:ExecuteGraph (UnityEngine.Rendering.RenderGraphModule.InternalRenderGraphContext,UnityEngine.Rendering.RenderGraphModule.RenderGraphResourceRegistry,System.Collections.Generic.List`1<UnityEngine.Rendering.RenderGraphModule.RenderGraphPass>&) (at ./Library/PackageCache/com.unity.render-pipelines.core@a50b3570474f/Runtime/RenderGraph/Compiler/NativePassCompiler.cs:1428)
+0x000002547156f263 (Mono JIT Code) UnityEngine.Rendering.RenderGraphModule.RenderGraph:ExecuteNativeRenderGraph () (at ./Library/PackageCache/com.unity.render-pipelines.core@a50b3570474f/Runtime/RenderGraph/RenderGraph.Compiler.cs:42)
+0x000002547153f68b (Mono JIT Code) UnityEngine.Rendering.RenderGraphModule.RenderGraph:Execute () (at ./Library/PackageCache/com.unity.render-pipelines.core@a50b3570474f/Runtime/RenderGraph/RenderGraph.cs:1233)
+0x000002547153f0e3 (Mono JIT Code) UnityEngine.Rendering.RenderGraphModule.RenderGraph:EndRecordingAndExecute () (at ./Library/PackageCache/com.unity.render-pipelines.core@a50b3570474f/Runtime/RenderGraph/RenderGraph.cs:1196)
+0x00000254714a90bb (Mono JIT Code) UnityEngine.Rendering.Universal.UniversalRenderPipeline:RecordAndExecuteRenderGraph (UnityEngine.Rendering.RenderGraphModule.RenderGraph,UnityEngine.Rendering.ScriptableRenderContext,UnityEngine.Rendering.Universal.ScriptableRenderer,UnityEngine.Rendering.CommandBuffer,UnityEngine.Camera,string) (at ./Library/PackageCache/com.unity.render-pipelines.universal@39c80789bb81/Runtime/UniversalRenderPipelineRenderGraph.cs:25)
+0x0000025471472513 (Mono JIT Code) UnityEngine.Rendering.Universal.UniversalRenderPipeline:RenderSingleCamera (UnityEngine.Rendering.ScriptableRenderContext,UnityEngine.Rendering.Universal.UniversalCameraData) (at ./Library/PackageCache/com.unity.render-pipelines.universal@39c80789bb81/Runtime/UniversalRenderPipeline.cs:857)
+0x000002547145a8fb (Mono JIT Code) UnityEngine.Rendering.Universal.UniversalRenderPipeline:RenderSingleCameraInternal (UnityEngine.Rendering.ScriptableRenderContext,UnityEngine.Camera,UnityEngine.Rendering.Universal.UniversalAdditionalCameraData&) (at ./Library/PackageCache/com.unity.render-pipelines.universal@39c80789bb81/Runtime/UniversalRenderPipeline.cs:690)
+0x0000025471459eeb (Mono JIT Code) UnityEngine.Rendering.Universal.UniversalRenderPipeline:RenderSingleCameraInternal (UnityEngine.Rendering.ScriptableRenderContext,UnityEngine.Camera) (at ./Library/PackageCache/com.unity.render-pipelines.universal@39c80789bb81/Runtime/UniversalRenderPipeline.cs:665)
+0x0000025471442fab (Mono JIT Code) UnityEngine.Rendering.Universal.UniversalRenderPipeline:Render (UnityEngine.Rendering.ScriptableRenderContext,System.Collections.Generic.List`1<UnityEngine.Camera>) (at ./Library/PackageCache/com.unity.render-pipelines.universal@39c80789bb81/Runtime/UniversalRenderPipeline.cs:482)
+0x00000254714421d9 (Mono JIT Code) UnityEngine.Rendering.RenderPipeline:InternalRender (UnityEngine.Rendering.ScriptableRenderContext,System.Collections.Generic.List`1<UnityEngine.Camera>)
+0x000002547132047b (Mono JIT Code) UnityEngine.Rendering.RenderPipelineManager:DoRenderLoop_Internal (UnityEngine.Rendering.RenderPipelineAsset,intptr,UnityEngine.Object,Unity.Collections.LowLevel.Unsafe.AtomicSafetyHandle)
+0x0000025471320ae5 (Mono JIT Code) (wrapper runtime-invoke) <Module>:runtime_invoke_void_object_intptr_object_AtomicSafetyHandle (object,intptr,intptr,intptr)
+0x00007ff8976768de (mono-2.0-bdwgc) mono_jit_runtime_invoke (at C:/build/output/Unity-Technologies/mono/mono/mini/mini-runtime.c:3445)
+0x00007ff8975b8404 (mono-2.0-bdwgc) do_runtime_invoke (at C:/build/output/Unity-Technologies/mono/mono/metadata/object.c:3068)
+0x00007ff8975b84f0 (mono-2.0-bdwgc) mono_runtime_invoke (at C:/build/output/Unity-Technologies/mono/mono/metadata/object.c:3115)
+0x00007ff84eb4c1b4 (Unity) scripting_method_invoke
+0x00007ff84eb23f43 (Unity) ScriptingInvocation::Invoke
+0x00007ff84eb1f205 (Unity) ScriptingInvocation::Invoke<void>
+0x00007ff84eca9aaf (Unity) Scripting::UnityEngine::Rendering::RenderPipelineManagerProxy::DoRenderLoop_Internal
+0x00007ff84e70409c (Unity) ScriptableRenderContext::ExtractAndExecuteRenderPipeline
+0x00007ff84e44e08e (Unity) Camera::CustomRenderWithPipeline
+0x00007ff84e45b844 (Unity) Camera::StandaloneCustomRender
+0x00007ff84e45bab7 (Unity) Camera::StandaloneRender
+0x00007ff84e45510e (Unity) CameraScripting::Render
+0x00007ff84dd00ea7 (Unity) Camera_CUSTOM_Render
+0x000002547131fcc2 (Mono JIT Code) (wrapper managed-to-native) UnityEngine.Camera:Render_Injected (intptr)
+0x000002547131fb73 (Mono JIT Code) UnityEngine.Camera:Render ()
+0x000002547131e2bb (Mono JIT Code) UnityEditor.PreviewRenderUtility:Render (bool,bool)
+0x000002547131bdc3 (Mono JIT Code) UnityEditor.GameObjectInspector:DoRenderPreview (UnityEditor.GameObjectInspector/PreviewData)
+0x000002547130561b (Mono JIT Code) UnityEditor.GameObjectInspector:RenderStaticPreview (string,UnityEngine.Object[],int,int)
+0x00000254712b22fa (Mono JIT Code) UnityEditor.AssetPreviewUpdater:CreatePreview (UnityEngine.Object,UnityEngine.Object[],string,int,int)
+0x00000254712b196b (Mono JIT Code) UnityEditor.AssetPreviewUpdater:CreatePreviewForAsset (UnityEngine.Object,UnityEngine.Object[],string)
+0x00000254712b1bf0 (Mono JIT Code) (wrapper runtime-invoke) <Module>:runtime_invoke_object_object_object_object (object,intptr,intptr,intptr)
+0x00007ff8976768de (mono-2.0-bdwgc) mono_jit_runtime_invoke (at C:/build/output/Unity-Technologies/mono/mono/mini/mini-runtime.c:3445)
+0x00007ff8975b8404 (mono-2.0-bdwgc) do_runtime_invoke (at C:/build/output/Unity-Technologies/mono/mono/metadata/object.c:3068)
+0x00007ff8975b84f0 (mono-2.0-bdwgc) mono_runtime_invoke (at C:/build/output/Unity-Technologies/mono/mono/metadata/object.c:3115)
+0x00007ff84eb4c1b4 (Unity) scripting_method_invoke
+0x00007ff84eb23f43 (Unity) ScriptingInvocation::Invoke
+0x00007ff850025d0e (Unity) MonoCreateAssetPreview
+0x00007ff8500269b3 (Unity) WriteAssetPreviewToFile
+0x00007ff850026f8b (Unity) WritePreviews
+0x00007ff850024aa5 (Unity) PreviewImporter::GenerateAssetData
+0x00007ff850122b92 (Unity) ImportToObjects
+0x00007ff850121a08 (Unity) ImportAsset
+0x00007ff8500bf2d1 (Unity) AssetImportWorker::Import
+0x00007ff850071004 (Unity) <lambda_319826b16fd6fd0002c11364be971df3>::operator()
+0x00007ff85015604e (Unity) asio::detail::completion_handler<core::mutable_function<void __cdecl(void)>,asio::io_context::basic_executor_type<std::allocator<void>,0> >::do_complete
+0x00007ff8501438da (Unity) asio::detail::win_iocp_io_context::do_one
+0x00007ff850144c44 (Unity) asio::detail::win_iocp_io_context::run
+0x00007ff85015466c (Unity) IOService::Run
+0x00007ff85009c806 (Unity) RunAssetImportWorkerClientV2
+0x00007ff85009c8cb (Unity) RunAssetImporterV2
+0x00007ff84f8a7d78 (Unity) Application::InitializeProject
+0x00007ff84feadb45 (Unity) UnityMain
+0x00007ff663e72fba (Unity) __scrt_common_main_seh
+0x00007ff91aabe8d7 (KERNEL32) BaseThreadInitThunk
+0x00007ff91c41bf2c (ntdll) RtlUserThreadStart
+
+State comes from an incompatible keyword space
+Expected: From shader: 'Hidden/Universal/CoreBlit' Keyword count: 4 Keywords: STEREO_INSTANCING_ON UNITY_SINGLE_PASS_STEREO STEREO_MULTIVIEW_ON STEREO_CUBEMAP_RENDER_ON
+Actual: From shader: 'Hidden/InternalErrorShader' Keyword count: 7 Keywords: STEREO_INSTANCING_ON UNITY_SINGLE_PASS_STEREO STEREO_MULTIVIEW_ON STEREO_CUBEMAP_RENDER_ON FOG_LINEAR FOG_EXP FOG_EXP2
+0x00007ff84ec27e8d (Unity) StackWalker::ShowCallstack
+0x00007ff84ec37e49 (Unity) PlatformStacktrace::GetStacktrace
+0x00007ff84fea352e (Unity) Stacktrace::GetStacktrace
+0x00007ff85044b90f (Unity) DebugStringToFile
+0x00007ff85044b4ca (Unity) AssertImplementation
+0x00007ff84e8eaefe (Unity) keywords::LocalKeywordState::ReportIncompatibleKeywordSpace
+0x00007ff84e8eede3 (Unity) keywords::LocalSpace::KeywordNamesFromState
+0x00007ff84e89ef19 (Unity) SharedMaterialData::SetShader
+0x00007ff84e8a2479 (Unity) Material::UpdateHashesOnPropertyChange
+0x00007ff84e89fd5e (Unity) Material::SetTextureInternal
+0x00007ff84ddabae9 (Unity) Material_CUSTOM_SetTextureImpl
+0x00000254715d5236 (Mono JIT Code) (wrapper managed-to-native) UnityEngine.Material:SetTextureImpl_Injected (intptr,int,intptr)
+0x00000254715d50cb (Mono JIT Code) UnityEngine.Material:SetTextureImpl (int,UnityEngine.Texture)
+0x00000254715d4ed3 (Mono JIT Code) UnityEngine.Material:SetTexture (int,UnityEngine.Texture)
+0x00000254715d3a8b (Mono JIT Code) UnityEngine.Rendering.Universal.Internal.FinalBlitPass/<>c:<Render>b__17_0 (UnityEngine.Rendering.Universal.Internal.FinalBlitPass/PassData,UnityEngine.Rendering.RenderGraphModule.RasterGraphContext) (at ./Library/PackageCache/com.unity.render-pipelines.universal@39c80789bb81/Runtime/Passes/FinalBlitPass.cs:316)
+0x00000254715aca27 (Mono JIT Code) UnityEngine.Rendering.RenderGraphModule.RasterRenderGraphPass`1<PassData_REF>:Execute (UnityEngine.Rendering.RenderGraphModule.InternalRenderGraphContext) (at ./Library/PackageCache/com.unity.render-pipelines.core@a50b3570474f/Runtime/RenderGraph/RenderGraphPass.cs:603)
+0x0000025471593598 (Mono JIT Code) UnityEngine.Rendering.RenderGraphModule.NativeRenderPassCompiler.NativePassCompiler:ExecuteGraphNode (UnityEngine.Rendering.RenderGraphModule.InternalRenderGraphContext&,UnityEngine.Rendering.RenderGraphModule.RenderGraphResourceRegistry,UnityEngine.Rendering.RenderGraphModule.RenderGraphPass) (at ./Library/PackageCache/com.unity.render-pipelines.core@a50b3570474f/Runtime/RenderGraph/Compiler/NativePassCompiler.cs:1326)
+0x000002547159106b (Mono JIT Code) UnityEngine.Rendering.RenderGraphModule.NativeRenderPassCompiler.NativePassCompiler:ExecuteGraph (UnityEngine.Rendering.RenderGraphModule.InternalRenderGraphContext,UnityEngine.Rendering.RenderGraphModule.RenderGraphResourceRegistry,System.Collections.Generic.List`1<UnityEngine.Rendering.RenderGraphModule.RenderGraphPass>&) (at ./Library/PackageCache/com.unity.render-pipelines.core@a50b3570474f/Runtime/RenderGraph/Compiler/NativePassCompiler.cs:1428)
+0x000002547156f263 (Mono JIT Code) UnityEngine.Rendering.RenderGraphModule.RenderGraph:ExecuteNativeRenderGraph () (at ./Library/PackageCache/com.unity.render-pipelines.core@a50b3570474f/Runtime/RenderGraph/RenderGraph.Compiler.cs:42)
+0x000002547153f68b (Mono JIT Code) UnityEngine.Rendering.RenderGraphModule.RenderGraph:Execute () (at ./Library/PackageCache/com.unity.render-pipelines.core@a50b3570474f/Runtime/RenderGraph/RenderGraph.cs:1233)
+0x000002547153f0e3 (Mono JIT Code) UnityEngine.Rendering.RenderGraphModule.RenderGraph:EndRecordingAndExecute () (at ./Library/PackageCache/com.unity.render-pipelines.core@a50b3570474f/Runtime/RenderGraph/RenderGraph.cs:1196)
+0x00000254714a90bb (Mono JIT Code) UnityEngine.Rendering.Universal.UniversalRenderPipeline:RecordAndExecuteRenderGraph (UnityEngine.Rendering.RenderGraphModule.RenderGraph,UnityEngine.Rendering.ScriptableRenderContext,UnityEngine.Rendering.Universal.ScriptableRenderer,UnityEngine.Rendering.CommandBuffer,UnityEngine.Camera,string) (at ./Library/PackageCache/com.unity.render-pipelines.universal@39c80789bb81/Runtime/UniversalRenderPipelineRenderGraph.cs:25)
+0x0000025471472513 (Mono JIT Code) UnityEngine.Rendering.Universal.UniversalRenderPipeline:RenderSingleCamera (UnityEngine.Rendering.ScriptableRenderContext,UnityEngine.Rendering.Universal.UniversalCameraData) (at ./Library/PackageCache/com.unity.render-pipelines.universal@39c80789bb81/Runtime/UniversalRenderPipeline.cs:857)
+0x000002547145a8fb (Mono JIT Code) UnityEngine.Rendering.Universal.UniversalRenderPipeline:RenderSingleCameraInternal (UnityEngine.Rendering.ScriptableRenderContext,UnityEngine.Camera,UnityEngine.Rendering.Universal.UniversalAdditionalCameraData&) (at ./Library/PackageCache/com.unity.render-pipelines.universal@39c80789bb81/Runtime/UniversalRenderPipeline.cs:690)
+0x0000025471459eeb (Mono JIT Code) UnityEngine.Rendering.Universal.UniversalRenderPipeline:RenderSingleCameraInternal (UnityEngine.Rendering.ScriptableRenderContext,UnityEngine.Camera) (at ./Library/PackageCache/com.unity.render-pipelines.universal@39c80789bb81/Runtime/UniversalRenderPipeline.cs:665)
+0x0000025471442fab (Mono JIT Code) UnityEngine.Rendering.Universal.UniversalRenderPipeline:Render (UnityEngine.Rendering.ScriptableRenderContext,System.Collections.Generic.List`1<UnityEngine.Camera>) (at ./Library/PackageCache/com.unity.render-pipelines.universal@39c80789bb81/Runtime/UniversalRenderPipeline.cs:482)
+0x00000254714421d9 (Mono JIT Code) UnityEngine.Rendering.RenderPipeline:InternalRender (UnityEngine.Rendering.ScriptableRenderContext,System.Collections.Generic.List`1<UnityEngine.Camera>)
+0x000002547132047b (Mono JIT Code) UnityEngine.Rendering.RenderPipelineManager:DoRenderLoop_Internal (UnityEngine.Rendering.RenderPipelineAsset,intptr,UnityEngine.Object,Unity.Collections.LowLevel.Unsafe.AtomicSafetyHandle)
+0x0000025471320ae5 (Mono JIT Code) (wrapper runtime-invoke) <Module>:runtime_invoke_void_object_intptr_object_AtomicSafetyHandle (object,intptr,intptr,intptr)
+0x00007ff8976768de (mono-2.0-bdwgc) mono_jit_runtime_invoke (at C:/build/output/Unity-Technologies/mono/mono/mini/mini-runtime.c:3445)
+0x00007ff8975b8404 (mono-2.0-bdwgc) do_runtime_invoke (at C:/build/output/Unity-Technologies/mono/mono/metadata/object.c:3068)
+0x00007ff8975b84f0 (mono-2.0-bdwgc) mono_runtime_invoke (at C:/build/output/Unity-Technologies/mono/mono/metadata/object.c:3115)
+0x00007ff84eb4c1b4 (Unity) scripting_method_invoke
+0x00007ff84eb23f43 (Unity) ScriptingInvocation::Invoke
+0x00007ff84eb1f205 (Unity) ScriptingInvocation::Invoke<void>
+0x00007ff84eca9aaf (Unity) Scripting::UnityEngine::Rendering::RenderPipelineManagerProxy::DoRenderLoop_Internal
+0x00007ff84e70409c (Unity) ScriptableRenderContext::ExtractAndExecuteRenderPipeline
+0x00007ff84e44e08e (Unity) Camera::CustomRenderWithPipeline
+0x00007ff84e45b844 (Unity) Camera::StandaloneCustomRender
+0x00007ff84e45bab7 (Unity) Camera::StandaloneRender
+0x00007ff84e45510e (Unity) CameraScripting::Render
+0x00007ff84dd00ea7 (Unity) Camera_CUSTOM_Render
+0x000002547131fcc2 (Mono JIT Code) (wrapper managed-to-native) UnityEngine.Camera:Render_Injected (intptr)
+0x000002547131fb73 (Mono JIT Code) UnityEngine.Camera:Render ()
+0x000002547131e2bb (Mono JIT Code) UnityEditor.PreviewRenderUtility:Render (bool,bool)
+0x000002547131bdc3 (Mono JIT Code) UnityEditor.GameObjectInspector:DoRenderPreview (UnityEditor.GameObjectInspector/PreviewData)
+0x000002547130561b (Mono JIT Code) UnityEditor.GameObjectInspector:RenderStaticPreview (string,UnityEngine.Object[],int,int)
+0x00000254712b22fa (Mono JIT Code) UnityEditor.AssetPreviewUpdater:CreatePreview (UnityEngine.Object,UnityEngine.Object[],string,int,int)
+0x00000254712b196b (Mono JIT Code) UnityEditor.AssetPreviewUpdater:CreatePreviewForAsset (UnityEngine.Object,UnityEngine.Object[],string)
+0x00000254712b1bf0 (Mono JIT Code) (wrapper runtime-invoke) <Module>:runtime_invoke_object_object_object_object (object,intptr,intptr,intptr)
+0x00007ff8976768de (mono-2.0-bdwgc) mono_jit_runtime_invoke (at C:/build/output/Unity-Technologies/mono/mono/mini/mini-runtime.c:3445)
+0x00007ff8975b8404 (mono-2.0-bdwgc) do_runtime_invoke (at C:/build/output/Unity-Technologies/mono/mono/metadata/object.c:3068)
+0x00007ff8975b84f0 (mono-2.0-bdwgc) mono_runtime_invoke (at C:/build/output/Unity-Technologies/mono/mono/metadata/object.c:3115)
+0x00007ff84eb4c1b4 (Unity) scripting_method_invoke
+0x00007ff84eb23f43 (Unity) ScriptingInvocation::Invoke
+0x00007ff850025d0e (Unity) MonoCreateAssetPreview
+0x00007ff8500269b3 (Unity) WriteAssetPreviewToFile
+0x00007ff850026f8b (Unity) WritePreviews
+0x00007ff850024aa5 (Unity) PreviewImporter::GenerateAssetData
+0x00007ff850122b92 (Unity) ImportToObjects
+0x00007ff850121a08 (Unity) ImportAsset
+0x00007ff8500bf2d1 (Unity) AssetImportWorker::Import
+0x00007ff850071004 (Unity) <lambda_319826b16fd6fd0002c11364be971df3>::operator()
+0x00007ff85015604e (Unity) asio::detail::completion_handler<core::mutable_function<void __cdecl(void)>,asio::io_context::basic_executor_type<std::allocator<void>,0> >::do_complete
+0x00007ff8501438da (Unity) asio::detail::win_iocp_io_context::do_one
+0x00007ff850144c44 (Unity) asio::detail::win_iocp_io_context::run
+0x00007ff85015466c (Unity) IOService::Run
+0x00007ff85009c806 (Unity) RunAssetImportWorkerClientV2
+0x00007ff85009c8cb (Unity) RunAssetImporterV2
+0x00007ff84f8a7d78 (Unity) Application::InitializeProject
+0x00007ff84feadb45 (Unity) UnityMain
+0x00007ff663e72fba (Unity) __scrt_common_main_seh
+0x00007ff91aabe8d7 (KERNEL32) BaseThreadInitThunk
+0x00007ff91c41bf2c (ntdll) RtlUserThreadStart
+
+Shader error in 'Universal Render Pipeline/Complex Lit': Expected identifier as macro name. at ShaderConfig.cs.hlsl(4)
+Shader error in 'Universal Render Pipeline/Complex Lit': Unexpected directive '
+' at ShaderConfig.cs.hlsl(4)
+Shader error in 'Universal Render Pipeline/Complex Lit': Unterminated conditional expression. at ShaderConfig.cs.hlsl(5)
+Shader warning in 'Universal Render Pipeline/Complex Lit': Both vertex and fragment programs must be present in a shader snippet. Excluding it from compilation. at line 486
+Shader warning in 'Universal Render Pipeline/Complex Lit': Both vertex and fragment programs must be present in a shader snippet. Excluding it from compilation. at line 511
+Shader error in 'Universal Render Pipeline/Complex Lit': Expected identifier as macro name. at ShaderConfig.cs.hlsl(4)
+Shader error in 'Universal Render Pipeline/Complex Lit': Unexpected directive '
+' at ShaderConfig.cs.hlsl(4)
+Shader error in 'Universal Render Pipeline/Complex Lit': Unterminated conditional expression. at ShaderConfig.cs.hlsl(5)
+Shader warning in 'Universal Render Pipeline/Complex Lit': Both vertex and fragment programs must be present in a shader snippet. Excluding it from compilation. at line 486
+Shader warning in 'Universal Render Pipeline/Complex Lit': Both vertex and fragment programs must be present in a shader snippet. Excluding it from compilation. at line 511
+RenderingCommandBuffer: shader Hidden/Universal Render Pipeline/ScreenSpaceAmbientOcclusion: invalid pass index 3 in DrawProcedural
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.Rendering.ScriptableRenderContext:Submit ()
+UnityEngine.Rendering.Universal.UniversalRenderPipeline:RenderSingleCamera (UnityEngine.Rendering.ScriptableRenderContext,UnityEngine.Rendering.Universal.UniversalCameraData) (at ./Library/PackageCache/com.unity.render-pipelines.universal@39c80789bb81/Runtime/UniversalRenderPipeline.cs:887)
+UnityEngine.Rendering.Universal.UniversalRenderPipeline:RenderSingleCameraInternal (UnityEngine.Rendering.ScriptableRenderContext,UnityEngine.Camera,UnityEngine.Rendering.Universal.UniversalAdditionalCameraData&) (at ./Library/PackageCache/com.unity.render-pipelines.universal@39c80789bb81/Runtime/UniversalRenderPipeline.cs:690)
+UnityEngine.Rendering.Universal.UniversalRenderPipeline:RenderSingleCameraInternal (UnityEngine.Rendering.ScriptableRenderContext,UnityEngine.Camera) (at ./Library/PackageCache/com.unity.render-pipelines.universal@39c80789bb81/Runtime/UniversalRenderPipeline.cs:665)
+UnityEngine.Rendering.Universal.UniversalRenderPipeline:Render (UnityEngine.Rendering.ScriptableRenderContext,System.Collections.Generic.List`1<UnityEngine.Camera>) (at ./Library/PackageCache/com.unity.render-pipelines.universal@39c80789bb81/Runtime/UniversalRenderPipeline.cs:482)
+UnityEngine.Rendering.RenderPipeline:InternalRender (UnityEngine.Rendering.ScriptableRenderContext,System.Collections.Generic.List`1<UnityEngine.Camera>)
+UnityEngine.Rendering.RenderPipelineManager:DoRenderLoop_Internal (UnityEngine.Rendering.RenderPipelineAsset,intptr,UnityEngine.Object,Unity.Collections.LowLevel.Unsafe.AtomicSafetyHandle)
+UnityEngine.Camera:Render ()
+UnityEditor.PreviewRenderUtility:Render (bool,bool)
+UnityEditor.GameObjectInspector:DoRenderPreview (UnityEditor.GameObjectInspector/PreviewData)
+UnityEditor.GameObjectInspector:RenderStaticPreview (string,UnityEngine.Object[],int,int)
+UnityEditor.AssetPreviewUpdater:CreatePreview (UnityEngine.Object,UnityEngine.Object[],string,int,int)
+UnityEditor.AssetPreviewUpdater:CreatePreviewForAsset (UnityEngine.Object,UnityEngine.Object[],string)
+
+[./Library/PackageCache/com.unity.render-pipelines.universal@39c80789bb81/Runtime/UniversalRenderPipeline.cs line 887]
+
+Shader error in 'Universal Render Pipeline/Complex Lit': Expected identifier as macro name. at ShaderConfig.cs.hlsl(4)
+Shader error in 'Universal Render Pipeline/Complex Lit': Unexpected directive '
+' at ShaderConfig.cs.hlsl(4)
+Shader error in 'Universal Render Pipeline/Complex Lit': Unterminated conditional expression. at ShaderConfig.cs.hlsl(5)
+Shader warning in 'Universal Render Pipeline/Complex Lit': Both vertex and fragment programs must be present in a shader snippet. Excluding it from compilation. at line 486
+Shader warning in 'Universal Render Pipeline/Complex Lit': Both vertex and fragment programs must be present in a shader snippet. Excluding it from compilation. at line 511
+Shader error in 'Universal Render Pipeline/Complex Lit': Expected identifier as macro name. at ShaderConfig.cs.hlsl(4)
+Shader error in 'Universal Render Pipeline/Complex Lit': Unexpected directive '
+' at ShaderConfig.cs.hlsl(4)
+Shader error in 'Universal Render Pipeline/Complex Lit': Unterminated conditional expression. at ShaderConfig.cs.hlsl(5)
+Shader warning in 'Universal Render Pipeline/Complex Lit': Both vertex and fragment programs must be present in a shader snippet. Excluding it from compilation. at line 486
+Shader warning in 'Universal Render Pipeline/Complex Lit': Both vertex and fragment programs must be present in a shader snippet. Excluding it from compilation. at line 511
+RenderingCommandBuffer: shader Hidden/Universal/CoreBlit: invalid pass index 23 in DrawProcedural
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.Rendering.ScriptableRenderContext:Submit ()
+UnityEngine.Rendering.Universal.UniversalRenderPipeline:RenderSingleCamera (UnityEngine.Rendering.ScriptableRenderContext,UnityEngine.Rendering.Universal.UniversalCameraData) (at ./Library/PackageCache/com.unity.render-pipelines.universal@39c80789bb81/Runtime/UniversalRenderPipeline.cs:887)
+UnityEngine.Rendering.Universal.UniversalRenderPipeline:RenderSingleCameraInternal (UnityEngine.Rendering.ScriptableRenderContext,UnityEngine.Camera,UnityEngine.Rendering.Universal.UniversalAdditionalCameraData&) (at ./Library/PackageCache/com.unity.render-pipelines.universal@39c80789bb81/Runtime/UniversalRenderPipeline.cs:690)
+UnityEngine.Rendering.Universal.UniversalRenderPipeline:RenderSingleCameraInternal (UnityEngine.Rendering.ScriptableRenderContext,UnityEngine.Camera) (at ./Library/PackageCache/com.unity.render-pipelines.universal@39c80789bb81/Runtime/UniversalRenderPipeline.cs:665)
+UnityEngine.Rendering.Universal.UniversalRenderPipeline:Render (UnityEngine.Rendering.ScriptableRenderContext,System.Collections.Generic.List`1<UnityEngine.Camera>) (at ./Library/PackageCache/com.unity.render-pipelines.universal@39c80789bb81/Runtime/UniversalRenderPipeline.cs:482)
+UnityEngine.Rendering.RenderPipeline:InternalRender (UnityEngine.Rendering.ScriptableRenderContext,System.Collections.Generic.List`1<UnityEngine.Camera>)
+UnityEngine.Rendering.RenderPipelineManager:DoRenderLoop_Internal (UnityEngine.Rendering.RenderPipelineAsset,intptr,UnityEngine.Object,Unity.Collections.LowLevel.Unsafe.AtomicSafetyHandle)
+UnityEngine.Camera:Render ()
+UnityEditor.PreviewRenderUtility:Render (bool,bool)
+UnityEditor.GameObjectInspector:DoRenderPreview (UnityEditor.GameObjectInspector/PreviewData)
+UnityEditor.GameObjectInspector:RenderStaticPreview (string,UnityEngine.Object[],int,int)
+UnityEditor.AssetPreviewUpdater:CreatePreview (UnityEngine.Object,UnityEngine.Object[],string,int,int)
+UnityEditor.AssetPreviewUpdater:CreatePreviewForAsset (UnityEngine.Object,UnityEngine.Object[],string)
+
+[./Library/PackageCache/com.unity.render-pipelines.universal@39c80789bb81/Runtime/UniversalRenderPipeline.cs line 887]
+
+Shader error in 'Hidden/Universal Render Pipeline/CopyDepth': Expected identifier as macro name. at ShaderConfig.cs.hlsl(4)
+Shader error in 'Hidden/Universal Render Pipeline/CopyDepth': Unexpected directive '
+' at ShaderConfig.cs.hlsl(4)
+Shader error in 'Hidden/Universal Render Pipeline/CopyDepth': Unterminated conditional expression. at ShaderConfig.cs.hlsl(5)
+Shader error in 'Hidden/Universal Render Pipeline/CopyDepth': Expected identifier as macro name. at ShaderConfig.cs.hlsl(4)
+Shader error in 'Hidden/Universal Render Pipeline/CopyDepth': Unexpected directive '
+' at ShaderConfig.cs.hlsl(4)
+Shader error in 'Hidden/Universal Render Pipeline/CopyDepth': Unterminated conditional expression. at ShaderConfig.cs.hlsl(5)
+ -> (artifact id: '4f231120060bd644cd5828ddc159ff9f') in 0.9511908 seconds
+Number of updated asset objects reloaded before import = 94Number of asset objects unloaded after import = 11
+
+========================================================================
+Received Import Request.
+  Time since last request: 16.543532 seconds.
+  path: Assets/_Unity Essentials/Scenes/7_Gallery_Scene.unity
+  artifactKey: Guid(4fe932b72c9c93b4898eb44cf57b643b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Unity Essentials/Scenes/7_Gallery_Scene.unity using Guid(4fe932b72c9c93b4898eb44cf57b643b) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'c2e6cafd06e959ec584c7f5e0a0d2ac2') in 0.0023983 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
